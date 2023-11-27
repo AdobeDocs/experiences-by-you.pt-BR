@@ -1,16 +1,16 @@
 ---
 title: Campanha por você
-description: Conteúdo gerado pelo cliente
+description: O Campaign by You apresenta conteúdo gerado por usuários diários que atingiram um nível de conhecimento especializado e influência com seu conhecimento do Adobe Campaign.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
 thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 34%
+source-wordcount: '226'
+ht-degree: 30%
 
 ---
 
