@@ -52,7 +52,7 @@ Um guia de governança serve como a fonte da verdade dos requisitos de configura
 
 ### Etapa 2: identificar os elementos a serem incluídos no [!DNL [!DNL Marketo Engage]] Documentação e [!DNL Changelogs]
 
-O formato varia de uma plataforma baseada em nuvem para um documento compartilhado. Você pode projetar o formato que atenda às necessidades da sua organização. [Aqui está uma documentação simples e um modelo do Excel para changelog](/help/marketo-tutorial-herdado-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) cobrindo os elementos importantes com os quais você pode começar. As melhorias incluem:
+O formato varia de uma plataforma baseada em nuvem para um documento compartilhado. Você pode projetar o formato que atenda às necessidades da sua organização. [Aqui está uma documentação simples e um modelo do Excel para changelog](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) cobrindo os elementos importantes com os quais você pode começar. As melhorias incluem:
 
 * Documentação
    * Nome do modelo de programa
@@ -94,7 +94,7 @@ Programe revisões regulares de sua documentação para garantir que ela permane
 
 ## O que está por vir?
 
-Introdução ao baixar este [modelo simples](/help/marketo-tutorial-herdado-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
+Introdução ao baixar este [modelo simples](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 
 Siga as etapas acima para desenvolver seu guia de governança e documentação. Ao trabalhar durante o processo, lembre-se das seguintes regras básicas:
 
