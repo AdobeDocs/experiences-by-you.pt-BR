@@ -1,18 +1,18 @@
 ---
-user-guide-title: Experiências por você
-user-guide-description: conteúdo gerado pelo cliente do Adobe
-breadcrumb-title: Experiências por você
+user-guide-title: Experiences by You
+user-guide-description: Conteúdo gerado pelo cliente da Adobe
+breadcrumb-title: Experiences by You
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 68%
+ht-degree: 75%
 
 ---
 
 
-# Experiências por você {#experiences-by-you}
+# Experiences by You {#experiences-by-you}
 
-+ [Experiências por você](/help/overview.md)
++ [Experiences by You](/help/overview.md)
 
 + [!DNL Analytics] por você {#analytics}
    + [Visão geral](/help/analytics/overview.md)
