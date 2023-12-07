@@ -1,6 +1,6 @@
 ---
-title: Marketo by You
-description: O Marketo by You apresenta conteúdo gerado por usuários comuns que atingiram um nível de conhecimento e influência com o conhecimento do Adobe Marketo.
+title: Marketo por você
+description: O Marketo by You apresenta conteúdo gerado por usuários, criado por pessoas comuns que atingiram um nível de expertise e influência com o seu conhecimento do Adobe Marketo.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 24%
+source-wordcount: '205'
+ht-degree: 16%
 
 ---
 
@@ -40,7 +40,7 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
     </a>
     </div>
     <p>
-    <em>Saiba como navegar na interface e se familiarize com a plataforma do [!DNL Marketo Engage].</em>
+    <em>Saiba como navegar na interface do usuário e se familiarizar com o seu estilo de vida [!DNL Marketo Engage] plataforma.</em>
     <p>
   </td>
   <td>
@@ -58,11 +58,11 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Programas de email" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="Programas de e-mail" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
-    <strong>Programas de email</strong>
+    <strong>Programas de e-mail</strong>
     </a>
     </div>
     <p>

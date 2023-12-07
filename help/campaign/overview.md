@@ -1,6 +1,6 @@
 ---
-title: Campanha por você
-description: O Campaign by You apresenta conteúdo gerado por usuários diários que atingiram um nível de conhecimento especializado e influência com seu conhecimento do Adobe Campaign.
+title: Campaign por você
+description: O Campaign by You apresenta conteúdo gerado por usuários, criado por pessoas comuns que atingiram um nível de expertise e influência com o seu conhecimento do Adobe Campaign.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -9,8 +9,8 @@ thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 30%
+source-wordcount: '195'
+ht-degree: 26%
 
 ---
 
@@ -50,7 +50,7 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>Solução de problemas para profissionais de marketing: 5 erros comuns de fluxo de trabalho e entrega</strong>
+    <strong>Solução de problemas para profissionais de marketing: 5 erros comuns de fluxo de trabalho e delivery</strong>
     </a>
     </div>
     <p>
@@ -63,7 +63,7 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>Dez práticas recomendadas para o sucesso de profissionais de marketing no Adobe Campaign</strong>
+    <strong>Dez práticas recomendadas para o sucesso do Adobe Campaign para profissionais de marketing</strong>
     </a>
     </div>
     <p>

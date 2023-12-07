@@ -1,6 +1,6 @@
 ---
-title: Analytics by You
-description: O Analytics by You apresenta conteúdo gerado pelo usuário, criado por usuários comuns que atingiram um nível de conhecimento especializado e influência com seu conhecimento do Adobe Analytics.
+title: Analytics por você
+description: O Analytics by You apresenta conteúdo gerado por usuários, criado por pessoas comuns que atingiram um nível de expertise e influência com o seu conhecimento do Adobe Analytics.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 21%
+source-wordcount: '196'
+ht-degree: 23%
 
 ---
 
