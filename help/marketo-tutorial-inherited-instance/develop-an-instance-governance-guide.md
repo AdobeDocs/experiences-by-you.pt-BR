@@ -11,10 +11,10 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 26805f8f9edf3a3a3a38c4cb954e07378f13920d
 workflow-type: tm+mt
-source-wordcount: '933'
-ht-degree: 1%
+source-wordcount: '905'
+ht-degree: 0%
 
 ---
 
@@ -52,13 +52,13 @@ Um guia de governança serve como a fonte da verdade dos requisitos de configura
 
 ### Etapa 2: identificar os elementos a serem incluídos no [!DNL [!DNL Marketo Engage]] Documentação e [!DNL Changelogs]
 
-O formato varia de uma plataforma baseada em nuvem para um documento compartilhado. Você pode projetar o formato que atenda às necessidades da sua organização. [Aqui está uma documentação simples e um modelo do Excel para changelog](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) cobrindo os elementos importantes com os quais você pode começar. As melhorias incluem:
+O formato varia de uma plataforma baseada em nuvem para um documento compartilhado. Você pode projetar o formato que atenda às necessidades da sua organização. [Aqui está uma documentação simples e um modelo do Excel para changelog](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) abordando os elementos importantes com os quais você pode começar a trabalhar. As melhorias incluem:
 
 * Documentação
    * Nome do modelo de programa
    * Canal
    * Data da criação
-   * Criada por
+   * Criado por
    * Finalidade do programa
    * Status
    * Vincular ao modelo do programa
