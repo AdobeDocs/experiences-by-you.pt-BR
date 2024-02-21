@@ -1,22 +1,22 @@
 ---
-user-guide-title: Experiences by You
+user-guide-title: Experiências por você
 user-guide-description: Conteúdo gerado pelo cliente da Adobe
-breadcrumb-title: Experiences by You
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+breadcrumb-title: Experiências por você
+source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 75%
+source-wordcount: '293'
+ht-degree: 64%
 
 ---
 
 
-# Experiences by You {#experiences-by-you}
+# Experiências por você {#experiences-by-you}
 
-+ [Experiences by You](/help/overview.md)
++ [Experiências por você](/help/overview.md)
 
 + [!DNL Analytics] por você {#analytics}
    + [Visão geral](/help/analytics/overview.md)
-   + Introdução ao [!DNL Analytics]{#intro-to-analytics}
+   + Introdução ao [!DNL Analytics] {#intro-to-analytics}
       + Transição de outras plataformas {#transitioning-from-other-platforms}
          + [Transição de [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
@@ -63,7 +63,7 @@ ht-degree: 75%
    + [!DNL Campaign Standard] {#campaign-standard}
       + [Solução de problemas para profissionais de marketing](/help/campaign/acs/troubleshooting-for-marketers.md)
    + Estratégia e liderança de pensamento{#strategy}
-      + [Dez práticas recomendadas para o sucesso de profissionais de marketing no  [!DNL Adobe Campaign] ](/help/campaign/10-best-practices-for-marketers.md)
+      + [Dez práticas recomendadas para [!DNL Adobe Campaign] sucesso para profissionais de marketing](/help/campaign/10-best-practices-for-marketers.md)
 + Experience Manager por você {#experience-manager}
    + [Visão geral](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
@@ -73,8 +73,10 @@ ht-degree: 75%
          + [Dicas e truques do especialista em AEM: Sessão 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
    + AEM as a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] Playbook de integração](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
-      + [[!DNL Cloud Manager] Tipos de ambientes](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
-      + [[!DNL Cloud Manager] Interface do usuário](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + [[!DNL Cloud Manager] Tipos de ambiente](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
+      + [Interface do [!DNL Cloud Manager]](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + Práticas recomendadas {#cloud-manager-best-practices}
+         + [Utilização de logs no Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] por você {#marketo-engage}
    + [Visão geral](/help/marketo/overview.md)
    + Fundamentos {#fundamentals}
