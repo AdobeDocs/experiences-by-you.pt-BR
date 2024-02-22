@@ -2,10 +2,10 @@
 user-guide-title: Experiências por você
 user-guide-description: Conteúdo gerado pelo cliente da Adobe
 breadcrumb-title: Experiências por você
-source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
+source-git-commit: 90e94736bc5f29829211cb954f6b9d54684c8eb7
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 64%
+source-wordcount: '297'
+ht-degree: 63%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 64%
          + [Explore o potencial do compartilhamento somente para visualização](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + Dicas e truques {#tips-and-tricks}
          + [Dicas e truques de clique com o botão direito do mouse para gerar fluxos de trabalho mais eficientes](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags - seu assistente pessoal](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + Administração {#administration}
       + Principais habilidades do administrador {#key-admin-skills}
          + [Criação de uma comunidade fortalecida](/help/analytics/administration/key-admin-skills/empowered-community.md)
