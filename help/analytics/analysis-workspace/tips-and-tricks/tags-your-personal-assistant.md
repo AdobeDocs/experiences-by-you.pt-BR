@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: 718a4fcd0ae06f544d1a78926b0c4d13cda8808a
+source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Odeio estourar sua bolha, mas tente ir embora ***Adobe Analytics*** depois que v
 
 Então, esse é o jogo desde o primeiro dia, mas e se pudéssemos mudar as regras?
 
-E se pudéssemos criar nosso próprio assistente pessoal para trocar essas funções?
+E se pudéssemos criar nosso próprio assistente pessoal para mudar essas regras para sempre?
 
 Sério, o que estamos falando aqui, é TAGS!  Isso mesmo!!  É nosso amigo, a hashtag, antes conhecida como &quot;número&quot; e &quot;sinal da libra&quot;, como vimos em nossos telefones.  Aqueles de nós músicos até chamam isso de &quot;afiado&quot;.
 
