@@ -2,10 +2,10 @@
 user-guide-title: Experiências por você
 user-guide-description: Conteúdo gerado pelo cliente da Adobe
 breadcrumb-title: Experiências por você
-source-git-commit: bd723c4ed43fb4d11ae21cb70bba6202bac94266
+source-git-commit: ba46ad10c20184083076950883f169df09ca7778
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 61%
+source-wordcount: '316'
+ht-degree: 59%
 
 ---
 
@@ -78,7 +78,8 @@ ht-degree: 61%
       + [Interface do [!DNL Cloud Manager]](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
       + Práticas recomendadas {#cloud-manager-best-practices}
          + [Utilização de logs no Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
-         + [Migração para o AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [Planejamento de uma migração para o AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [Como enfrentar os desafios ao migrar para o AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration-challenges.md)
 + [!DNL Marketo Engage] por você {#marketo-engage}
    + [Visão geral](/help/marketo/overview.md)
    + Fundamentos {#fundamentals}
