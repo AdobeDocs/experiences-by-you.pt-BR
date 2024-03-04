@@ -7,11 +7,10 @@ role: User
 level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
-exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: c6c9e5b19c601592811151450aecd8dfdd084ff6
 workflow-type: tm+mt
-source-wordcount: '3290'
-ht-degree: 77%
+source-wordcount: '3323'
+ht-degree: 72%
 
 ---
 
@@ -31,7 +30,7 @@ Também devemos fazer uma rápida comparação de terminologia:
 
 ## 2. As interfaces
 
-Quando as pessoas comparam [!DNL Adobe Analytics] e GOOGLE [!DNL Analytics], comentam que [!DNL Adobe]A interface do é assustadora no início. Embora isso seja verdade, isso é também uma força, não uma fraqueza. [!DNL Adobe]O Analytics oferece uma grande variedade de ferramentas e flexibilidade na visualização de dados, permitindo que você tenha muito mais liberdade para criar o que precisa.
+Quando as pessoas comparam [!DNL Adobe Analytics] e GOOGLE [!DNL Analytics], comentam que [!DNL Adobe]A interface do é assustadora no início. Embora isso seja verdade, isso é também uma força, não uma fraqueza. [!DNL Adobe] O oferece uma grande variedade de ferramentas e flexibilidade na visualização de dados, permitindo que você tenha muito mais liberdade para criar o que precisa.
 
 Vamos começar observando os relatórios &quot;no site&quot;.
 
@@ -43,7 +42,7 @@ Ambos [!DNL Adobe Analytics] e GOOGLE [!DNL Analytics] fornecem uma maneira de p
 
 ##### 2.1.1.1. Espaço de trabalho / Configuração personalizada da tela inicial ([!DNL Adobe Analytics])
 
-[!DNL Adobe Analytics]O não apresenta um relatório pré-construído para todos os usuários visualizarem ao fazer logon. A página inicial padrão leva o usuário para a tela inicial do Espaço de trabalho, que mostra a cada usuário todos os relatórios do espaço de trabalho que ele criou ou que foram compartilhados com ele. Além disso, cada usuário tem a capacidade de definir qualquer um desses relatórios como sua tela inicial, se desejar.
+[!DNL Adobe Analytics] O não apresenta um relatório pré-criado para que todos os usuários vejam ao fazer logon. A página inicial padrão leva o usuário para a tela inicial do Espaço de trabalho, que mostra a cada usuário todos os relatórios do espaço de trabalho que ele criou ou que foram compartilhados com ele. Além disso, cada usuário tem a capacidade de definir qualquer um desses relatórios como sua tela inicial, se desejar.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -55,7 +54,7 @@ Detalhes sobre o espaço de trabalho serão apresentados mais adiante neste guia
 
 
 
-##### 2.1.1.2. Insights da Tela inicial (Google [!DNL Analytics])
+##### 2.1.1.2. Insights da tela inicial (Google) [!DNL Analytics])
 
 * Google [!DNL Analytics] A tela inicial tem algumas visualizações pré-construídas para você. Elas abrangem, por exemplo:
 * Usuários, Sessões, Taxa de rejeição e Duração da sessão nos últimos sete dias
@@ -71,7 +70,7 @@ No GA4, os usuários têm mais opções para personalizar e adicionar seus próp
 
 ![google-analytics-interfaces](assets/ga-to-aa_2.png)
 
-Isso é provavelmente o que você mais sente falta no [!DNL Adobe Analytics]. Não há uma tela inicial pré-construída para você. No entanto, você pode facilmente configurar um espaço de trabalho personalizado para replicar o que precisa da lista acima e configurá-lo como sua tela de destino. Mais informações sobre isso serão apresentadas mais adiante (ou consulte a Seção 2.1.2.1 [!DNL Adobe] Espaço de trabalho).
+Isso é provavelmente o que você mais sente falta [!DNL Adobe Analytics]. Não há uma tela inicial pré-construída para você. No entanto, você pode facilmente configurar um espaço de trabalho personalizado para replicar o que precisa da lista acima e configurá-lo como sua tela de destino. Mais informações sobre isso serão apresentadas mais adiante (ou consulte a Seção 2.1.2.1 [!DNL Adobe] Espaço de trabalho).
 
 #### 2.1.2. Report Builders no local
 
@@ -158,7 +157,7 @@ GOOGLE e [!DNL Adobe] têm alguns relatórios navegáveis que são tabelas pré-
 
 ##### 2.1.3.1. [!DNL Adobe Analytics] Relatórios
 
-[!DNL Adobe Analytics]O também tem uma seção de relatórios, mas ela será removida para dar lugar ao Analysis Workspace. Na verdade, o fim da vida útil foi anunciado para essa interface, já que o Espaço de trabalho é uma ferramenta mais eficiente. A maioria dessas tabelas pode ser criada e modificada com mais facilidade. [!DNL Adobe]As seções de estão muito mais divididas, e isso pode ser assustador:
+[!DNL Adobe Analytics] O também tem uma seção Relatórios, mas ela será removida para dar lugar ao Analysis Workspace. Na verdade, o fim da vida útil foi anunciado para essa interface, já que o Espaço de trabalho é uma ferramenta mais eficiente. A maioria dessas tabelas pode ser criada e modificada com mais facilidade. [!DNL Adobe]As seções de estão muito mais divididas, e isso pode ser assustador:
 
 ![analytics-site-metrics](assets/ga-to-aa_6.png)
 
@@ -174,7 +173,7 @@ Os “Móveis” são um agrupamento de dados específicos de dispositivos móve
 
 Os caminhos não estão disponíveis no Espaço de trabalho. O Espaço de trabalho tem um diagrama de fluxo onde é possível ver os fluxos de entrada e saída para uma única página/valor. Por outro lado, os Caminhos permitem que você veja os caminhos mais comuns usados no site. Por padrão, Páginas é o primeiro relatório de caminho configurado para você. No entanto, é possível ativá-lo para propriedades personalizadas, como um valor de “Tipo de página”. Você pode ver a definição de caminho dentro dos tipos de página. A outra coisa interessante em Caminhos é a maneira simples como as informações são apresentadas. O diagrama de fluxo no espaço de trabalho (dependendo da quantidade que você está tentando ver) pode ficar grande. Recomendo experimentar ambos. Cada um tem seu uso e valor, dependendo do que você está tentando fazer. Observe que qualquer dimensão pode ser usada em Fluxos, enquanto a Definição de caminho deve ser configurada em uma propriedade no painel administrativo.
 
-Fontes de tráfego, [!DNL Campaign]Os relatórios s e Canais de marketing são semelhantes ao relatório de Aquisição no produto da Google. As Fontes de tráfego se concentram nos Referenciadores reais, [!DNL Campaign]s Concentra-se no seu [!DNL Campaign] Os códigos e os canais de marketing também se concentram no [!DNL Campaign] Códigos, mas também aplica uma lógica extra, conforme determinado por você, sobre como processar as informações. [!DNL Adobe]A oferece mais liberdade sobre como configurar suas regras. Por outro lado, o Google faz várias coisas para você, e isso traz uma mudança de pensamento. Por padrão, a atribuição do Google para [!DNL Campaign] O código é de seis meses. [!DNL Adobe]A atribuição de é definida como uma semana por padrão. Isso pode ser alterado nas configurações de administrador, mas no Espaço de trabalho é possível aplicar uma atribuição personalizada sobre qualquer dimensão, proporcionando muito mais flexibilidade &quot;instantânea&quot;.
+Fontes de tráfego, [!DNL Campaign]Os relatórios s e Canais de marketing são semelhantes ao relatório de Aquisição no produto da Google. As Fontes de tráfego se concentram nos Referenciadores reais, [!DNL Campaign]s Concentra-se no seu [!DNL Campaign] Os códigos e os canais de marketing também se concentram no [!DNL Campaign] Códigos, mas também aplica uma lógica extra, conforme determinado por você, sobre como processar as informações. [!DNL Adobe] O oferece mais liberdade sobre como configurar suas regras. Por outro lado, o Google faz várias coisas para você, e isso traz uma mudança de pensamento. Por padrão, a atribuição do Google para [!DNL Campaign] O código é de seis meses. [!DNL Adobe]A atribuição de é definida como uma semana por padrão. Isso pode ser alterado nas configurações de administrador, mas no Espaço de trabalho é possível aplicar uma atribuição personalizada sobre qualquer dimensão, proporcionando muito mais flexibilidade &quot;instantânea&quot;.
 
 Os relatórios de Retenção de visitante e Perfil do visitante são semelhantes aos relatórios de Público-alvo no Google [!DNL Analytics]. O foco da Retenção está mais na frequência de retorno, enquanto o foco do Perfil do visitante está mais na geografia e tecnologia dos usuários.
 
@@ -268,10 +267,10 @@ No entanto, salientarei que recomendo a utilização de ambos [!DNL Adobe Analyt
 
 Há muitos recursos disponíveis para você além deste guia que podem ajudar a melhorar sua estratégia:
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) - Contém tutoriais, vídeos, documentações e fóruns da comunidade
-* [[!DNL Adobe] Grupos de usuários da ](https://analytics-augs.adobe.com/) - Um centro de eventos executados pela comunidade para ajudar os usuários a se conectarem e melhorar suas implementações.
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) - Contém tutoriais, vídeos, documentação e fóruns da comunidade
+* [[!DNL Adobe] Grupos de usuários](https://analytics-augs.adobe.com/) - Um centro de eventos conduzidos pela comunidade para ajudar os usuários a se conectarem entre si e melhorarem as implementações.
 * [[!DNL Adobe Analytics] Canal do YouTube para grupos de usuários](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Não foi possível fazer um [!DNL Adobe Analytics] sessão de grupo de usuários? Assista novamente às sessões anteriores de grupos de usuários em todo o mundo para saber mais sobre como seus colegas estão usando a ferramenta.
-* [Canal de chat do Slack para medições](https://www.measure.chat/)[!DNL Adobe Analytics] - Conecte-se com usuários do em todo o mundo e compartilhe aprendizados do setor, faça perguntas a seus colegas e participe de grupos de interesse com foco em medição.
+* [Canal de Slack de chat de medida](https://www.measure.chat/) - Conecte-se com o [!DNL Adobe Analytics] usuários em todo o mundo e compartilhem aprendizados do setor, façam perguntas a seus colegas e participem de grupos de interesse com foco em medição.
 * e mais!
 
 ## Autor
