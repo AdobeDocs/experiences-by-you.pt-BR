@@ -9,13 +9,13 @@ duration: 36000
 last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
-source-git-commit: 2b566eda7d088e9e48e4042dae0fe2e6385c178d
+exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
+source-git-commit: 59dbe503fb179ed24ec8380f0d3e853deec82a7b
 workflow-type: tm+mt
-source-wordcount: '4085'
+source-wordcount: '4102'
 ht-degree: 2%
 
 ---
-
 
 # A mágica por trás da cortina: segmentos complexos: exclusões, containers e atribuição
 
@@ -202,13 +202,36 @@ Vamos passar um tempo para desempacotar isto, já que há muita coisa acontecend
 
 Primeiro, em vez de mostrar um detalhamento diário, estou mostrando um detalhamento de página, pois acho que isso ajudará a ilustrar melhor os dois segmentos.
 
-![Segment3C-ComparaçãoTabela-Detalhe1](assets/segment-example-3/segment3c-comparison-table-detail1.png) As três primeiras colunas (Exibições de página, visitas e visitantes únicos) não estão segmentadas e, portanto, mostram todas as páginas do site. Observe que não incluí pedidos aqui, pois os pedidos são rastreados em uma ação e, portanto, não fazem parte do escopo da dimensão de página.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">As três primeiras colunas (Exibições de página, visitas e visitantes únicos) não estão segmentadas e, portanto, mostram todas as páginas do site. Observe que não incluí pedidos aqui, pois os pedidos são rastreados em uma ação e, portanto, não fazem parte do escopo da dimensão de página.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparaçãoTabela-Detalhe2](assets/segment-example-3/segment3c-comparison-table-detail2.png) Em seguida, estou mostrando o resultado do segmento simples, observando apenas **ocorrências** nas duas páginas especificadas. Você notará que as outras páginas no detalhamento resultam em 0, como esperado.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">Em seguida, estou mostrando o resultado do segmento simples, observando apenas <strong>ocorrências</strong> nas duas páginas especificadas. Você notará que as outras páginas no detalhamento resultam em 0, como esperado.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparaçãoTabela-Detalhe3](assets/segment-example-3/segment3c-comparison-table-detail3.png) Agora, aqui está uma pequena dica de bônus, antes de mostrar o resultado do segmento avançado, usei outro segmento simples de &quot;Pedidos existem&quot; (em um escopo de nível de HIT), e eu o emparelhei com visitantes únicos. Isso me retornará o total de UVs que fizeram pedidos no período do meu relatório, bem como os UVs que atingem cada uma dessas páginas... isso ajudará a ilustrar melhor o próximo conjunto de colunas.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">Agora, aqui está uma pequena dica de bônus, antes de mostrar o resultado do segmento avançado, usei outro segmento simples de "Pedidos existem" (em um escopo de nível de HIT), e eu o emparelhei com visitantes únicos. Isso me retornará o total de UVs que fizeram pedidos no período do meu relatório, bem como os UVs que atingem cada uma dessas páginas... isso ajudará a ilustrar melhor o próximo conjunto de colunas.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparaçãoTabela-Detalhe4](assets/segment-example-3/segment3c-comparison-table-detail4.png) O conjunto final de colunas é empilhado com meu segmento complexo. As UVs gerais com pedidos correspondem ao segmento simples &quot;Pedidos existem&quot; em cada página, mas você observará que o total é significativamente diferente; como esse conjunto de dados restringe explicitamente o conjunto de dados somente aos visitantes que fizeram pedidos E acessaram as páginas, estou explicitamente interessado em.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">O conjunto final de colunas é empilhado com meu segmento complexo. As UVs gerais com pedidos correspondem ao segmento simples "Pedidos existem" em cada página, mas você observará que o total é significativamente diferente; como esse conjunto de dados restringe explicitamente o conjunto de dados somente aos visitantes que fizeram pedidos E acessaram as páginas, estou explicitamente interessado em.</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
+        </td>
+    </tr>
+</table>
 
 ### Exemplo de segmento 4: visitas que acessam ofertas em destaque OU produtos recomendados E fazem um pedido na mesma visita
 
@@ -310,13 +333,29 @@ Vamos mudar as coisas e começar observando as comparações, então vamos anali
 
 ![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
 
-![Segmento5A-TabelaComparação-Detalhe1](assets/segment-example-5/segment5a-table-comparison-detail1.png) As primeiras 4 colunas não estão segmentadas e devem ser fáceis de entender. Observe que *&quot;Entradas&quot;* é basicamente um valor calculado com base em onde os visitantes iniciam a sessão. Eu o adicionei aqui para mostrar que isso não retorna as informações que estamos procurando, pois os usuários podem entrar no site por meio de vários canais de marketing (por meio da análise de redes sociais, de pesquisas, clicando em emails de marketing etc.). tudo dentro da mesma visita/sessão).
+<table>
+    <tr>
+        <td width="352" style="border: 0;">As primeiras 4 colunas não estão segmentadas e devem ser fáceis de entender. Observe que *"Entradas"* é basicamente um valor calculado com base em onde os visitantes iniciam a sessão. Eu o adicionei aqui para mostrar que isso não retorna as informações que estamos procurando, pois os usuários podem entrar no site por meio de vários canais de marketing (por meio da análise de redes sociais, de pesquisas, clicando em emails de marketing etc.). tudo dentro da mesma visita/sessão).</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
+        </td>
+    </tr>
+</table>
 
-![Segmento5A-TabelaComparação-Detalhe2](assets/segment-example-5/segment5a-table-comparison-detail2.png) O próximo conjunto de colunas usa um &quot;Segmento de ocorrência padrão&quot;, basicamente olhando as ocorrências em que o canal de marketing é &quot;pesquisa paga&quot;. No entanto, isso retornará TODAS as ocorrências com base na atribuição do Canal de marketing, não isolará os click-throughs de &quot;Pesquisa paga&quot; reais. Portanto, isso não retornará os dados de que precisamos.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">O próximo conjunto de colunas usa um "Segmento de ocorrência padrão", basicamente olhando as ocorrências em que o canal de marketing é "pesquisa paga". No entanto, isso retornará TODAS as ocorrências com base na atribuição do Canal de marketing, não isolará os click-throughs de "Pesquisa paga" reais. Portanto, isso não retornará os dados de que precisamos.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
+        </td>
+    </tr>
+</table>
+
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-![Segment5A-TableComparison-Detail3.png](assets/segment-example-5/segment5a-table-comparison-detail3.png) Agora, os próximos dois conjuntos de dados parecem idênticos e, de fato, eles retornarão os mesmos dados de duas maneiras diferentes. Mas agora eu estou especificamente olhando para o *instâncias* onde o canal de marketing foi **set** para &quot;Pesquisa paga&quot;.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">Agora, os próximos dois conjuntos de dados parecem idênticos e, de fato, eles retornarão os mesmos dados de duas maneiras diferentes. Mas agora eu estou especificamente olhando para o <i>instâncias</i> onde o canal de marketing foi <strong>set</strong> para "Pesquisa paga".</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
+        </td>
+    </tr>
+</table>
 
 Isso pode ser feito de duas maneiras:
 
