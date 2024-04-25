@@ -10,9 +10,9 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 484f93bc2828d2565486eff8ae4801a8d203d280
+source-git-commit: 35d2ea7d88d2c43b79730c700e73e539c5f0d8ac
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 **Revolucione sua estratégia de dados e capacite sua equipe a criar um documento sólido de referência de design de solução (SDR). Eliminar lacunas de medição e promover uma cultura de dados colaborativa por meio de metodologias passo a passo.**
 
-É finalmente hora. Você reúne uma Referência de design de solução (SDR) sólida. Este é o guia que você usa para implementar suas métricas e dimensões, como são chamadas, quando são acionadas e seus devotos adoraram. Você passou por todo o processo de implantação, escrevendo critérios de aceitação, examinando seus pontos de acesso, fazendo o controle de qualidade de tudo, e está pronto! Foi muito trabalho, e agora está feito. Sua instância do Adobe Analytics deve estar aumentando e diminuindo o marketing e o produto à medida que eles analisam os dados, obtêm novas revelações sobre seus clientes e encontram todas as áreas de sucesso e, bem, áreas de menos sucesso. Mas não está ouvindo os elogios que esperava.
+É finalmente hora. Você reúne uma Referência de design de solução (SDR) sólida. Este é o guia que você usa para implementar suas métricas e dimensões, como são chamadas, quando são disparadas e seus devotos adoraram. Você passou por todo o processo de implantação, escrevendo critérios de aceitação, examinando seus pontos de acesso, fazendo o controle de qualidade de tudo, e está pronto! Foi muito trabalho, e agora está feito. Sua instância do Adobe Analytics deve estar aumentando e diminuindo o marketing e o produto à medida que eles analisam os dados, obtêm novas revelações sobre seus clientes e encontram todas as áreas de sucesso e, bem, áreas de menos sucesso. Mas não está ouvindo os elogios que esperava.
 
 De um acampamento, você ouve reclamações.
 
@@ -30,7 +30,7 @@ De um acampamento, você ouve reclamações.
 
 &quot;Por que não há uma métrica para isso?&quot;
 
-&quot;Eu preciso de muito mais detalhes sobre isso! Uma métrica por si só não é suficiente. Há pelo menos três dimensões diferentes que eu preciso para entender desempenho. Por que você não as colocou?&quot;
+&quot;Eu preciso de muito mais detalhes sobre isso! Uma métrica por si só não é suficiente. São necessárias pelo menos três dimensões diferentes para entender o desempenho. Por que você não as colocou?&quot;
 
 Mas é o outro campo que é uma causa ainda maior de preocupação. Deles, você não ouve nada. Mas muito pior, você vê gráficos que foram claramente retirados de sua antiga solução de análise, aquele que não está mais sendo mantido, e cada dia está caindo cada vez mais em um pântano de decrepitude e dados sujos. Um sentimento de pavor o enche quando você pensa sobre as decisões que podem ser tomadas com essa bagunça.
 
@@ -107,7 +107,7 @@ Esta não é a maneira mais rápida de obter um SDR juntos. É muito trabalho e 
 
 Este documento foi escrito por:
 
-![gitai-headshot](assets/gitai-headshot.png)
+![gitai-headshot](assets/gitai-headshot-150.jpg)
 
 Gitai Ben-Ammi, gerente associado de arquitetura de negócios da Accenture
 
