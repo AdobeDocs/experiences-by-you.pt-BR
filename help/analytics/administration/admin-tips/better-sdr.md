@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
+source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Criação de uma cultura de dados e uma referência de design de solução melhor
 
@@ -61,7 +61,7 @@ Começarei por deixá-lo fora do gancho um pouco. Há *sempre* será uma revisã
 ***Os Painéis de Visualização***
 
 1. Usando o Mapa de funil como guia, crie painéis de modelo.
-1. Deve haver uma visão geral, como um Painel de resumo executivo e painéis para cada um dos funis.
+1. Deve haver uma visão geral, como uma [Painel de resumo executivo](driving-success-with-executive-summary-dashboards.md)e painéis para cada funil.
 1. Também haverá alguns mais específicos para seu site ou aplicativo, como desempenho do produto ou desempenho do conteúdo.
 1. Distribua isso aos participantes relevantes e obtenha feedback sobre o design.
 1. Faça as atualizações solicitadas e, se novas métricas ou dimensões forem necessárias, adicione-as ao seu SDR.
@@ -112,4 +112,3 @@ Este documento foi escrito por:
 Gitai Ben-Ammi, gerente associado de arquitetura de negócios da Accenture
 
 Especialista no Adobe Analytics
-
