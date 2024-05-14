@@ -2,10 +2,10 @@
 user-guide-title: Experiências por você
 user-guide-description: Conteúdo gerado pelo cliente da Adobe
 breadcrumb-title: Experiências por você
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 53%
+source-wordcount: '358'
+ht-degree: 52%
 
 ---
 
@@ -60,6 +60,8 @@ ht-degree: 53%
          + [Impulsione o sucesso com painéis de resumo executivo](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
          + [Criação de painéis operacionais](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [Criação de uma cultura de dados e uma referência de design de solução melhor](../analytics/administration/admin-tips/better-sdr.md)
+   + Implementação {#implementation}
+      + [Um guia estratégico para implementar o SDK da Web](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] por você {#campaign}
    + [Visão geral](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
