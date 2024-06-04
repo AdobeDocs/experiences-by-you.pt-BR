@@ -2,16 +2,16 @@
 user-guide-title: Tutorial - Dicas e truques para implementar uma nova [!DNL Marketo Engage] instância
 user-guide-description: Tutorial - Dicas e truques para implementar uma nova [!DNL Marketo Engage] instância
 breadcrumb-title: Tutorial - Dicas e truques para implementar uma nova [!DNL Marketo Engage] instância
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-tutorial-implementing-new-instance/overview.html
+breadcrumb-url: /docs/experiences-by-you/marketo-engage-by-you/tutorial-tips-and-tricks-for-implementing-a-new-instance/overview.html
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+source-git-commit: 6abe2944be03fdb65a1ae26ab216bb1feda28348
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 2%
 
 ---
 
@@ -27,3 +27,5 @@ ht-degree: 0%
 + [Organizar uma nova instância e estabelecer convenções de nomenclatura](./organizing-new-instance.md)
 + [Criar marketing conversacional omnicanal com o Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Introdução à governança de instâncias e documentação](./documenting-your-instance.md)
++ [[!DNL Marketo Engage by You](/https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [[!DNL Marketo Engage] Tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR)
