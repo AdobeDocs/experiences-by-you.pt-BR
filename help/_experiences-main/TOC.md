@@ -2,7 +2,7 @@
 user-guide-title: Experiências por você
 user-guide-description: conteúdo gerado pelo cliente do Adobe
 breadcrumb-title: Experiências por você
-source-git-commit: 70487e9c3baa4bacaeaf924b513ba4f365d7d8b2
+source-git-commit: bed599454a75159492f13aab1f802c09d92bf7ed
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 5%
@@ -91,7 +91,7 @@ ht-degree: 5%
    + [Visão geral](/help/marketo/overview.md)
    + Fundamentos {#fundamentals}
       + [Navegar na interface](/help/marketo/fundamentals/ui-navigation.md)
-      + [Dicas e truques para implementar uma nova instância](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
+      + [Dicas e truques para implementar uma nova instância](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview.html)
       + [Auditoria de uma instância herdada - Tutorial](https://experienceleague.adobe.com/docs/experiences-by-you/auditing-an-inherited-instance/overview.html)
    + Programas e campanhas {#programs-and-campaigns}
       + [Programas de email](/help/marketo/programs/email-programs.md)
