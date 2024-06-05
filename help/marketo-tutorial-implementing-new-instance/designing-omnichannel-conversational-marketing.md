@@ -8,13 +8,13 @@ solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-14814
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
+source-git-commit: 80553c5127afda315e97183e0d3b160871352183
 workflow-type: tm+mt
 source-wordcount: '1409'
 ht-degree: 0%
 
 ---
-
 
 # Criar marketing conversacional omnicanal com o Dynamic Chat
 
@@ -119,7 +119,7 @@ Eventos e webinários são táticas de marketing populares para empresas B2B ger
 
 #### Fase 1
 
-Crie um modelo para a caixa de diálogo &quot;Registro de evento&quot; para uso contínuo da campanha.
+1. Crie um modelo para a caixa de diálogo &quot;Registro de evento&quot; para uso contínuo da campanha.
 
 #### Fase 2
 
