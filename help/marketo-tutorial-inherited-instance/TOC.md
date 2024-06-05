@@ -8,9 +8,9 @@ role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 3f0c335cc1660e7fbafd46dc372d3bab65eff763
+source-git-commit: 70487e9c3baa4bacaeaf924b513ba4f365d7d8b2
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '70'
 ht-degree: 2%
 
 ---
@@ -25,5 +25,5 @@ ht-degree: 2%
 + [Mapear visualmente sua pilha de tecnologia de marketing](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [Processo de garantia de qualidade de pré-lançamento do programa](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)
 + [[!DNL Marketo Engage] Tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR)
-
++ [[!DNL Marketo Engage] por você](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
 
