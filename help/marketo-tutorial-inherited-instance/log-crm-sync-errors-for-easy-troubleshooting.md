@@ -11,16 +11,16 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
 # Registrar erros de sincronização do CRM para facilitar a solução de problemas
 
-Como um [!DNL Marketo Engage] administrador, verificar se sua instância está sincronizada com o CRM deve ser uma parte essencial do [rotina diária](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (encontre-o no canto superior direito do [!DNL Marketo Engage] ) é onde você começará a encontrar e investigar problemas frequentes de sincronização. Há uma dica profissional que pode ajudá-lo a gerenciar a integridade da instância de maneira organizada. [!DNL Adobe] Marketo Champion (2019-2022), Amy Goldfine recomenda que os usuários administradores mantenham um log dos erros de sincronização do CRM para facilitar a solução de problemas.
+Como um [!DNL Marketo Engage] administrador, verificar se sua instância está sincronizada com o CRM deve ser uma parte essencial do [rotina diária](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. Embora a [Seção Notificações](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (encontre-o no canto superior direito do [!DNL Marketo Engage] ) é onde você começará a encontrar e investigar problemas frequentes de sincronização. Há uma dica profissional que pode ajudá-lo a gerenciar a integridade da instância de maneira organizada. [!DNL Adobe] Marketo Champion (2019-2022), Amy Goldfine recomenda que os usuários administradores mantenham um log dos erros de sincronização do CRM para facilitar a solução de problemas.
 
 ![Captura de tela da guia Erros de sincronização](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -42,7 +42,7 @@ Antes de começar, baixe o [Modelo de log de erros de sincronização do CRM](/h
 
 **Etapa 5:** Anote o endereço de email de uma pessoa afetada pelo erro. Isso facilita a referência e a discussão dos erros com o administrador do CRM.
 
-**Etapa 6:** Colar links para o registro de pessoa no [!DNL [!DNL Marketo Engage]] e [!UICONTROL Cliente Potencial/Contato do CRM] registro dessa pessoa.
+**Etapa 6:** Colar links para o registro de pessoa em [!DNL Marketo Engage] e [!UICONTROL Cliente Potencial/Contato do CRM] registro dessa pessoa.
 
 **Etapa 7:** Na última coluna, cole o texto real do erro.
 
@@ -50,7 +50,7 @@ Antes de começar, baixe o [Modelo de log de erros de sincronização do CRM](/h
 
 **Identificar códigos de erro:** Para entender os códigos de erro, procure as descrições na documentação dos desenvolvedores [Tabela de Códigos de Erro de Nível de Resposta](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} e encontre as próximas etapas típicas para resolver os erros.
 
-## Autores(as)
+## Autores
 
 **Amy Goldfine**\
 [!DNL Adobe] Marketo Champion(2019-2022)
