@@ -9,13 +9,13 @@ exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 23%
+ht-degree: 19%
 
 ---
 
-# [!DNL Analytics] por você: recursos por usuários, para usuários.
+# [!DNL Analytics] por você: Recursos por usuários, para usuários.
 
-A coisa mais poderosa sobre [!DNL Adobe Experience Cloud] soluções? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. Experiências por você apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com seus [!DNL Adobe Experience Cloud] soluções. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
+A coisa mais poderosa sobre as soluções do [!DNL Adobe Experience Cloud]? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. Experiências por você apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções do [!DNL Adobe Experience Cloud]. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -45,11 +45,11 @@ A coisa mais poderosa sobre [!DNL Adobe Experience Cloud] soluções? Você. Os 
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Traduzindo [!DNL Adobe Analytics] linguagem técnica de forma não técnica" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
+      <img alt="Traduzindo a linguagem técnica [!DNL Adobe Analytics] de forma não técnica" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
-    <strong>Traduzindo [!DNL Adobe Analytics] linguagem técnica de forma não técnica</strong>
+    <strong>Traduzindo a linguagem técnica [!DNL Adobe Analytics] de forma não técnica</strong>
     </a>
     </div>
     <p>
@@ -79,4 +79,4 @@ A coisa mais poderosa sobre [!DNL Adobe Experience Cloud] soluções? Você. Os 
 * [Comunidade Experience League Adobe Analytics](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=pt)
 * [Documentação do Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=pt-BR)
 * [Tutoriais do Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR)
-* [Informações de produto do Adobe Analytics](https://business.adobe.com/br/products/analytics/adobe-analytics.html)
+* [Informações sobre o produto Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html)

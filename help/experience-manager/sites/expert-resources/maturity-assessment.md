@@ -11,7 +11,7 @@ last-substantial-update: 2023-11-03T00:00:00Z
 exl-id: 65a12916-27bb-4761-a1d3-da8ff4c51ef8
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,14 @@ As avaliações de maturidade permitem a avaliação e a adesão a padrões e pr
 
 Para obter as práticas recomendadas sobre administração, desenvolvimento ou criação, consulte os seguintes recursos:
 
-* [Administração de práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
-* [Desenvolvimento de práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
+* [Administrando práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
+* [Desenvolvendo práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
 * [Práticas recomendadas de criação](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
 
 Cada uma dessas áreas de práticas recomendadas acima também inclui outras práticas recomendadas para criação, desenvolvimento e implantação do AEM.
 
 Na maioria dos casos, a avaliação de maturidade do AEM ajudará a realizar uma análise diagnóstica das melhores práticas de AEM e resultará em um roteiro para descobrir, resolver e evitar possíveis problemas de forma proativa. Recomenda-se que as avaliações sejam concluídas com as equipes que também fizeram parte da fase de descoberta da implementação do AEM (migração pré-AEM). As funções que devem ser envolvidas podem incluir: proprietários de aplicativos, proprietários de sites, equipes de desenvolvimento, líderes de tecnologia, equipes de segurança/infraestrutura, equipes de SEO e equipes de suporte (por exemplo, autores de conteúdo, administradores).
 
-Áreas de foco da avaliação de maturidade do AEM recomendadas: design e arquitetura, gerenciamento e estratégia de produtos, gerenciamento e entrega de ativos digitais, [!DNL Analytics], Teste e Segurança.
+Áreas de foco da avaliação de maturidade do AEM recomendadas: design e arquitetura, gerenciamento e estratégia de produtos, gerenciamento e entrega de ativos digitais, [!DNL Analytics], testes e segurança.
 
 Grande grito ao AEM Champion Greg Dimeris por agregar essas informações de vários artigos de Experience League, bem como suas próprias práticas recomendadas!

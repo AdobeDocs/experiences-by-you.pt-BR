@@ -14,37 +14,41 @@ ht-degree: 0%
 
 ![Amy Chiu](/help/marketo-tutorial-implementing-new-instance/assets/amy-chiu.png){width="150"}
 
-**Amy Chiu**, Gerente de marketing de adoção e retenção, Adobe
+**Amy Chiu**, Gerente de Marketing de Adoção e Retenção, Adobe
 
 ## Naomi Liu {#naomi-liu}
 
 ![Naomi Liu](/help/marketo-tutorial-implementing-new-instance/assets/naomi-liu.png){width="150"}
 
-**Naomi Liu**, Director, Operações globais de marketing, Eletrônicos para imagens (EFI)
+**Naomi Liu**, Director, Operações Globais de Marketing, Eletrônicos para Imagens (EFI)
 
 ## Natalie Kremer {#natalie-kremer}
 
 ![Natalie Kremer](/help/marketo-tutorial-implementing-new-instance/assets/natalie-kremer.png){width="150"}
 
-**Natalie Kremer**, Gerente Sênior, Serviços De Consultoria, Etumos Adobe Marketo Engage Champion (2019-2020)
+**Natalie Kremer**, gerente sênior, serviços de consultoria, Etumos
+Adobe Marketo Engage Champion (2019-2020)
 
 ## Christina Zuniga {#christina-zuniga}
 
 ![Christina Zuniga](/help/marketo-tutorial-implementing-new-instance/assets/christina-zuniga.png){width="150"}
 
-**Christina Zuniga**, Gerente de operações de marketing, Empregar Adobe Marketo Engage Champion (2017, 2018, 2020, 2021)
+**Christina Zuniga**, Gerente de Operações de Marketing, Empregar
+Adobe Marketo Engage Champion (2017, 2018, 2020, 2021)
 
 ## Katja Keesom {#katja-keesom}
 
 ![Katja Keesom](/help/marketo-tutorial-implementing-new-instance/assets/katja-keesom.png){width="150"}
 
-**Katja Keesom**, Consultor principal de automação de marketing B2B, Chapman Bright Adobe Marketo Engage Champion (2023)
+**Katja Keesom**, Consultora Principal de Automação de Marketing B2B, Chapman Bright
+Adobe Marketo Engage Champion (2023)
 
 ## Julz James {#julz-james}
 
 ![Julz James](/help/marketo-tutorial-implementing-new-instance/assets/julz-james.png){width="150"}
 
-**Julz James**, Gerente sênior de operações de marketing, 6sense Adobe Marketo Engage Champion (2015)
+**Julz James**, Gerente sênior de operações de marketing, 6sense
+Adobe Marketo Engage Champion (2015)
 
 ## Peter Livadas {#peter-livadas}
 

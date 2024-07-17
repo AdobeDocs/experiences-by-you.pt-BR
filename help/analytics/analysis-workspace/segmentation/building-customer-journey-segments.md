@@ -1,6 +1,6 @@
 ---
-title: Criação de segmentos de jornada do cliente
-description: Saiba como criar segmentos de jornada do cliente com base no comportamento no [!DNL Adobe Analytics] e melhore a experiência dos clientes com o [!DNL Adobe] Experience Cloud seguindo este guia passo a passo.
+title: Criação de segmentos de Jornada do cliente
+description: Saiba como criar segmentos de jornada do cliente com base no comportamento no [!DNL Adobe Analytics] e melhorar a experiência do cliente com o [!DNL Adobe] Experience Cloud seguindo este guia passo a passo.
 feature-set: Analytics
 feature: Segmentation
 role: User
@@ -12,20 +12,20 @@ thumbnail: KT-13180.jpeg
 exl-id: 34f42d7e-e849-420e-9b3d-f3dcc1882b23
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1217'
-ht-degree: 1%
+source-wordcount: '1224'
+ht-degree: 0%
 
 ---
 
-# Criação de segmentos de jornada do cliente
+# Criação de segmentos de Jornada do cliente
 
-Saiba como criar segmentos de jornada do cliente com base no comportamento no [!DNL Adobe Analytics] e melhore a experiência dos clientes com o [!DNL Adobe] Experience Cloud seguindo este guia passo a passo.
+Saiba como criar segmentos de jornada do cliente com base no comportamento no [!DNL Adobe Analytics] e melhorar a experiência do cliente com o Experience Cloud [!DNL Adobe] seguindo este guia passo a passo.
 
-Vamos criar melhores segmentos de jornada do cliente! Nesta série, usaremos [!DNL Adobe Analytics] para definir segmentos comportamentais, estimar tamanhos de público e rastrear o movimento do usuário. Ao final, você poderá personalizar a mídia e melhorar a experiência dos clientes com o [!DNL Adobe] Experience Cloud. Lembre-se de que esses segmentos estão ativos e devem ser atualizados conforme você aprende mais sobre os clientes. Embora os relatórios possam apresentar alguns desafios, não se preocupe, eu vou guiá-lo através dele! Vamos começar criando nosso primeiro conjunto de segmentos de Jornada de clientes, começando com o segmento &quot;Maravilhas de uma ocorrência&quot;.
+Vamos criar melhores segmentos de jornada do cliente! Nesta série, usaremos [!DNL Adobe Analytics] para definir segmentos comportamentais, estimar tamanhos de público-alvo e rastrear o movimento do usuário. Ao final, você poderá personalizar a mídia e melhorar a experiência dos clientes com o Experience Cloud [!DNL Adobe]. Lembre-se de que esses segmentos estão ativos e devem ser atualizados conforme você aprende mais sobre os clientes. Embora os relatórios possam apresentar alguns desafios, não se preocupe, eu vou guiá-lo através dele! Vamos começar criando nosso primeiro conjunto de segmentos de Jornada de clientes, começando com o segmento &quot;Maravilhas de uma ocorrência&quot;.
 
-Hoje, criaremos espaços reservados para nosso primeiro conjunto de segmentos de Jornada do cliente, criaremos um [!DNL Adobe Analytics] Espaço de trabalho para nos ajudar a definir nossos segmentos e nosso primeiro segmento, &quot;Maravilhas de uma só ocorrência&quot;.
+Hoje, criaremos espaços reservados para nosso primeiro conjunto de segmentos de Jornada de clientes, criaremos um Workspace [!DNL Adobe Analytics] para nos ajudar a definir nossos segmentos e também nosso primeiro segmento, &quot;Maravilhas de uma só ocorrência&quot;.
 
-No final desta série, você poderá criar segmentos de jornada do cliente no [!DNL Adobe Analytics] com base em sinais comportamentais. Você poderá estimar o tamanho de cada público-alvo em cada estágio da jornada e entender em que taxa os usuários se movem entre esses estágios. E você poderá exportar esses públicos para o jornada do cliente para [!DNL Adobe] Experience Cloud para habilitar a personalização e o direcionamento de mídia.
+Ao final desta série, você poderá criar segmentos de jornadas do cliente no [!DNL Adobe Analytics] com base em sinais comportamentais. Você poderá estimar o tamanho de cada público-alvo em cada estágio da jornada e entender em que taxa os usuários se movem entre esses estágios. E você poderá exportar esses públicos-alvo de jornadas do cliente para o [!DNL Adobe] Experience Cloud para habilitar a personalização e o direcionamento de mídia.
 
 Cada negócio é diferente, o que significa que os segmentos de jornada de seus clientes serão diferentes dos meus. Portanto, em vez de receitar fórmulas específicas para seus segmentos, sugira algumas coisas a serem observadas e um processo geral para criá-las.
 
@@ -49,11 +49,11 @@ Para facilitar o uso dos meus segmentos de intenção de visita, adicionei &quot
 
 ![segmentos de intenção](assets/intent-segments.png)
 
-**Crie os Segmentos de intenção de visita usando o contêiner Visitas com uma definição de espaço reservado de Exibições de página >= 1.**
+**Crie os Segmentos de Intenção de Visita usando o contêiner Visitas com uma definição de espaço reservado de Exibições de Página >= 1.**
 
 Como veremos, a criação desses segmentos é um processo interativo e interconectado. Eu descreverei o processo de construção desses segmentos em uma publicação futura.
 
-## O Espaço De Trabalho De Qualidade De Dados Do Segmento De Intenção De Visita
+## Workspace de qualidade de dados do segmento de intenção de visita
 
 ![espaço de trabalho de intenção de visita](assets/visit-intent-workspace.png)
 
@@ -93,11 +93,11 @@ Meu primeiro segmento, &quot;One Hit Wonders&quot;, foi fácil de definir. É qu
 
 ![Definição de segmento](assets/segment-def.png)
 
-Depois de definir esse segmento, você começará a ver seu Espaço de trabalho de intenções de visita tomando forma.
+Depois de definir esse segmento, você começará a ver sua Workspace de intenção de visita tomando forma.
 
 ![Mais definições de segmento](assets/more-segment-defs.png)
 
-Criação de segmentos de jornada do cliente usando o [!DNL Adobe Analytics] é um processo desafiador, mas gratificante. Ao criar segmentos comportamentais, estimar o tamanho do público e rastrear os movimentos do usuário, as empresas podem personalizar a mídia e melhorar a experiência do cliente. Cada empresa é única e não há fórmulas específicas para criar segmentos, mas diretrizes e um processo a ser seguido. Os segmentos devem ser atualizados à medida que as empresas aprendem mais sobre seus clientes, o que apresenta desafios de geração de relatórios. Ao seguir o processo de criação de segmentos de Intenção de visita, as empresas podem melhorar a experiência geral do cliente.
+A criação de segmentos de jornada do cliente usando o [!DNL Adobe Analytics] é um processo desafiador, mas gratificante. Ao criar segmentos comportamentais, estimar o tamanho do público e rastrear os movimentos do usuário, as empresas podem personalizar a mídia e melhorar a experiência do cliente. Cada empresa é única e não há fórmulas específicas para criar segmentos, mas diretrizes e um processo a ser seguido. Os segmentos devem ser atualizados à medida que as empresas aprendem mais sobre seus clientes, o que apresenta desafios de geração de relatórios. Ao seguir o processo de criação de segmentos de Intenção de visita, as empresas podem melhorar a experiência geral do cliente.
 
 ## Autor
 
@@ -105,6 +105,6 @@ Este documento foi escrito por:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, Digital [!DNL Analytics]
+**Aaron Fossum**, Director, [!DNL Analytics] Digital
 
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista

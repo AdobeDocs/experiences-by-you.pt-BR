@@ -14,9 +14,9 @@ ht-degree: 26%
 
 ---
 
-# [!DNL Campaign] por você: recursos por usuários, para usuários.
+# [!DNL Campaign] por você: Recursos por usuários, para usuários.
 
-A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. Experiências por você apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com seus [!DNL Adobe] soluções Experience Cloud. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
+A coisa mais poderosa sobre as soluções de Experience Cloud [!DNL Adobe]? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. Experiências por você apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções Experience Cloud [!DNL Adobe]. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -37,7 +37,7 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-    <strong>As 5 principais práticas de fluxo de trabalho para profissionais de marketing</strong>
+    <strong>Cinco principais práticas de fluxo de trabalho para profissionais de marketing</strong>
     </a>
     </div>
     <p>
@@ -50,7 +50,7 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>Solução de problemas para profissionais de marketing: 5 erros comuns de fluxo de trabalho e delivery</strong>
+    <strong>Solução de problemas para profissionais de marketing: 5 erros comuns de fluxo de trabalho e entrega</strong>
     </a>
     </div>
     <p>
@@ -78,7 +78,7 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
 ## Recursos adicionais
 
 * [Comunidade Experience League Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=pt)
-* Adobe Campaign v8 -  [Documentação](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=pt-BR) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR)
+* Adobe Campaign v8 - [Documentação](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=pt-BR) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR)
 * Adobe Campaign Classic v7 - [Documentação](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=pt-BR) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR)
-* ADOBE CAMPAIGN STANDARD - [Documentação](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=pt-BR) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR)
-* [Informações de produto do Adobe Campaign](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* Adobe Campaign Standard - [Documentação](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=pt-BR) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR)
+* [Informações sobre o produto Adobe Campaign](https://business.adobe.com/products/campaign/adobe-campaign.html)

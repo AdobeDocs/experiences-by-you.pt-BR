@@ -9,7 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 73976144-f02b-4423-9b4b-410330117ba9
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '2111'
 ht-degree: 2%
@@ -39,7 +40,7 @@ A pontuação comportamental dá um valor numérico às ações rastreáveis que
 
 **Etapa 2** - Lista ações que indicam que um cliente potencial não está interessado em seu produto. Certifique-se de listar as atividades que são rastreáveis por meio do Marketo Engage.
 
-**Exemplo 1a - Atividades que indicam a intenção de comprar**
+**Exemplo 1a - Atividades indicando intenção de compra**
 
 | **Atividades indicando intenção de compra** | **Atividades indicando NENHUMA intenção de comprar** |
 | --- | --- |
@@ -49,7 +50,7 @@ A pontuação comportamental dá um valor numérico às ações rastreáveis que
 | Baixar white paper |     |
 | Preencha o formulário de demonstração de solicitação |     |
 
-**Etapa 3** - Analise e escolha uma pontuação de limite de entrega de vendas.
+**Etapa 3** - Analisar e escolher uma pontuação de limite de entrega de vendas.
 
 * Quando um lead indicar interesse suficiente ao executar algumas das atividades definidas na Etapa 1 e a pontuação total exceder esse limite, você os entregará às vendas. Esse limite será simplesmente um número que ajuda a definir um referencial para as pontuações atribuídas a comportamentos individuais.
 * Seu número limite deve ser grande o suficiente para que uma pessoa precise concluir várias interações com sua marca para atingi-lo. Por exemplo, é improvável que um email aberto seja um qualificador suficiente. Se você acabou de começar, tente trabalhar com um limite de 100 e criar sua pontuação de pessoa a partir daí.
@@ -61,12 +62,12 @@ A pontuação comportamental dá um valor numérico às ações rastreáveis que
 | --- | --- |
 | Limite para entrega de vendas | 50 |
 
-**Etapa 4** - Atribua uma pontuação a cada atividade listada no &quot;Exemplo 1a - Atividades indicando intenção de comprar&quot;.
+**Etapa 4** - Atribua uma pontuação a cada atividade listada no &#39;Exemplo 1a - Atividades indicando intenção de comprar&#39;.
 
 * Use uma pontuação de comportamento positiva para as atividades que indicam interesse para aumentar a pontuação geral de lead de um cliente potencial, e uma pontuação negativa para indicar desinteresse.
 * Usando seu limite do &quot;Exemplo 1b - Limite para entrega de vendas&quot; como um referencial, determine suas pontuações de comportamento em relação à importância de suas ações. Por exemplo, os clientes potenciais que solicitarem uma demonstração devem ir direto para as vendas. Atribuir a essa ação um valor de ponto igual ao limite de entrega do cliente potencial fará mais sentido. Entretanto, o download de um livro branco não é um indicador tão forte de interesse de compra e, portanto, deve valer menos pontos.
 
-**Exemplo 1c - Pontuação de atividades indicando a intenção de comprar:**
+**Exemplo 1c - Atividades de pontuação indicando a intenção de comprar:**
 
 | Limite para entrega de vendas = 50 pontos |     |
 | --- | --- |
@@ -93,9 +94,9 @@ Agora que você definiu as atividades indicando a intenção de compra, deve con
       * Com qual departamento eles estão geralmente se envolvendo?
       * Quais são os cargos das pessoas envolvidas em demonstrações de produtos e quem são as pessoas que precisam aprovar a compra?
 
-**Exemplo 2a — características ideais do cliente potencial**
+**Exemplo 2a - Características ideais do cliente potencial**
 
-| **Categoria** | **Características ideais de prospecção** |
+| **Categoria** | **Características ideais do cliente potencial** |
 | --- | --- |
 | Setor | Espaço aéreo, fabricação |
 | Tamanho da empresa | 100 - 999, 1.000 - 9.999 |
@@ -122,16 +123,16 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
-**Etapa 1** - Tire as atividades e características dos exercícios 1 e 2 e determine se cada item varia de acordo com a localização ou a linha de produtos.
+**Etapa 1** - Tire as atividades e características dos exercícios 1 e 2 e determine se elas variam de acordo com a localização ou a linha de produtos para cada item.
 
-**Exemplo 3a - Sinais nos mercados globais e locais:**
+**Exemplo 3a - Sinais em mercados globais e locais:**
 
 | **Sinal** | **Global** | **Local** |
 | --- | --- | --- |
 | Atividades | <ul><li>Preenchido o formulário &quot;Solicitar uma demonstração&quot;</li><li>Nenhuma interação nos últimos 90 dias (cerca de 3 meses)</li></ul> | <ul><li>Visite-nos na feira</li><li>Baixar um white paper</li></ul> |
 | Características | <ul><li>Departamento</li><li>Cargo</li></ul> | <ul><li>Setor</li><li>Tamanho da empresa</li></ul> |
 
-**Etapa 2** - Definir a matriz de pontuação para os mercados locais:
+**Etapa 2** - Definir sua matriz de pontuação para mercados locais:
 
 * Configurar uma matriz diferente para elementos demográficos e de comportamento.
 * Determine os tópicos de prioridades para você solicitar a entrada da equipe local.
@@ -145,10 +146,10 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
 | **Matriz demográfica** | **Prioridade 1** | **Prioridade 2** | **Prioridade 3** |
 | --- | --- | --- | --- |
 | Valores altos | 20 pontos | 10 pontos | 7 pontos |
-| Valores médios | 10 pontos | 7 pontos | 3 pontos |
+| Valores do Medium | 10 pontos | 7 pontos | 3 pontos |
 | Valores baixos | 5 pontos | 3 pontos | 1 ponto |
 
-**Etapa 3** - Colete informações de suas equipes de vendas locais ou regionais para desenvolver uma visão holística. Você observará que nenhuma pontuação individual está incluída no exemplo 3c. Isso permite que a equipe de vendas se concentre no valor relativo dos diferentes tópicos durante o processo de revisão. Entretanto, seu modelo completo deve ser documentado como material de apoio para outros administradores de Marketo Engage.
+**Etapa 3** - Colete informações de suas equipes de vendas locais ou regionais para desenvolver uma exibição holística. Você observará que nenhuma pontuação individual está incluída no exemplo 3c. Isso permite que a equipe de vendas se concentre no valor relativo dos diferentes tópicos durante o processo de revisão. Entretanto, seu modelo completo deve ser documentado como material de apoio para outros administradores de Marketo Engage.
 
 * Bloqueie o que não pode ser ajustado para consistência global (aqui, na coluna &quot;Implementar tópico&quot;).
 * Marque (aqui, nas colunas &quot;Prioridade&quot; e &quot;Pontuação&quot;) o que pode ser ajustado para influências locais.
@@ -172,11 +173,11 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
     <td rowspan="6">Setor</td>
     <td rowspan="6"><b>2</b></td>
     <td>Tecnologia</td>
-    <td><b>Alta</b></td>
+    <td><b>Alto</b></td>
   </tr>
   <tr>
     <td>Moda</td>
-    <td><b>Alta</b></td>
+    <td><b>Alto</b></td>
   </tr>
   <tr>
     <td>Varejo</td>
@@ -188,11 +189,11 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
   </tr>
   <tr>
     <td>Serviços de saúde</td>
-    <td><b>Baixa</b></td>
+    <td><b>Baixo</b></td>
   </tr>
   <tr>
     <td>...</td>
-    <td><b>Baixa</b></td>
+    <td><b>Baixo</b></td>
   </tr>
 <tr>
     <td rowspan="3">2</td>
@@ -201,7 +202,7 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
     <td rowspan="3">Tamanho da empresa (funcionários)</td>
     <td rowspan="3"><b>3</td>
     <td>Mais de 1000 funcionários</td>
-    <td><b>Alta</td>
+    <td><b>Alto</td>
   </tr>
   <tr>
     <td>250-999 funcionários</td>
@@ -209,7 +210,7 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
   </tr>
   <tr>
     <td>1-249 funcionários</td>
-    <td><b>Baixa</td>
+    <td><b>Baixo</td>
   </tr>  
 <tr>
     <td rowspan="3">3</td>
@@ -218,7 +219,7 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
     <td rowspan="3">Visitas à página no seu site</td>
     <td rowspan="3"><b>2</b></td>
     <td>&gt;Páginas de informações do produto</td>
-    <td><b>Baixa</b></td>
+    <td><b>Baixo</b></td>
   </tr>
   <tr>
     <td>Páginas de preços</td>
@@ -226,14 +227,14 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
   </tr>
   <tr>
     <td>Página de solicitação de demonstração</td>
-    <td><b>Alta</b></td>
+    <td><b>Alto</b></td>
   </tr>
 </table>
 
 ## O que está por vir?
 
-* Baixe o [folha de exercícios de pontuação da pessoa](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} para desenvolver seu modelo de pontuação offline.
-* Desenvolva a pontuação da sua pessoa no Marketo Engage. Marque isto [tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} e [demonstração](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} para começar. Você pode importar um programa de pontuação de cliente potencial/pessoa [modelo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} da Biblioteca de referência do Marketo Engage para acelerar a criação do programa.
+* Baixe a [folha de exercícios de pontuação da pessoa](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} para desenvolver seu modelo de pontuação offline.
+* Desenvolva a pontuação da sua pessoa no Marketo Engage. Verifique este [tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} e a [demonstração](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} para começar. Você pode importar um programa de pontuação de cliente potencial/pessoa [modelo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} da Biblioteca de Referência de Marketo Engage para acelerar a criação do programa.
 * Criar duas versões do programa de pontuação:
    * Um programa central que executa todas as pontuações que não podem ser atualizadas localmente.
    * Uma cópia local com os elementos de pontuação que são configuráveis.
@@ -243,7 +244,7 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
    * Determine quais atividades demográficas e comportamentais devem ter pontuação apenas uma vez (ou seja, a indústria) e quais devem ter pontuação sempre que um cliente potencial se qualificar (ou seja, participou de um webinário). Isso garante que possíveis contatos acionados pela alteração do valor dos dados sejam relevantes para as vendas.
    * Certifique-se de que suas opções sejam mutuamente exclusivas.
    * Faça suas atualizações em ambas as etapas do fluxo para que a Pontuação de pessoa seja atualizada de maneira idêntica à Pontuação demográfica. Dessa forma, a Pontuação de pessoa permanece em conformidade com a combinação de pontuação de comportamento e pontuação demográfica.
-* Teste a Campanha inteligente depois de concluir a criação do programa. Por exemplo, vá para o formulário de demonstração, preencha com um email de teste e verifique a pontuação da pessoa de teste em [banco de dados Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
+* Teste a Campanha inteligente depois de concluir a criação do programa. Por exemplo, vá para o formulário de demonstração, preencha-o com um email de teste e verifique a pontuação da pessoa de teste no [banco de dados de Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
 * Depois de criar seu modelo, considere configurar um alerta para ir para vendas assim que a pontuação da pessoa atingir seu limite de entrega de vendas. Saiba mais sobre como configurar um alerta com este [tutorial](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
 
 ### Autores

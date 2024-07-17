@@ -9,13 +9,13 @@ duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%
 
 ---
-
 
 # Planejamento para uma nova implementação do Marketo Engage
 
@@ -38,8 +38,8 @@ Neste tutorial, analisaremos os marcos específicos, os envolvimentos de equipe 
 
 ### Fase 3 - Criação da biblioteca de programas e configuração da campanha
 
-- Desenvolvimento de modelos de email e landing pages. Começando com [importação de programas iniciais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) do [Biblioteca de importação do programa](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
-- Configuração de regras de segmentação e personalização
+- Desenvolvimento de modelos de email e landing pages. Começando com [importando programas iniciais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) da [Biblioteca de Importação de Programas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Configuração da segmentação e regras do Personalization
 - Criar campanhas iniciais para geração de leads e promoção
 
 ### Fase 4 - Treinamento e adoção pelo usuário
@@ -158,14 +158,14 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
     </tr>
     <tr>
         <td rowspan="2">Configuração técnica</td>
-        <td><em>EXEMPLO -</em> Instalar o MunchkinID no site da empresa</td>
+        <td><em>EXEMPLO -</em> Instale o MunchkinID no site da empresa</td>
         <td bgcolor="c6f0cf">Concluído</td>
         <td>05/09/24</td>
         <td>12/09/24</td>
         <td>Equipe de desenvolvimento na Web</td>
     </tr>
     <tr>
-        <td><em>EXEMPLO -</em> Configure o DKIM (Domain Keys Identified Mail) e dois CNAMEs separados para links de capacidade de entrega e rastreamento de email.</td>
+        <td><em>EXEMPLO -</em> Configure o DKIM (Domain Keys Identified Mail) e dois CNAMEs separados para os links de capacidade de entrega e de rastreamento de email.</td>
         <td bgcolor="c6f0cf">Concluído</td>
         <td>15/09/24</td>
         <td>18/09/24</td>
@@ -187,7 +187,7 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
         <td>Informações da equipe de operação de marketing sobre quem precisa de acesso de administrador ao Marketo Engage.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLO -</em> Configurar administradores de suporte</td>
+        <td><em>EXEMPLO -</em> Configurar Administradores de Suporte</td>
         <td bgcolor="c6f0cf">Concluído</td>
         <td>27/08/24</td>
         <td>15/09/24</td>
@@ -217,14 +217,14 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
     </tr>
     <tr>
         <td rowspan="2">Build do programa operacional</td>
-        <td><em>EXEMPLO -</em> Criar programa para padronizar dados recebidos</td>
+        <td><em>EXEMPLO -</em> Crie um programa para padronizar os dados de entrada</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
         <td>09/11/24</td>
         <td>N/D</td>
         <td>Suporte das equipes de Operações de vendas e CRM para determinar uma estratégia de gerenciamento de dados.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLO -</em> Criar uma central de assinaturas de email</td>
+        <td><em>EXEMPLO -</em> Criar uma central de assinaturas por email</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
         <td>19/11/24</td>
         <td>N/D</td>
@@ -246,14 +246,14 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
     </tr>
     <tr>
         <td rowspan="2">Configuração da integração do LaunchPoint</td>
-        <td><em>EXEMPLO -</em> Criar somente usuário e função da API</td>
+        <td><em>EXEMPLO -</em> Criar API somente de usuário e função</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
         <td>23/11/24</td>
         <td>   </td>
         <td>Determine o escopo dos serviços necessários para a nova instância com as equipes de marketing.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLO -</em> Criar um serviço personalizado para o Google Ads</td>
+        <td><em>EXEMPLO -</em> Criar um serviço personalizado para Google Ads</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
         <td>07/12/24</td>
         <td>   </td>
@@ -268,7 +268,7 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
         <td>N/D</td>
         <td>Crie uma equipe de governança do Marketo Engage para criar documentação de suporte de governança ou orçamento para contratar o projeto de governança.</td>
     <tr>
-        <td><em>EXEMPLO -</em> Treine 4 usuários e forneça-lhes acesso padrão ao usuário do Marketo</td>
+        <td><em>EXEMPLO -</em> Treine 4 usuários e forneça a eles acesso de Usuário Padrão do Marketo</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
         <td>13/12/24</td>
         <td>N/D</td>
@@ -282,7 +282,7 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
         <td>Equipe de operações de marketing para controle de qualidade, programação e envio.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLO -</em> Obtenha o primeiro Relatório de desempenho de email.</td>
+        <td><em>EXEMPLO -</em> Obtenha o primeiro Relatório de Desempenho de Email.</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
         <td>16/12/24</td>
         <td>N/D</td>
@@ -294,7 +294,7 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
 >[!NOTE]
 >Os exemplos fornecidos não se baseiam em uma linha do tempo de implementação real. Não confie neles como uma linha do tempo padrão para sua integração com o Marketo Engage, pois cada implementação é exclusiva com marcos e requisitos diferentes de acordo com as necessidades da sua organização.
 
-Para obter ajuda direta para implementar e personalizar o Marketo Engage para sua instância, entre em contato com a Equipe de conta do Adobe ou entre em contato com [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter assistência direta na implementação e personalização do Marketo Engage para sua instância, entre em contato com a Equipe de Conta do Adobe ou entre em contato com o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ### Autor
 

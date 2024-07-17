@@ -11,7 +11,7 @@ thumbnail: KT-13476.jpeg
 exl-id: 369c526d-8664-4771-81b6-24c9f50bc37e
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1975'
+source-wordcount: '1991'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Podemos pensar nisso como uma mercearia. Se alguém pegar um produto da pratelei
 
 Sugiro o uso de páginas visitadas ou outros sinais explícitos de intenção de compra e evitar outros sinais menos diretos para identificar a intenção de compra. Por exemplo, eu não usaria o número de sessões ou o número de páginas em uma sessão ou similar. Esses sinais indiretos indicam Consideração, não Intenção de compra. Lembre-se, a finalidade desse segmento é inferir a intenção do visitante para a visita, não sua propensão.
 
-### Usar [!DNL Analytics] Espaço de trabalho para identificar sinais de intenção de compra
+### Usando o Workspace [!DNL Analytics] para identificar sinais de intenção de compra
 
 O relatório de Fallout é muito útil para identificar um bom sinal que indica a intenção de compra. Procure um local que indique logicamente a intenção. Você pode confirmar que a etapa indica intenção ao visualizar um fallout notável indo para essa etapa, geralmente seguido por um fallout menor para a etapa imediatamente após.
 
@@ -92,7 +92,7 @@ Adicione um container Excluir ao segmento unido pela condição &quot;And&quot;.
 
 Como prática recomendada, certifique-se de rotular os containers. Você ficará feliz em fazer isso, especialmente quando nossas definições de segmento se tornarem mais complexas.
 
-Agora que criamos o segmento de intenção de compra, podemos usar o Espaço de trabalho de qualidade de dados de intenção de visita para ver que nosso segmento de intenção de compra é mutuamente exclusivo com nosso segmento Um e Concluído.
+Agora que criamos o segmento de intenção de compra, podemos usar o Workspace de qualidade de dados de intenção de visita para ver que nosso segmento de intenção de compra é mutuamente exclusivo com nosso segmento Um e Concluído.
 
 ![Imagem 5](assets/Image-5.png)
 
@@ -106,9 +106,9 @@ Assim como no segmento Intenção de compra, estamos procurando por indicações
 
 Devo observar que &quot;Retenção&quot; é um nome meio estranho para essa intenção de visita, já que o visitante não está em nosso site, &quot;para que eu possa ser mantido como cliente&quot;. A retenção é a nossa intenção para essa visita. Lembre-se de ter empatia com nossos clientes e manter um foco de cliente em primeiro lugar!
 
-### Usar [!DNL Analytics] Espaço de trabalho para identificar sinais de intenção de retenção
+### Usando o Workspace [!DNL Analytics] para identificar sinais de intenção de retenção
 
-Novamente, [!DNL Analytics] O Espaço de trabalho nos ajuda a identificar a intenção de retenção. É possível usar as dimensões de páginas, seção do site ou segmento personalizado para categorizar suas páginas. Procure páginas com baixas taxas de conversão de compra. Em nosso caso, descobrimos que as páginas de Check-in Online e Excursão pela Costa (Shorex) têm taxas de conversão relativamente mais baixas do que outras páginas que estão mais logicamente associadas a compras e compras.
+Novamente, o Workspace [!DNL Analytics] nos ajuda a identificar a intenção de retenção. É possível usar as dimensões de páginas, seção do site ou segmento personalizado para categorizar suas páginas. Procure páginas com baixas taxas de conversão de compra. Em nosso caso, descobrimos que as páginas de Check-in Online e Excursão pela Costa (Shorex) têm taxas de conversão relativamente mais baixas do que outras páginas que estão mais logicamente associadas a compras e compras.
 
 ![Imagem 6](assets/Image-6.png)
 
@@ -132,7 +132,7 @@ Em seguida, adicione os contêineres de exclusão para suas Maravilhas de uma oc
 
 ![Imagem 7](assets/Image-7.png)
 
-Mais uma vez, examine o Espaço de trabalho de qualidade de dados de intenção de visita para garantir que seus segmentos sejam mutuamente exclusivos. Nossos segmentos de Intenção de visita estão tomando forma muito bem!
+Mais uma vez, examine sua Workspace de qualidade de dados de intenção de visita para garantir que seus segmentos sejam mutuamente exclusivos. Nossos segmentos de Intenção de visita estão tomando forma muito bem!
 
 ![Imagem 8](assets/Image-8.png)
 
@@ -144,6 +144,6 @@ Este documento foi escrito por:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, Digital [!DNL Analytics]
+**Aaron Fossum**, Director, [!DNL Analytics] Digital
 
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista

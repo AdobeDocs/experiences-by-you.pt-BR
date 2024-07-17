@@ -1,7 +1,7 @@
 ---
-user-guide-title: Tutorial - Dicas e truques para implementar uma nova [!DNL Marketo Engage] instância
-user-guide-description: Tutorial - Dicas e truques para implementar uma nova [!DNL Marketo Engage] instância
-breadcrumb-title: Dicas e truques para implementar uma nova [!DNL Marketo Engage] instância
+user-guide-title: Tutorial - Dicas e truques para implementar uma nova instância  [!DNL Marketo Engage]
+user-guide-description: Tutorial - Dicas e truques para implementar uma nova instância  [!DNL Marketo Engage]
+breadcrumb-title: Dicas e truques para implementar uma nova instância  [!DNL Marketo Engage]
 breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
 index: true
 role: Admin
@@ -16,7 +16,7 @@ ht-degree: 2%
 ---
 
 
-# Dicas e truques para implementar uma nova [!DNL Marketo Engage] instância {#implementing-new-instance}
+# Dicas e truques para implementar uma nova instância do [!DNL Marketo Engage] {#implementing-new-instance}
 
 + [Tutorial - Visão geral](./overview.md)
 + [Gerenciamento de partes interessadas para implementar o Marketo Engage](./managing-stakeholder-communications.md)
@@ -28,4 +28,4 @@ ht-degree: 2%
 + [Criar marketing conversacional omnicanal com o Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Introdução à governança de instâncias e documentação](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] Tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR)
-+ [[!DNL Marketo Engage] por você](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)
++ [[!DNL Marketo Engage] por Você](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/marketo-engage/overview)

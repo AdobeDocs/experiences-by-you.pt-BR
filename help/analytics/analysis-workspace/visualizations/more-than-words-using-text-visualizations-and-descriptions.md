@@ -12,14 +12,14 @@ thumbnail: KT-13267.jpeg
 exl-id: ddcffb53-bcfb-4fc4-858a-ae191285fe66
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 1%
+source-wordcount: '487'
+ht-degree: 0%
 
 ---
 
 # Mais do que palavras - Uso de visualizações de texto e descrições no Analysis Workspace
 
-Como um [!DNL Adobe Analytics] Usuário do Analysis Workspace, é natural que seu foco vá para seus dados e visualizações de dados. Qualquer pessoa pode digitar um resumo, certo? No entanto, ignorar recursos no Analysis Workspace, como a visualização de texto ou as descrições da visualização, pode significar perder uma oportunidade valiosa de combinar seus insights com textos, imagens, gifs e links valiosos. Ao fornecer referências e mais contexto para informar seus usuários sobre o que seus dados significam, ele pode tornar mais eficaz e impactante.
+Como usuário do Analysis Workspace [!DNL Adobe Analytics], é natural que seu foco vá para seus dados e visualizações de dados. Qualquer pessoa pode digitar um resumo, certo? No entanto, ignorar recursos no Analysis Workspace, como a visualização de texto ou as descrições da visualização, pode significar perder uma oportunidade valiosa de combinar seus insights com textos, imagens, gifs e links valiosos. Ao fornecer referências e mais contexto para informar seus usuários sobre o que seus dados significam, ele pode tornar mais eficaz e impactante.
 
 Primeiro, vamos verificar se você sabe onde encontrar estes recursos:
 
@@ -48,13 +48,13 @@ Agora, se preferir trazer o conteúdo diretamente para o relatório, você pode 
 
 ![texto 06](assets/t06.png)
 
-Você pode adicionar uma imagem acessível em qualquer URL público ao seu relatório, desde que o URL esteja em *https* format e é formatado como um arquivo .png, .jpeg, .jpg ou .gif - embora possa parecer restritivo, qualquer ferramenta online usada para compartilhar imagens ou GIF, como imgur ou GIPHY, pode fornecer um método rápido para fazer upload de arquivos acessíveis pelo Espaço de trabalho usando um Link de compartilhamento.
+Você pode adicionar uma imagem acessível em qualquer URL pública ao seu relatório, desde que a URL esteja no formato *https* e esteja formatada como .png, .jpeg, .jpg ou .gif - embora isso possa parecer restritivo, qualquer ferramenta online usada para compartilhar imagens ou GIF, como imgur ou GIPHY, pode fornecer um método rápido para carregar arquivos acessíveis ao Workspace usando um Link de Compartilhamento.
 
 O resultado? Você pode mostrar a página da Web à qual seus dados fazem referência diretamente no seu projeto:
 
 ![texto 07](assets/t07.png)
 
-Você também pode usar GIF em seus projetos para incluir imagens em movimento, como uma apresentação do site, o caminho ideal pelo site ou uma tarefa no aplicativo, ou simplesmente mostrar à sua equipe como ***alucinante*** seus relatórios se tornaram:
+Você também pode usar GIF em seus projetos para incluir imagens em movimento, como uma apresentação do site, um caminho ideal pelo site ou uma tarefa no aplicativo, ou simplesmente mostrar à sua equipe como ***incríveis*** seus relatórios se tornaram:
 
 ![texto 08](assets/t08.png)
 
@@ -64,6 +64,6 @@ Este documento foi escrito por:
 
 ![Dan Cummings](assets/text09.png)
 
-**Dan Cummings**, Sr. Engenharia De Produtos [!DNL Analytics] Gerente na McDonald&#39;s Corporation
+**Dan Cummings**, Gerente sênior de engenharia de produtos [!DNL Analytics] na McDonald&#39;s Corporation
 
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista

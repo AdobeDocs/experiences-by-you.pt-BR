@@ -15,7 +15,7 @@ ht-degree: 9%
 
 # Experiências por você: recursos por usuários, para usuários.
 
-A coisa mais poderosa sobre [!DNL Adobe] de experiência digital (DX)? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. _Experiências por você_ apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com seus [!DNL Adobe] Soluções DX. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
+O mais poderoso das soluções [!DNL Adobe] de experiência digital (DX)? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. _Experiências por você_ apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções DX do [!DNL Adobe]. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ A coisa mais poderosa sobre [!DNL Adobe] de experiência digital (DX)? Você. Os
     </a>
     </div>
     <p>
-    <em>Dicas que você pode usar no [!DNL Analysis Workspace] para tornar seus workflows mais eficientes.</em>
+    <em>Dicas que você pode usar no [!DNL Analysis Workspace] para tornar seus fluxos de trabalho mais eficientes.</em>
     <p>
   </td>
   <td>
@@ -75,8 +75,8 @@ A coisa mais poderosa sobre [!DNL Adobe] de experiência digital (DX)? Você. Os
 
 ## Recursos adicionais
 
-* [Comunidades Experience League](https://experienceleaguecommunities.adobe.com/?profile.language=pt)
+* [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=pt)
 * [Documentação da Experience Cloud](https://experienceleague.adobe.com/docs/?lang=pt-BR)
 * [Tutoriais da Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR)
-* [business.adobe.com](https://business.adobe.com)
+* [negócios.adobe.com](https://business.adobe.com)
 

@@ -9,7 +9,8 @@ duration: 0
 last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
@@ -18,11 +19,11 @@ ht-degree: 2%
 
 # Organizar uma nova instância e estabelecer convenções de nomenclatura
 
-Como administrador de implementação de uma nova instância do Marketo Engage, você está estabelecendo a base para permitir que futuros profissionais de marketing na organização naveguem facilmente pela instância. Conhecer a estrutura de pastas de árvore e as convenções de nomenclatura manterá sua instância organizada e configurada para obter sucesso a longo prazo. Este tutorial contém exemplos recomendados pela Adobe e Marketo Engage Champion(2019-2020), Natalie Kremer, para ajudá-lo [organizar as pastas e nomear ativos de forma consistente](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
+Como administrador de implementação de uma nova instância do Marketo Engage, você está estabelecendo a base para permitir que futuros profissionais de marketing na organização naveguem facilmente pela instância. Conhecer a estrutura de pastas de árvore e as convenções de nomenclatura manterá sua instância organizada e configurada para obter sucesso a longo prazo. Este tutorial abrange exemplos recomendados pelo Adobe e Marketo Engage Champion(2019-2020), Natalie Kremer, para ajudá-lo a [organizar as pastas e nomear os ativos de forma consistente](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
 
 ## Por que é necessário estruturar pastas e aplicar convenções de nomenclatura?
 
-Manter-se organizado em sua instância facilita para você e seus colegas rastrear campanhas, programas e ativos e relatar o desempenho do programa. Para organizar a árvore de navegação na sua instância e criar em escala, é recomendável usar [pastas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [convenções de nomenclatura padrão](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"}e recursos como [clonagem](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+Manter-se organizado em sua instância facilita para você e seus colegas rastrear campanhas, programas e ativos e relatar o desempenho do programa. Para organizar a árvore de navegação em sua instância e compilá-la em escala, é recomendável usar [pastas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [convenções de nomenclatura padrão](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} e recursos como [clonagem](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
 ## Como organizar uma instância do Marketo Engage
 
@@ -30,7 +31,7 @@ Manter-se organizado em sua instância facilita para você e seus colegas rastre
 
 ### Etapa 1 - Configuração de uma estrutura de pastas para colocar seus programas em ordem
 
-A primeira etapa para organizar sua instância é [configurar uma estrutura de pastas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) hospede seu programa e seus ativos de maneira fácil de encontrar e ordenada.
+A primeira etapa para organizar sua instância é [configurar uma estrutura de pastas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) para hospedar seu programa e seus ativos de maneira fácil de encontrar e ordenada.
 
 Estas são algumas dicas rápidas ao estruturar as pastas na árvore:
 
@@ -41,7 +42,7 @@ Estas são algumas dicas rápidas ao estruturar as pastas na árvore:
 
 Abaixo estão exemplos de pastas como colocar essas dicas em prática.
 
-**Nome da pasta na árvore**
+**Nome da Pasta na Árvore**
 
 >[!BEGINTABS]
 
@@ -51,7 +52,7 @@ Abaixo estão exemplos de pastas como colocar essas dicas em prática.
 
 >[!TAB Design Studio]
 
-![Pasta Design Studio](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
+![Estúdio de Design de Pasta](/help/marketo-tutorial-implementing-new-instance/assets/folders-design-studio.png)
 
 >[!TAB Banco de dados]
 
@@ -63,15 +64,15 @@ Abaixo estão exemplos de pastas como colocar essas dicas em prática.
 
 Agora, vamos aplicar a estrutura de pastas no nível do programa. Como prática recomendada, hospedar os ativos locais em subpastas ajudará a manter os programas organizados e permitirá que os usuários internos modifiquem ou relatem os programas com eficiência. As subpastas comuns incluem emails, landing pages, Campanhas inteligentes, Listas, Relatórios, etc.
 
-**Nome da pasta dentro de Programas**
-* Campanhas - *Pasta para todas as campanhas que gerenciam interações e rastreamento de status.*
-* Ativos locais - *Pasta para todos os ativos específicos deste programa.*
+**Nome da pasta dentro dos programas**
+* Campanhas - *Pasta para todas as campanhas que gerenciam interações e o rastreamento de status.*
+* Assets Local - *Pasta para todos os ativos específicos deste Programa.*
    * Emails
-   * Páginas de destino
+   * Páginas de aterrissagem
    * Campanhas inteligentes
-   * Listas - *Necessário somente quando há Listas específicas de programas.*
-   * FORMS - *Necessário somente quando existem Forms específicas do programa; a maioria dos Forms é de ativos globais.*
-   * Relatórios - *Necessário somente quando houver Relatórios específicos do programa.*
+   * Listas - *Necessário somente quando há Listas específicas do Programa.*
+   * Forms - *Necessário somente quando há Forms específicos do Programa; a maioria das Forms são Assets Globais.*
+   * Relatórios - *Necessário somente quando há Relatórios específicos do Programa.*
 
 ### Etapa 3 - Criar convenções de nomenclatura para seus programas e ativos
 
@@ -86,7 +87,7 @@ Agora, vamos colocar os valores na fórmula e gerar os nomes dos programas para 
 
 #### Fórmula de nomeação do programa
 
-| **Abreviação do tipo de programa** | **AAAA** | **\-** | **MM** | **\-** | **DD(Opcional)** | **Categoria** | **\-** | **Breve descrição do programa** |
+| **Abreviação do Tipo de Programa** | **AAAA** | **\-** | **MM** | **\-** | **DD(Opcional)** | **Categoria** | **\-** | **Breve Descrição do Programa** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EM - Envio de email (Programa de email) | AAAA | \- | MM | \- | DD(Opcional) | Categoria | \- | Breve descrição do programa |
 | NL - Informativo | AAAA | \- | MM | \- | DD(Opcional) | Categoria | \- | Breve descrição do programa |
@@ -99,7 +100,7 @@ Agora, vamos colocar os valores na fórmula e gerar os nomes dos programas para 
 | WC - Conteúdo do Site | AAAA | \- | MM | \- | DD(Opcional) | Categoria | \- | Breve descrição do programa |
 | CS - Content Syndication | AAAA | \- | MM | \- | DD(Opcional) | Categoria | \- | Breve descrição do programa |
 | LI - Importação de Lista | AAAA | \- | MM | \- | DD(Opcional) | Categoria | \- | Breve descrição do programa |
-| OA - Anúncios online | AAAA | \- | MM | \- | DD(Opcional) | Categoria | \- | Breve descrição do programa |
+| OA - Advertising Online | AAAA | \- | MM | \- | DD(Opcional) | Categoria | \- | Breve descrição do programa |
 | PPC - Pagamento por clique | AAAA | \- | MM | \- | DD(Opcional) | Categoria | \- | Breve descrição do programa |
 
 | **Exemplos** |
@@ -165,7 +166,7 @@ Com isso em mente, aplicaremos essas dicas aos seguintes ativos e criaremos fór
 | CS - Estudo de caso | Descrição do conteúdo | \- | CS | . | pdf |
 | DS - Folha de dados | Descrição do conteúdo | \- | DS | . | pdf |
 
-| **Exemplos: Arquivos PDF para download** |
+| **Exemplos: Arquivos de PDF baixáveis** |
 | --- |
 | XYZ-Gadget-DS.pdf |
 | Acme-Company-CS.pdf |
@@ -177,9 +178,9 @@ Com isso em mente, aplicaremos essas dicas aos seguintes ativos e criaremos fór
 
 ## O que está por vir?
 
-* Baixe a planilha: [Organização Marketo Engage e convenções de nomenclatura](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} para oferecer suporte à criação da estrutura de pastas e às convenções de nomenclatura.
+* Baixe a Planilha: [Organização de Marketo Engage e Convenções de Nomenclatura](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} para dar suporte à criação da estrutura de pastas e convenções de nomenclatura.
 * Depois de determinar os componentes necessários em sua convenção de nomenclatura padrão, considere criar fórmulas em uma Planilha do Google ou no Microsoft Excel. Para uso futuro, basta inserir seus valores na planilha para gerar os nomes do programa.
-* Depois de se alinhar em uma estrutura geral de pastas, é hora de pensar nos modelos necessários com base nos casos de uso mais frequentes e nas solicitações mais comuns que sua equipe recebe. Em seguida, comece a criar seu primeiro modelo de programa. Leia para começar a usar o [Modelos de programa do Adobe Marketo Engage](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* Depois de se alinhar em uma estrutura geral de pastas, é hora de pensar nos modelos necessários com base nos casos de uso mais frequentes e nas solicitações mais comuns que sua equipe recebe. Em seguida, comece a criar seu primeiro modelo de programa. Leia para começar com [modelos de programa do Adobe Marketo Engage](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
 
 ### Autores
 

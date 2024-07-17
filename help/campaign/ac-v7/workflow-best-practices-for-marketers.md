@@ -15,13 +15,13 @@ last-substantial-update: 2022-11-03T00:00:00Z
 exl-id: 1c83cfef-c363-4cdc-838d-19e7110d4fd8
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 81%
 
 ---
 
 # As cinco principais práticas de fluxo de trabalho para profissionais de marketing do LoyaltyOne
 
-Workflows, uma poderosa [!DNL Adobe] [!DNL Campaign] ajuda você a gerenciar campanhas e alcançar clientes com mais facilidade. Aprenda e aplique as cinco práticas essenciais de fluxo de trabalho para profissionais de marketing com Adam Wilson, sócio diretor de marketing da LoyaltyOne.
+Fluxos de trabalho, um poderoso recurso do [!DNL Adobe] [!DNL Campaign], ajudam você a gerenciar campanhas e alcançar clientes com mais facilidade. Aprenda e aplique as cinco práticas essenciais de fluxo de trabalho para profissionais de marketing com Adam Wilson, sócio diretor de marketing da LoyaltyOne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}

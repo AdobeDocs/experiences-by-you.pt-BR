@@ -26,7 +26,7 @@ Este tutorial descreve o processo de reflexão e os casos de uso principais comp
 
 Os visitantes navegam pelo site por um motivo. Eles podem estar buscando conteúdo em seus produtos ou serviços ou procurando informações de contato para falar com seus representantes de vendas. Eles também podem ser seus clientes que procuram informações adicionais sobre o produto. O chat permite que os visitantes do site se autoatendam e se autoqualifiquem se estiverem prontos para falar com a equipe de vendas.
 
-Quando Sara Barriuso implementou o Dynamic Chat, ela se sentiu atraída por sua integração perfeita com o Marketo Engage e o [acionadores de atividade pré-criados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} que ativam programas Marketo Engage e vice-versa. Ela desenvolveu suas estratégias de engajamento conversacional com três segmentos de público-alvo em mente:
+Quando Sara Barriuso implementou o Dynamic Chat, ela se sentiu atraída pela sua integração perfeita com o Marketo Engage e os [acionadores de atividade pré-criados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} que ativam programas Marketo Engage e vice-versa. Ela desenvolveu suas estratégias de engajamento conversacional com três segmentos de público-alvo em mente:
 
 1. Prospetos desconhecidos: ofereça chamadas de demonstração de forma proativa para gerar novos leads.
 2. Clientes potenciais conhecidos: aumente o tempo gasto pelos visitantes ao navegar pelo conteúdo e ofereça chamadas de demonstração para gerar oportunidades de venda adicional e venda cruzada.
@@ -65,7 +65,7 @@ Essa caixa de diálogo fornece cinco opções iniciais para os visitantes do sit
 
 1. Em &quot;Público-alvo&quot;, adicione um URL da página da Web em &quot;Público-alvo&quot; para indicar onde a caixa de diálogo será exibida.
 2. Em &quot;Configurações&quot;, adicione o nome da campanha, a descrição, a prioridade e o idioma.
-3. Clique em &quot;Publicar&quot;
+3. Clique em &quot;Publish&quot;
 
 >[!TAB Marketo Engage]
 
@@ -98,7 +98,7 @@ Você pode aprimorar ainda mais a caixa de diálogo abrangente padrão incorpora
 4. Crie um link de teste e compartilhe-o.
 5. Em &quot;Público-alvo&quot;, adicione um URL da página da Web onde a caixa de diálogo exibirá e atualizará o público-alvo para o setor desejado.
 6. Em &quot;Configurações&quot;, adicione o nome da campanha, a prioridade da descrição e o idioma.
-7. Clique em Publicar.
+7. Clique em &quot;Publish&quot;.
 
 >[!TAB Marketo Engage]
 
@@ -126,7 +126,7 @@ Eventos e webinários são táticas de marketing populares para empresas B2B ger
 1. Clonar o modelo.
 2. Copiar e colar texto na mensagem de diálogo para um novo evento
 3. Atualize os parâmetros de UTM usados no link do evento (por exemplo, utm_medium=website&amp;utm_source=adobe).
-4. Crie um link de teste, clique em &quot;Publicar&quot; e compartilhe-o com o solicitante.
+4. Crie um link de teste, clique em &quot;Publish&quot; e compartilhe-o com o solicitante.
 5. Exame pelos pares e aplicação de feedback.
 
 
@@ -160,8 +160,8 @@ Você pode oferecer uma experiência ainda melhor aos visitantes do site, regist
 2. No Stream Designer, depois que o usuário responder &quot;Sim&quot;, adicione um cartão de pergunta &quot;Você compartilhou anteriormente seu endereço de email conosco. Você gostaria de guardar isso para os detalhes do evento?&quot;
 3. Se a resposta for &quot;Sim&quot;, adicione um cartão de mensagem &quot;Você receberá um email de confirmação no seu email com os detalhes do evento/webinário&quot;.
 4. Se eles responderem &quot;Não&quot;, adicione uma mensagem de cartão &quot;Preencha o formulário na página de registro&quot;.
-5. Crie um link de teste, clique em &quot;Publicar&quot; e compartilhe-o com o solicitante.
-6. Na guia Público-alvo, adicione [o email não está vazio].
+5. Crie um link de teste, clique em &quot;Publish&quot; e compartilhe-o com o solicitante.
+6. Na guia Público-alvo, adicionar [email não está vazio].
 
 >[!TAB Marketo Engage]
 
@@ -193,7 +193,7 @@ Estender o envolvimento com o conteúdo do Campaign - Configuração:
 
 ## O que está por vir?
 
-* Mapear o fluxo de conversação no [Designer de fluxo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} ou um fluxograma offline.
+* Mapeie seu fluxo de conversação em [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} ou um fluxograma offline.
 * Criar uma caixa de diálogo padrão catch-all no Dynamic Chat.
 * Ative os diálogos após o engajamento da campanha usando acionadores de automação no Marketo Engage.
 

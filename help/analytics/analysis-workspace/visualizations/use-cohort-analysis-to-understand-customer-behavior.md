@@ -1,5 +1,5 @@
 ---
-title: Utilização de análises de coorte para entender o comportamento do cliente
+title: Use a Análise de coorte para entender o comportamento do cliente
 description: Para melhorar a experiência e a receita do cliente, as empresas devem entender o comportamento do cliente. A análise de coorte pode ajudar a compreender o engajamento e a retenção, resultando em ações como a melhoria da criação de contas e a criação de campanhas para meses de alto volume.
 feature-set: Analytics
 feature: Cohort Analysis
@@ -12,12 +12,12 @@ thumbnail: KT-13213.jpeg
 exl-id: 79392eea-a8b6-4ae2-98ef-6ebbd11d88a0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1106'
-ht-degree: 12%
+source-wordcount: '1142'
+ht-degree: 0%
 
 ---
 
-# Utilização de análises de coorte para entender o comportamento do cliente
+# Use a Análise de coorte para entender o comportamento do cliente
 
 Para melhorar a experiência e a receita do cliente, as empresas devem entender o comportamento do cliente. A análise de coorte pode ajudar a compreender o engajamento e a retenção, resultando em ações como a melhoria da criação de contas e a criação de campanhas para meses de alto volume.
 
@@ -54,10 +54,11 @@ Como configurar a Tabela de coorte
 
 1. Definir intervalo de datas de janeiro a dezembro de 2022
 1. **Critérios de inclusão:** Visitas
-1. **Critérios de devolução:** Visitas
-1. **Granularidade:** Month
-1. **Configurações:** Cálculo contínuo \*\*Permite calcular a retenção com base na coluna anterior, não na coluna incluída. Portanto, isso significa que um usuário é incluído em cada um dos meses\*\*
-1. **Segmentos:** você pode selecionar segmentos específicos para impulsionar essa análise
+1. **Critérios de retorno:** visitas
+1. **Granularidade:** Mês
+1. **Configurações:** Cálculo contínuo
+\*\*Permite calcular a retenção com base na coluna anterior, não na coluna incluída. Portanto, isso significa que um usuário é incluído em cada um dos meses\*\*
+1. **Segmentos:** você pode selecionar segmentos específicos para aprofundar esta análise
    1. Páginas de destino específicas
    1. Device Type
    1. Canais de marketing
@@ -71,7 +72,7 @@ Como configurar a Tabela de coorte
 1) Os meses com mais volume incluem fevereiro e maio
 1) Há ~1.000 visitantes que retornam ao site todos os meses
 
-![Tabela de retenção de 2022](assets/cohort2.png)
+![tabela de retenção 2022](assets/cohort2.png)
 
 **Em 2021:**
 
@@ -112,10 +113,11 @@ Qual seria o impacto se pudéssemos fazer com que mais usuários fizessem logon?
 ### Configuração da tabela de coorte
 
 1. **Definir intervalo de datas:** de janeiro a dezembro de 2022
-1. **Critérios de inclusão:** Visitas + evento bem-sucedido de logon
-1. **Critérios de devolução:** Visitas
-1. **Granularidade:** Month
-1. **Configurações:** Cálculo contínuo \*\*Permite calcular a retenção com base na coluna anterior, não na coluna incluída. Portanto, isso significa que um usuário é incluído em cada um dos meses\*\*
+1. **Critérios de inclusão:** Visitas + evento de sucesso de logon
+1. **Critérios de retorno:** visitas
+1. **Granularidade:** Mês
+1. **Configurações:** Cálculo contínuo
+\*\*Permite calcular a retenção com base na coluna anterior, não na coluna incluída. Portanto, isso significa que um usuário é incluído em cada um dos meses\*\*
 
 ### Interpretação dos resultados
 
@@ -133,13 +135,13 @@ Investigar a experiência do usuário do site para fazer com que os usuários cr
 
 ## Parte 4: Coorte de Dimension personalizado
 
-Dimensão de coorte personalizada: crie coortes com base na dimensão selecionada, em vez de coortes com base no tempo (padrão). Muitos usuários desejam analisar suas coortes segundo critérios que não sejam o tempo, por isso o novo recurso de Coorte de dimensão personalizada permite ter flexibilidade para criar coortes com base nas dimensões desejadas. Use dimensões como canal de marketing, campanha, produto, página, região ou qualquer outra dimensão no [!DNL Adobe Analytics] para mostrar como a retenção é alterada com base nos diferentes valores dessas dimensões. As seleções de menu
+Coorte de Dimension personalizada: crie coortes com base na dimensão selecionada, em vez de coortes com base no tempo (padrão). Muitos clientes desejam analisar suas coortes segundo critérios que não sejam o tempo, e o novo recurso Coorte de Dimension personalizado oferece a flexibilidade de criar coortes com base nas dimensões de sua escolha. Use dimensões como canal de marketing, campanha, produto, página, região ou qualquer outra dimensão em [!DNL Adobe Analytics] para mostrar como a retenção é alterada com base nos diferentes valores dessas dimensões. As seleções de menu
 
 A definição de segmento de coorte de Dimension personalizada aplica o item de dimensão somente como parte do período de inclusão, não como parte da definição de retorno.
 
-Depois de escolher a opção Dimensão de coorte personalizada, você pode arrastar e soltar qualquer dimensão que desejar na área designada. Isso permite comparar itens de dimensão semelhantes no mesmo período. Por exemplo, você pode comparar o desempenho de cidades lado a lado
+Depois de escolher a opção Coorte de Dimension personalizado, você pode arrastar e soltar qualquer dimensão que desejar na área designada. Isso permite comparar itens de dimensão semelhantes no mesmo período. Por exemplo, você pode comparar o desempenho de cidades lado a lado
 
-lado, produtos, campanhas etc. Ele retornará seus 14 principais itens de dimensão. No entanto, você pode usar um filtro (acesse-o passando o mouse sobre a direita da dimensão que foi arrastada) para exibir somente os itens de dimensão desejados. Um Coorte de dimensão personalizado não pode ser usado com o recurso de Tabela de latência.
+lado, produtos, campanhas etc. Ele retornará seus 14 principais itens de dimensão. No entanto, você pode usar um filtro (acesse-o passando o mouse sobre a direita da dimensão que foi arrastada) para exibir somente os itens de dimensão desejados. Um Coorte de Dimension personalizado não pode ser usado com o recurso de Tabela de latência.
 
 ### Quais produtos estão causando aderência no site?
 
@@ -147,15 +149,15 @@ A tabela de coorte de Dimension personalizada destaca os produtos que estão imp
 
 **Em fevereiro:** 3 produtos se destacam com taxas de retenção mais altas
 
-1) Product1
+1) Product 1
 1) Product 2
 1) Product 3
 
 **Em março:**
 
-1) Product1
+1) Product 1
 1) Product 2
-1) Product 3 — frequentemente supera o desempenho com uma taxa de retenção mais alta em comparação à retenção média.
+1) Produto 3 — frequentemente supera o desempenho com uma taxa de retenção mais alta em comparação à retenção média.
 
 ![Tabela de coorte 5](assets/cohort5.png)
 
@@ -169,6 +171,6 @@ Este documento foi escrito por:
 
 ![Jennifer Yacenda](assets/jennifer-yacenda.png)
 
-**Jennifer Yacenda**, Director Sênior da Marriott
+**Jennifer Yacenda**, Director sênior da Marriott
 
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista

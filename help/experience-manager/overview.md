@@ -9,13 +9,13 @@ exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 23%
+ht-degree: 20%
 
 ---
 
 # Experience Manager por você: Recursos por usuários, para usuários.
 
-A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. Experiências por você apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com seus [!DNL Adobe] soluções Experience Cloud. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
+A coisa mais poderosa sobre as soluções de Experience Cloud [!DNL Adobe]? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. Experiências por você apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções Experience Cloud [!DNL Adobe]. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -66,7 +66,7 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
     </a>
     </div>
     <p>
-    <em>Modelos editáveis - Sessão 2</em>
+    <em>Modelos Editáveis - Sessão 2</em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ A coisa mais poderosa sobre [!DNL Adobe] soluções Experience Cloud? Você. Os 
 
 ## Recursos adicionais
 
-* [Comunidades Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt)
-* [Documentação do Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
-* [Tutorials Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=pt-BR)
-* [Informações do produto Experience Manager](https://business.adobe.com/br/products/experience-manager/adobe-experience-manager.html)
+* [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt)
+* [Documentação do Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
+* [Tutorials Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* Experience Manager [informações sobre o produto](https://business.adobe.com/br/products/experience-manager/adobe-experience-manager.html)
