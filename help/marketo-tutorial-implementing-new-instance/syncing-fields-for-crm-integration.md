@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: bed599454a75159492f13aab1f802c09d92bf7ed
+source-git-commit: 4ea2f60e2bfa658add920c947f5455fe0572ce04
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Identificar e organizar os campos que você gostaria de sincronizar do seu CRM a
 Geralmente, a prática recomendada é sincronizar apenas campos do CRM que serão necessários para fins de marketing. Comece com este exercício para organizar os campos do seu CRM que precisarão ser mapeados para Marketo Engage e executar a sincronização inicial do CRM corretamente na primeira vez.
 
 >[!NOTE]
->Se você tiver campos personalizados em seu CRM que já tenham um campo personalizado equivalente no Marketo Engage antes de iniciar a sincronização inicial, um novo campo &quot;duplicado&quot; será criado no Marketo Engage para o campo CRM. Você pode remapear o campo do CRM para o campo de Marketo Engage original e ocultar o campo duplicado quando a sincronização inicial estiver concluída, mas você precisará entrar em contato com o [Suporte ao Cliente do Adobe](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"} para fazer isso. Consulte a etapa 7 para obter mais detalhes.
+>Se você tiver campos personalizados em seu CRM que já tenham um campo personalizado equivalente no Marketo Engage antes de iniciar a sincronização inicial, um novo campo &quot;duplicado&quot; será criado no Marketo Engage para o campo CRM. Você pode remapear o campo do CRM para o campo de Marketo Engage original e ocultar o campo duplicado quando a sincronização inicial estiver concluída, mas você precisa entrar em contato com o [Suporte ao Cliente do Adobe](https://experienceleague.adobe.com/en/docs/customer-one/using/home#create-a-support-ticket-with-admin-console){target="_blank"} para fazer isso. Consulte a etapa 7 para obter mais detalhes.
 
 **Etapa 1:** crie uma lista resumida dos campos disponíveis no momento em seu CRM e marque se você deseja que eles apareçam no Marketo Engage.
 
@@ -58,7 +58,7 @@ Geralmente, a prática recomendada é sincronizar apenas campos do CRM que serã
 
    * Primeira coluna: Marketo Engage Nomes de campos
    * Segunda coluna: nomes da API Marketo Engage
-   * Terceira Coluna: [Tipo de Campo de Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (ou seja, Booleano, Moeda, Data, etc.)
+   * Terceira Coluna: [Tipo de Campo Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (isto é, Booleano, Moeda, Data, etc.)
    * Em colunas subsequentes, repita para os tipos de objeto do CRM (cliente potencial, contato, conta, oportunidade) com uma coluna adicional para o nível de acesso que você gostaria que o Marketo Engage tivesse (ou seja, Leitura, Gravação, Edição)
   <br>
 
@@ -80,10 +80,10 @@ Geralmente, a prática recomendada é sincronizar apenas campos do CRM que serã
 * Inclua o Nome de exibição, os privilégios de CRM desejados e o tipo de dados para cada campo.
 * Se existir um campo no CRM, mas não no Marketo Engage, preencha a exibição do Marketo Engage e os nomes da API com os mesmos valores do campo CRM.
 * Se existir um campo no Marketo Engage, mas não no CRM, preencha o nome de exibição do CRM com o valor desejado, mas deixe o nome da API do CRM em branco até que o campo seja criado.
-* Se existirem campos equivalentes em ambos os sistemas, inclua-os na mesma linha e indique que eles precisarão ser remapeados na seção &quot;Notas&quot; na extremidade direita da folha do Dicionário de dados.
+* Se existirem campos equivalentes em ambos os sistemas, inclua-os na mesma linha e indique que eles precisam ser remapeados na seção &quot;Notas&quot; na extremidade direita da folha do Dicionário de dados.
 
 >[!NOTE]
->Se você estiver planejando criar um campo Filtro de sincronização ([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"}), certifique-se de incluí-lo nesta etapa, mas deixe os nomes de API em branco até que o campo seja criado em seu CRM.
+>Se você estiver planejando criar um campo Filtro de sincronização ([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"}), certifique-se de incluí-lo nesta etapa, mas deixe os nomes de API em branco até que o campo seja criado em seu CRM.
 
 **Etapa 5:** Analise o Dicionário de Dados com o Administrador do CRM
 
@@ -97,7 +97,7 @@ Geralmente, a prática recomendada é sincronizar apenas campos do CRM que serã
 **Etapa 6:** Executar a sincronização inicial
 
 * Verifique se todos os campos que você deseja sincronizar com o Marketo Engage têm os privilégios apropriados em seu CRM, conforme definido pelo dicionário de dados.
-* Verifique se todos os campos que você ***não*** deseja sincronizar com o Marketo Engage estão [ocultos do Perfil de Sincronização do Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}. É muito mais fácil adicionar novos campos à sincronização depois do que remover campos que foram sincronizados involuntariamente.
+* Verifique se todos os campos que você **não** deseja sincronizar com o Marketo Engage estão [ocultos do Perfil de Sincronização do Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync){target="_blank"}. É muito mais fácil adicionar novos campos à sincronização depois do que remover campos que foram sincronizados involuntariamente.
 * Você está conectando seu CRM ao campo Filtro de sincronização? Se você sincronizar com o Salesforce, entre em contato com o Suporte ao cliente do Adobe para garantir que a funcionalidade de filtro esteja ativada antes de iniciar sua sincronização inicial.
 
 
@@ -114,7 +114,7 @@ Geralmente, a prática recomendada é sincronizar apenas campos do CRM que serã
 
 * Entre em contato com o Suporte com as seguintes informações para os campos que precisam ser remapeados:
    * Exibir nomes de &amp; API para novos campos duplicados criados pelo CRM.
-   * Nome para exibição do campo Marketo Engage que você deseja que o campo do CRM mapeie.
+   * Nome para exibição do campo Marketo Engage para o qual você deseja que o campo do CRM mapeie.
    * Consulte este exemplo [AQUI](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284){target="_blank"}.
 * Quando o remapeamento estiver concluído, revise os nomes de API dos campos remapeados em Marketo Engage e atualize os valores na coluna &quot;Nome de API&quot; do dicionário de dados para garantir que ela contenha as informações mais precisas.
 
@@ -133,21 +133,21 @@ Saiba como o Marketo Engage e o Salesforce se unem para manter seus dados de ven
 
 +++**Links usados no vídeo:**
 
-* [Entendendo a sincronização do Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html){target="_blank"}
+* [Entendendo a sincronização do Salesforce](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync){target="_blank"}
 
-* [Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.html){target="_blank"}
+* [Adicionar campos do Marketo ao Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited){target="_blank"}
 
-* [Criar um usuário do Marketo no Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html){target="_blank"}
+* [Criar um usuário do Marketo no Salesforce (Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited){target="_blank"}
 
-* [Conecte o Marketo e o Salesforce(Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html){target="_blank"}
+* [Conecte o Marketo e o Salesforce(Enterprise/Unlimited)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited){target="_blank"}
 
-* [Os usuários precisariam Configurar o Aplicativo Conectado no lado do Salesforce antes de prosseguir para o Marketo e o Salesforce Sync.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html){target="_blank"}
+* [Os usuários precisariam Configurar o Aplicativo Conectado no lado do Salesforce antes de prosseguir para o Marketo e o Salesforce Sync.](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0){target="_blank"}
 
-* [Status de sincronização do Salesforce](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html){target="_blank"}
+* [Status de sincronização do Salesforce](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status){target="_blank"}
 
-* [Ocultar e Reexibir um Campo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field.html){target="_blank"}
+* [Ocultar e Reexibir um Campo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/hide-and-unhide-a-field){target="_blank"}
 
-* [Tutorial: Saiba mais sobre como sincronizar o Marketo com seu CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html){target="_blank"}
+* [Tutorial: Saiba mais sobre como sincronizar o Marketo com seu CRM](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
 
 +++
 
@@ -159,27 +159,27 @@ Saiba como a sincronização do Microsoft Dynamics 365 funciona e configure a co
 
 +++**Links usados no vídeo:**
 
-* [Noções básicas sobre a sincronização do Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html){target="_blank"}
+* [Noções básicas sobre a sincronização do Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync){target="_blank"}
 
-* [Baixar a Solução Marketo de Gerenciamento de Clientes Potenciais](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html){target="_blank"}
+* [Baixar a Solução Marketo de Gerenciamento de Clientes Potenciais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution){target="_blank"}
 
-* [Atualizar a Solução Marketo para Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html){target="_blank"}
+* [Atualizar a Solução Marketo para Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics){target="_blank"}
 
-* [Conceder consentimento para a ID do cliente e o registro do aplicativo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
+* [Conceder consentimento para a ID do cliente e o registro do aplicativo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration)
 
-* [Validar a sincronização do Microsoft Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html){target="_blank"}
+* [Validar a sincronização do Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync){target="_blank"}
 
-* [Status de sincronização](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html){target="_blank"}
+* [Status de sincronização](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status){target="_blank"}
 
-* [Corrigir Problemas De Sincronização De Validação Do Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html){target="_blank"}
+* [Corrigir Problemas De Sincronização De Validação Do Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues){target="_blank"}
 
-* [Criar um Filtro de Sincronização do Dynamics Personalizado](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html){target="_blank"}
+* [Criar um Filtro de Sincronização do Dynamics Personalizado](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter.html){target="_blank"}
 
-* [Exibir a URL do Serviço de Organização](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html){target="_blank"}
+* [Exibir a URL do Serviço de Organização](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url){target="_blank"}
 
-* [Editando Campos para Sincronização Antes de Excluí-los no Dynamics](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html){target="_blank"}
+* [Editando Campos para Sincronização Antes de Excluí-los no Dynamics](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics){target="_blank"}
 
-* [Tutorial: Saiba mais sobre como sincronizar o Marketo com seu CRM](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html){target="_blank"}
+* [Tutorial: Saiba mais sobre como sincronizar o Marketo com seu CRM](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn){target="_blank"}
 
 +++
 
@@ -190,4 +190,3 @@ Saiba como a sincronização do Microsoft Dynamics 365 funciona e configure a co
 {{peter-livadas}}
 
 {{amy-chiu}}
-
