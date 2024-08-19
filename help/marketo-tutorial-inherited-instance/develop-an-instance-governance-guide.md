@@ -1,6 +1,6 @@
 ---
-title: Desenvolver um guia de governança de instância com a documentação
-description: Saiba como estabelecer um procedimento robusto para criar e manter a documentação e o log de alterações da sua instância  [!DNL Marketo Engage] . Isso não só economizará tempo para o compartilhamento de conhecimento da sua equipe, como também melhorará a integridade e a eficiência da sua instância.
+title: Desenvolver um guia de governança de instância com documentação
+description: Saiba como estabelecer um procedimento robusto para criar e manter a documentação e o log de alterações da sua instância  [!DNL Marketo Engage] .
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -11,9 +11,9 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 Este tutorial passo a passo, com origem no [!DNL [!DNL Adobe] Marketo Champion] (2018), Nick Hajdin, guiará você por esse processo para destacar a configuração da sua instância, documentar os seus principais programas operacionais e manter um [!DNL changelog] para impor uma política de governança rigorosa.
 
-## Por que desenvolver um guia e uma documentação de governança de instância para sua instância herdada?
+## Desenvolver um guia de governança de instância para a instância herdada
 
-A documentação detalhada e um [!DNL changelog] são vitais para o gerenciamento eficiente e a transferência de conhecimento na sua instância [!DNL Marketo Engage]. Acompanhar as alterações e decisões tomadas durante a configuração da instância pode ajudar a:
+A documentação detalhada e um [!UICONTROL Changelog] são vitais para o gerenciamento eficiente e a transferência de conhecimento na sua instância [!DNL Marketo Engage]. Acompanhar as alterações e decisões tomadas durante a configuração da instância pode ajudar a:
 
 1. Treine usuários internos com mais facilidade e de maneira escalável.
 2. Crie com mais eficiência em [!DNL Marketo Engage] a longo prazo.
@@ -78,9 +78,9 @@ Comece identificando os principais programas operacionais com impactos no nível
 
 Para cada programa operacional identificado, documentar o seu estado atual. Isso inclui detalhes sobre a finalidade do programa, a configuração, as campanhas inteligentes associadas e a integração com outras ferramentas (se aplicável).
 
-### Etapa 4: Impor Manutenção de [!DNL Changelog]
+### Etapa 4: Aplicar manutenção de [!UICONTROL Changelog]
 
-A próxima etapa é estabelecer uma política de governança rigorosa para sua instância [!DNL Marketo Engage] que exija a manutenção de &quot;[!DNL Changelog]&quot;. Essa política garante que todas as atualizações feitas nos programas operacionais em toda a instância sejam documentadas detalhadamente.
+A próxima etapa é estabelecer uma política de governança rigorosa para sua instância [!DNL Marketo Engage] que exija a manutenção do &quot;[!UICONTROL Changelog]&quot;. Essa política garante que todas as atualizações feitas nos programas operacionais em toda a instância sejam documentadas detalhadamente.
 
 Informe sua equipe sobre a importância desses documentos e como acessá-los e atualizá-los corretamente. Pode ser útil atribuir responsabilidades para manter o log de alterações, de modo que alguns membros ou administradores designados da equipe de Operação de marketing estejam constantemente registrando alterações e fornecendo aprovações.
 
@@ -88,11 +88,11 @@ Informe sua equipe sobre a importância desses documentos e como acessá-los e a
 
 Estabeleça um local central ou repositório para armazenar toda a documentação relacionada à sua instância do [!DNL Marketo Engage]. Pode ser uma unidade compartilhada, uma pasta dedicada ou um sistema baseado em nuvem.
 
-### Etapa 6: revisar e atualizar regularmente
+### Etapa 6: revisar e atualizar
 
 Programe revisões regulares de sua documentação para garantir que ela permaneça precisa e atualizada. Pode ser facilmente ignorado durante os horários de maior movimento. Configure lembretes proativamente no seu calendário para garantir que sua equipe faça atualizações regularmente para refletir quaisquer alterações ou otimizações em seus programas operacionais.
 
-## O que está por vir?
+## O que vem a seguir?
 
 Comece baixando este [modelo simples](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 

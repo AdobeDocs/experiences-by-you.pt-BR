@@ -11,14 +11,14 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
 
-# Registrar erros de sincronização do CRM para facilitar a solução de problemas
+# Registrar erros de sincronização do CRM para solução de problemas
 
 Como administrador do [!DNL Marketo Engage], verificar se sua instância está sincronizada com o CRM deve ser uma parte essencial da sua [rotina diária](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. Embora a [seção Notificações](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (encontre-a no canto superior direito da interface do [!DNL Marketo Engage]) seja onde você começará a encontrar e investigar problemas frequentes de sincronização, há uma dica profissional que pode ajudá-lo a gerenciar a integridade da instância de maneira organizada. Especialista em Marketo do [!DNL Adobe] (2019-2022), Amy Goldfine recomenda que os usuários administradores mantenham um log dos erros de Sincronização do CRM para facilitar a solução de problemas.
 
@@ -46,9 +46,9 @@ Antes de começar, baixe o [modelo de Log de Erros de Sincronização do CRM](/h
 
 **Etapa 7:** na última coluna, cole o texto real do erro.
 
-## O que está por vir?
+## O que vem a seguir?
 
-**Identificar Códigos de Erro:** Para entender os códigos de erro, procure as descrições na [tabela Códigos de Erro de Nível de Resposta](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} da documentação de desenvolvedores e localize as próximas etapas típicas para resolver os erros.
+**Identificar códigos de erro:** Para entender os códigos de erro, procure as descrições na [tabela Códigos de Erro de Nível de Resposta](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes){target="_blank"} da documentação de desenvolvedores e localize as próximas etapas típicas para resolver os erros.
 
 ## Autores
 

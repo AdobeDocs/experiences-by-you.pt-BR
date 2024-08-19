@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento de partes interessadas para implementar o Marketo Engage
+title: Gerenciar partes interessadas para implementar o Marketo Engage
 description: Conheça as estratégias para gerenciar as partes interessadas de maneira eficaz durante a implementação da sua instância do Marketo Engage. Este tutorial fornece dicas acionáveis para descobrir as necessidades das partes interessadas, obter a adesão à liderança e comunicar entre funções para buscar suporte de implementação.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%
@@ -69,7 +69,7 @@ Melhor,
 </table>
 
 
-### Ação 3 — Demonstrar Vantagens Antecipadas
+### Ação 3 — Demonstrar vitórias antecipadas
 
 Mostre vitórias rápidas ou projetos piloto para demonstrar o impacto do Marketo Engage. Pode ser uma campanha de email direcionada que impulsiona um engajamento significativo ou um fluxo de trabalho automatizado que simplifica a criação de leads. Compartilhe esses sucessos com as partes interessadas para reforçar o seu apoio e entusiasmo.
 
@@ -133,7 +133,7 @@ Melhor,
 </tr>
 </table>
 
-### Ação 4 — Promover A Comunicação Contínua
+### Ação 4 — Promover a comunicação contínua
 
 Manter canais de comunicação regulares com as partes interessadas durante todo o processo de implementação. Agende reuniões de check-in ou envie atualizações de progresso usando os modelos de email fornecidos para mantê-los informados e envolvidos. Isso também permite que você resolva qualquer problema ou dúvida imediatamente para garantir a adesão contínua dessas equipes.
 
@@ -180,7 +180,7 @@ Melhor,
 
 Ao seguir essas dicas acionáveis e fazer referência aos modelos, você estará mais bem equipado para implementar o Marketo Engage com êxito e garantir o forte suporte das partes interessadas em todo o processo de integração.
 
-## O que está por vir?
+## O que vem a seguir?
 
 Baixe e use o [Modelo e Guia de Comunicações Internas de Integração](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank} para criar atualizações regulares e relatar o progresso para as partes interessadas. Inclua métricas principais, conquistas e marcos futuros para mantê-los informados e envolvidos.
 

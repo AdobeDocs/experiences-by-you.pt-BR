@@ -1,5 +1,5 @@
 ---
-title: Planejamento para uma nova implementação do Marketo Engage
+title: Planejar uma nova implementação do Marketo Engage
 description: Saiba mais sobre o planejamento essencial e a colaboração em equipe multifuncional para implementar com êxito uma nova instância do Marketo Engage. Este tutorial fornece exemplos de marcos, envolvimentos de equipe e alocações de recursos para uma implementação perfeita do Marketo Engage.
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%
 
 ---
 
-# Planejamento para uma nova implementação do Marketo Engage
+# Planejar uma nova implementação do Marketo Engage
 
 A implementação de uma nova instância de Marketo Engage envolve planejamento meticuloso, colaboração entre equipes e otimização contínua. Embora não haja uma receita perfeita para implementar uma nova instância, a maioria dos administradores de Marketo Engage que passaram por ela podem concordar que o planejamento antecipado tornará o processo muito mais tranquilo.
 
@@ -130,7 +130,7 @@ Ouça o Marketo Engage Champion (2019), Kyle McCormick, sobre suas experiências
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
-## O que está por vir?
+## O que vem a seguir?
 
 Crie um novo plano e cronograma do projeto de implementação. Abaixo está uma linha de tempo de projeto de amostra, incluindo seções para marcos de amostra, tarefas, equipes responsáveis, prazos e dependências. Use-a para simplificar sua jornada de implementação do Marketo Engage e garantir uma implantação bem-sucedida em toda a organização.
 

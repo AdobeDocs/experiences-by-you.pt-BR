@@ -1,6 +1,6 @@
 ---
-title: Criação de modelos de pontuação de pessoas para programas do Marketo Engage
-description: O Adobe Marketo Engage permite criar modelos de pontuação desde o início. Antes de pular diretamente no Marketo Engage para criar seus programas de pontuação, será necessário configurar os campos de pontuação essenciais, como Pontuação demográfica, Pontuação comportamental e Pontuação total de pessoa. Saiba mais sobre as estratégias usadas pelos especialistas em Marketo Engage para desenvolver Modelos de pontuação de que sua empresa precisa.
+title: Criar modelos de pontuação de pessoas para programas Marketo Engage
+description: Saiba como criar modelos de pontuação desde o início.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2055'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 A pontuação de pessoa ajuda você a identificar as pessoas que estão mais envolvidas com sua empresa e são seu Perfil de cliente ideal, para que você possa compartilhar esses leads com sua equipe de vendas e fechar negócios! Juntamente com as vendas, você determina quais leads deseja entregar a eles usando um programa de pontuação de lead/pessoa no Adobe Marketo Engage. Isso pode ser determinado por um mínimo de pontuação comportamental, pontuação demográfica ou ambos.
 
-Neste tutorial, vamos orientá-lo por três exercícios sugeridos pelas campeãs de Marketo Engage Christina Zuniga e Katja Keesom. Acompanhe para determinar quais atividades e características são indicadores importantes que um cliente potencial está interessado em comprar (pontuação comportamental), é a mais adequada para você (pontuação demográfica) e leve em conta as nuances dos mercados.
+Neste tutorial, guiamos você por três exercícios sugeridos pelas Marketo Engage champions Christina Zuniga e Katja Keesom. Acompanhe para determinar quais atividades e características são indicadores importantes que um cliente potencial está interessado em comprar (pontuação comportamental), é a mais adequada para você (pontuação demográfica) e leve em conta as nuances dos mercados.
 
 ## Por que desenvolver e usar um modelo de pontuação de pessoa?
 
@@ -79,7 +79,7 @@ A pontuação comportamental dá um valor numérico às ações rastreáveis que
 
 **Etapa 5** - Lembre-se, a pontuação é um processo iterativo! Revise e ajuste continuamente pontuações e limites à medida que coletar mais dados para análise.
 
-## Exercício 2 - Identificação do ajuste certo com pontuações demográficas
+## Exercício 2 - Identificar o ajuste correto com pontuações demográficas
 
 Agora que você definiu as atividades indicando a intenção de compra, deve concluir o modelo de pontuação com os Perfis de cliente potencial ideal. Para identificar se um cliente potencial é a opção certa para futuras conversas de vendas, é importante atribuir pontuações demográficas além de pontuações comportamentais para que o modelo ajude a determinar os melhores leads em termos de adequação e intenção.
 
@@ -231,7 +231,7 @@ Você prefere uma apresentação em vídeo para este exercício? Ajuste como a M
   </tr>
 </table>
 
-## O que está por vir?
+## O que vem a seguir?
 
 * Baixe a [folha de exercícios de pontuação da pessoa](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} para desenvolver seu modelo de pontuação offline.
 * Desenvolva a pontuação da sua pessoa no Marketo Engage. Verifique este [tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} e a [demonstração](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank} para começar. Você pode importar um programa de pontuação de cliente potencial/pessoa [modelo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} da Biblioteca de Referência de Marketo Engage para acelerar a criação do programa.

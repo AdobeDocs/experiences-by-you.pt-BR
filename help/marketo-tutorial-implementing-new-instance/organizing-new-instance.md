@@ -1,5 +1,5 @@
 ---
-title: Organizar uma nova instância e estabelecer convenções de nomenclatura
+title: Organizar uma Nova Instância e Estabelecer Convenções de Nomenclatura
 description: Saiba como configurar uma boa organização na instância do Marketo Engage, permitindo que futuros profissionais de marketing em sua organização naveguem facilmente pelos programas, modifiquem os ativos e obtenham relatórios.
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
 
 ---
 
-# Organizar uma nova instância e estabelecer convenções de nomenclatura
+# Organize uma nova instância e estabeleça convenções de nomenclatura
 
 Como administrador de implementação de uma nova instância do Marketo Engage, você está estabelecendo a base para permitir que futuros profissionais de marketing na organização naveguem facilmente pela instância. Conhecer a estrutura de pastas de árvore e as convenções de nomenclatura manterá sua instância organizada e configurada para obter sucesso a longo prazo. Este tutorial abrange exemplos recomendados pelo Adobe e Marketo Engage Champion(2019-2020), Natalie Kremer, para ajudá-lo a [organizar as pastas e nomear os ativos de forma consistente](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
 
@@ -176,7 +176,7 @@ Com isso em mente, aplicaremos essas dicas aos seguintes ativos e criaremos fór
 >
 >Ao nomear arquivos nos exemplos acima, não use espaços e evite o uso de sublinhados &quot;\_&quot;
 
-## O que está por vir?
+## O que vem a seguir?
 
 * Baixe a Planilha: [Organização de Marketo Engage e Convenções de Nomenclatura](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} para dar suporte à criação da estrutura de pastas e convenções de nomenclatura.
 * Depois de determinar os componentes necessários em sua convenção de nomenclatura padrão, considere criar fórmulas em uma Planilha do Google ou no Microsoft Excel. Para uso futuro, basta inserir seus valores na planilha para gerar os nomes do programa.

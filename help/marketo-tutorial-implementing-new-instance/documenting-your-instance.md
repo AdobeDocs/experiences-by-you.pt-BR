@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -101,7 +101,7 @@ Outra maneira crítica de governança de instâncias é criar um Changelog e imp
 1. Motivo da alteração
 1. Quem fez a alteração
 
-## O que está por vir?
+## O que vem a seguir?
 
 * Baixe a [documentação de amostra e o Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) e adapte-os com base nas necessidades da sua organização.
 * Armazene a documentação em uma plataforma acessível na qual sua organização prefira fazer referência e atualizar regularmente. Por exemplo, alguns Marketo Engage Champions usam Confluence (de Atlassian) ou Excel Spreadsheet.

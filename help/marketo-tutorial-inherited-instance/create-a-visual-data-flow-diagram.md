@@ -1,5 +1,5 @@
 ---
-title: Crie um diagrama de fluxo de dados visual para entender sua pilha de tecnologia de marketing
+title: Crie um diagrama de fluxo de dados para entender sua pilha de tecnologia de marketing
 description: Saiba como criar um diagrama de "Líder e fontes de dados" para entender o universo de dados, auditar e organizar a instância com eficiência.
 feature-set: Marketo Engage
 feature: Administration
@@ -11,14 +11,14 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
 
-# Crie um diagrama de fluxo de dados visual para entender sua pilha de tecnologia de marketing
+# Criar um diagrama de fluxo de dados para entender sua pilha de tecnologia de marketing
 
 Como um administrador que assume uma instância do [!DNL Marketo Engage] que está ativa há anos, é como uma missão impossível auditar e organizar a instância com eficiência. Quando [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, entrou em uma instância há muito estabelecida, ela enfrentou esse desafio ao [criar um diagrama de &quot;Líder e fontes de dados&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} para se familiarizar com o universo de dados. Neste tutorial, você aprenderá a criar seu próprio diagrama de fluxo de dados, aproveitando os exemplos compartilhados por Kelly Jo Horton. Vamos conhecer seu ecossistema da MarTech!
 
@@ -51,7 +51,7 @@ Crie uma versão técnica que mostre detalhes como o nome de usuário da API par
 ![Versão técnica](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
 
-## O que está por vir?
+## O que vem a seguir?
 
 **Introdução aos Exemplos:**
 Baixe um dos diagramas de fluxo de dados de amostra para mapear o estado atual de sua pilha de tecnologia de marketing, pessoa e fluxo de dados ou crie um diagrama para seu universo de dados do zero enquanto audita a instância:

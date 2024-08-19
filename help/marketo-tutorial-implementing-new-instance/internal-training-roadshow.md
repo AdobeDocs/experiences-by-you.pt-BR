@@ -1,5 +1,5 @@
 ---
-title: Desenvolvimento de um roteiro interno de integração e treinamento
+title: Desenvolver roteiro interno de integração e treinamento
 description: Saiba como estabelecer um procedimento robusto para criar e manter a documentação e o log de alterações da sua instância  [!DNL Marketo Engage] . Isso não só economizará tempo para o compartilhamento de conhecimento da sua equipe, como também melhorará a integridade e a eficiência da sua instância.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Esta é uma amostra do currículo de treinamento sugerido por Naomi Liu para voc
 | Relatórios e análises | <ul><li>Apresentação do relatório</li><li>Email, página de aterrissagem e desempenho do programa</li><li>Criar seus próprios relatórios</li><li>Insights de email e desempenho</li></ul> | Treinamento contínuo, vídeos gravados para sessões importantes, revisões regulares | 2h |
 | IA de conteúdo | <ul><li>Revisar a funcionalidade da IA de conteúdo</li><li>Revisar ativos qualificados para a IA de conteúdo (ou seja, página de aterrissagem, email e caixa de diálogo)</li><li>Mapear o processo (quando/onde) para usar</li></ul> | Sessão em tempo real, apresentação para análise e como funciona | 1h |
 
-## O que está por vir?
+## O que vem a seguir?
 
 * Baixe a [planilha do currículo de treinamento de amostra](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} para desenvolver seus módulos de treinamento internos.
 * Preencha as equipes adequadas para o tópico da sessão.

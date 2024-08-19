@@ -11,10 +11,10 @@ thumbnail: 3419295.jpeg
 feature-set: Marketo Engage
 feature: Reporting
 exl-id: d45b2757-bc7f-4085-b374-ea8c1caf1774
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 5%
+source-wordcount: '67'
+ht-degree: 2%
 
 ---
 
@@ -29,5 +29,5 @@ Saiba como navegar no [!DNL Analytics] e na seção Banco de Dados para obter di
 * **Documentação do produto**
 Saiba mais sobre os diferentes relatórios que você pode obter - [Visão geral dos relatórios](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
-* **Post do Expert Customer Blog**
+* **Publicação de especialista no blog do cliente**
 Aprenda com o Campeão Chelsea Kiko a criar vários relatórios - [Relatórios em Vários [!DNL Marketo Engage] Espaços](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
