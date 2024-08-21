@@ -201,7 +201,7 @@ Pode haver itens ausentes ou não aplicáveis à medida que sua equipe executa e
 
 ## O que vem a seguir?
 
-Clique [aqui](/help/marketo-tutorial-inher-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) para baixar a lista de verificação de pré-inicialização do programa editável para que você personalize. Lembre-se de que isso deve ser adaptado para se adequar ao fluxo de trabalho da sua organização. O desenvolvimento de um processo eficaz de controle de qualidade mantém você responsável e limita os erros enfrentados pelo cliente.
+Clique [aqui](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) para baixar a lista de verificação de pré-inicialização do programa editável para que você personalize. Lembre-se de que isso deve ser adaptado para se adequar ao fluxo de trabalho da sua organização. O desenvolvimento de um processo eficaz de controle de qualidade mantém você responsável e limita os erros enfrentados pelo cliente.
 
 ### Autores
 
