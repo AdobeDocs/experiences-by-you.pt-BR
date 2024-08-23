@@ -10,10 +10,10 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 0%
+source-wordcount: '522'
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Bem-vindo ao Adobe [!DNL Marketo Engage]! Configurar uma nova instância é o primeiro passo para melhorar sua estratégia de marketing digital com a automação de marketing. A chave para uma implementação bem-sucedida do [!DNL Marketo Engage] é a documentação.
 
-Esta série _Implementação de novas dicas e truques de instância_ é de Adobe [!DNL Marketo Engage] especialistas que conquistaram a implementação antes. O tutorial fornece orientação passo a passo para que novos administradores gerenciem o projeto de implementação entre funções e definam as configurações técnicas de modo independente. Tópicos seletivos também acompanham listas de verificação e modelos baixáveis para que você personalize de acordo com suas necessidades sem começar do zero. Vamos mergulhar na sabedoria de seus colegas!
+Esta série de &quot;Implementação de novas dicas e truques de instância&quot; é proveniente dos especialistas do Adobe [!DNL Marketo Engage] que conquistaram a implementação antes. O tutorial fornece orientação passo a passo para que novos administradores gerenciem o projeto de implementação entre funções e definam as configurações técnicas de modo independente. Tópicos seletivos também acompanham listas de verificação e modelos baixáveis para que você personalize de acordo com suas necessidades sem começar do zero. Vamos mergulhar na sabedoria de seus colegas!
 
 ## Tópicos e o que você aprende
 
@@ -50,7 +50,7 @@ Esta série _Implementação de novas dicas e truques de instância_ é de Adobe
   *Saiba como configurar uma boa organização na instância do Marketo Engage, permitindo que futuros profissionais de marketing em sua organização naveguem facilmente pelos programas, modifiquem os ativos e obtenham relatórios.*
 <br>
 
-* [Criando marketing conversacional omnicanal com Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
+* [Criar marketing de conversação omnicanal com o Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
   *Comece rapidamente a criar marketing de conversação com o Adobe Dynamic Chat, o canal nativo de engajamento de conversação no Adobe Marketo Engage. Este tutorial oferece receitas práticas para implementar casos de uso, como reservas de reuniões de vendas, participação no conteúdo do site e promoção de eventos/webinários.*
 <br>
 
