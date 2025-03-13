@@ -1,16 +1,15 @@
 ---
 user-guide-title: 'Tutorial - Dicas e truques para implementar uma nova instância  [!DNL Marketo Engage] '
 user-guide-description: 'Tutorial - Dicas e truques para implementar uma nova instância  [!DNL Marketo Engage] '
-breadcrumb-title: 'Dicas e truques para implementar uma nova instância  [!DNL Marketo Engage] '
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
+breadcrumb-title: 'Implementando uma nova instância  [!DNL Marketo Engage] '
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e5e1b9a1b14c24c62fb492c79b8717edf1ba286a
+source-git-commit: 15e031893212a9c6258d1747f9d8d2c888ddfb54
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 3%
 
 ---
@@ -20,7 +19,7 @@ ht-degree: 3%
 
 + [Visão geral do tutorial](./overview.md)
 + [Gerenciar participantes para implementar o Marketo Engage](./managing-stakeholder-communications.md)
-+ [Planeje a implementação do Marketo Engage](./planning-for-new-implementation.md)
++ [Planejar a implementação do Marketo Engage](./planning-for-new-implementation.md)
 + [Desenvolver uma apresentação interna de integração e treinamento](./internal-training-roadshow.md)
 + [Criar modelo de pontuação de cliente potencial/pessoa](./building-person-scoring-model.md)
 + [Sincronizar campos dos conectores CRM nativos](./syncing-fields-for-crm-integration.md)
