@@ -1,7 +1,7 @@
 ---
-title: Dicas e truques do especialista em AEM - [!DNL Cloud Manager] Manual de integração
-description: Confira estas dicas de [!DNL Cloud Manager] onbarding e o manual de integração do defensor e especialista em AEM, Rakesh Pasupuleti.
-version: Cloud Service
+title: Dicas e truques do AEM Champion - [!DNL Cloud Manager] Manual de integração
+description: Confira estas dicas de [!DNL Cloud Manager] integração e o manual de integração do especialista e defensor da AEM, Rakesh Pasupuleti.
+version: Experience Manager as a Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Marketo Engage, Experience Manager, Experience Manager Cloud Manager
 feature: Cloud Manager
@@ -12,14 +12,14 @@ doc-type: Value Video
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-13228
 exl-id: 3ee98846-35ff-4de1-af4b-b65376572dfe
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 2a628f89f602371c02db5204956d9397f306bdb8
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 1%
 
 ---
 
-# Dicas e truques do especialista em AEM - Manual de integração do [!DNL Cloud Manager]
+# Dicas e truques do AEM Champion - Manual de integração do [!DNL Cloud Manager]
 
 O manual de integração ajudará você a assumir o controle como um novo administrador e desenvolvedor do AEM as a Cloud Service. Na planilha que pode ser baixada, nós o guiaremos pelas atividades que você deve realizar nas primeiras três semanas do trabalho, ao iniciar a jornada de integração.
 
@@ -27,7 +27,7 @@ O manual de integração ajudará você a assumir o controle como um novo admini
 >
 >Baixe o [manual de integração aqui.](./assets/Cloud-Manager-for-AEM-as-a-Cloud-Service.xlsx)
 
-Dê uma olhada nessas dicas de seu colega técnico, Rakesh Pasupuleti. Rakesh é um defensor de Experience Manager [!DNL Adobe] e compartilha ideias sobre como usar o manual de integração.
+Dê uma olhada nessas dicas de seu colega técnico, Rakesh Pasupuleti. Rakesh é um defensor do Experience Manager [!DNL Adobe] e compartilha ideias sobre como usar o manual de integração.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
 
