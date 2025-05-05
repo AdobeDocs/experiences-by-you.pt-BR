@@ -27,7 +27,7 @@ Manter-se organizado em sua instância facilita para você e seus colegas rastre
 
 ## Como organizar uma instância do Marketo Engage
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422767/?quality=12&learn=on&captions=por_br)
 
 ### Etapa 1 - Configuração de uma estrutura de pastas para colocar seus programas em ordem
 

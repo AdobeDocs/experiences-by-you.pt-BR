@@ -45,7 +45,7 @@ A coisa mais poderosa sobre as soluções do [!DNL Adobe Experience Cloud]? Voc�
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Traduzindo a linguagem técnica [!DNL Adobe Analytics] de forma não técnica" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
+      <img alt="Traduzindo a linguagem técnica [!DNL Adobe Analytics] de forma não técnica" src="https://video.tv.adobe.com/v/345332?format=jpeg&captions=por_br" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">

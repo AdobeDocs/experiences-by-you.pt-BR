@@ -121,7 +121,7 @@ Com os modelos básicos de pontuação comportamental e demográfica que você c
 
 Você prefere uma apresentação em vídeo para este exercício? Ajuste como a Marketo Engage Champion Katja Keesom demonstra a criação de flexibilidade local no modelo de pontuação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457444/?learn=on&captions=por_br)
 
 **Etapa 1** - Tire as atividades e características dos exercícios 1 e 2 e determine se elas variam de acordo com a localização ou a linha de produtos para cada item.
 

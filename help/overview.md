@@ -45,7 +45,7 @@ O mais poderoso das soluções [!DNL Adobe] de experiência digital (DX)? Você.
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] Programas de e-mail" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] Programas de e-mail" src="https://video.tv.adobe.com/v/3453372?format=jpeg&captions=por_br" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

@@ -49,7 +49,7 @@ Vamos ver esses casos de uso em ação, à medida que Sara exibe seu processo, d
 
 Essa caixa de diálogo fornece cinco opções iniciais para os visitantes do site escolherem entre elas, criando uma experiência autoguiada que os ajuda a encontrar as informações necessárias com base em sua persona. Para começar, você pode explorar sua caixa de entrada de email &quot;Fale conosco&quot; para identificar temas comuns e categorizá-los em opções de caixa de diálogo que se aplicam aos visitantes do site. Assista à demonstração e siga as etapas abaixo para criar sua caixa de diálogo catch-all padrão:
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453735/?learn=on&captions=por_br)
 
 >[!BEGINTABS]
 

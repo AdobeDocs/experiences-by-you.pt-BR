@@ -24,4 +24,4 @@ ht-degree: 81%
 
 Fluxos de trabalho, um poderoso recurso do [!DNL Adobe] [!DNL Campaign], ajudam você a gerenciar campanhas e alcançar clientes com mais facilidade. Aprenda e aplique as cinco práticas essenciais de fluxo de trabalho para profissionais de marketing com Adam Wilson, sócio diretor de marketing da LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448132?quality=12&learn=on&captions=por_br){transcript=true}
