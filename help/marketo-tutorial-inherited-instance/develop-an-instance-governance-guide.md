@@ -30,7 +30,7 @@ A documentação detalhada e um [!UICONTROL Changelog] são vitais para o gerenc
 
 1. Treine usuários internos com mais facilidade e de maneira escalável.
 2. Crie com mais eficiência em [!DNL Marketo Engage] a longo prazo.
-3. Mantenha a integridade e a higiene de sua instância avançando para evitar que você passe horas pesquisando emails, [trilha de auditoria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) e [log de atividades](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) para obter contexto.
+3. Mantenha a integridade e a higiene de sua instância avançando para evitar que você passe horas pesquisando emails, [trilha de auditoria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=pt-BR) e [log de atividades](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=pt-BR) para obter contexto.
 4. Economize tempo ao transferir o conhecimento sobre o [!DNL Marketo Engage] para um novo administrador do [!DNL Marketo Engage] se a equipe passar por algum volume de negócios.
 
 ## Guia de governança 101 do [!DNL Marketo Engage]

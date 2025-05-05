@@ -23,7 +23,7 @@ Como administrador de implementação de uma nova instância do Marketo Engage, 
 
 ## Por que é necessário estruturar pastas e aplicar convenções de nomenclatura?
 
-Manter-se organizado em sua instância facilita para você e seus colegas rastrear campanhas, programas e ativos e relatar o desempenho do programa. Para organizar a árvore de navegação em sua instância e compilá-la em escala, é recomendável usar [pastas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [convenções de nomenclatura padrão](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} e recursos como [clonagem](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+Manter-se organizado em sua instância facilita para você e seus colegas rastrear campanhas, programas e ativos e relatar o desempenho do programa. Para organizar a árvore de navegação em sua instância e compilá-la em escala, é recomendável usar [pastas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [convenções de nomenclatura padrão](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} e recursos como [clonagem](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
 ## Como organizar uma instância do Marketo Engage
 
@@ -31,7 +31,7 @@ Manter-se organizado em sua instância facilita para você e seus colegas rastre
 
 ### Etapa 1 - Configuração de uma estrutura de pastas para colocar seus programas em ordem
 
-A primeira etapa para organizar sua instância é [configurar uma estrutura de pastas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) para hospedar seu programa e seus ativos de maneira fácil de encontrar e ordenada.
+A primeira etapa para organizar sua instância é [configurar uma estrutura de pastas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=pt-BR) para hospedar seu programa e seus ativos de maneira fácil de encontrar e ordenada.
 
 Estas são algumas dicas rápidas ao estruturar as pastas na árvore:
 

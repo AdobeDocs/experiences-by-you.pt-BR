@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Se você herdar uma instância [!DNL Marketo Engage] ao vivo que foi gerenciada por várias pessoas, poderá ficar fazendo anotações mentais de tudo que parecer deslocado. É importante organizar o trabalho de limpeza e otimização categorizando as tarefas e priorizando as tarefas que percorrem um longo caminho.
 
-Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, proveniente de especialistas do Marketo [!DNL Adobe], fornece orientação passo a passo para novos administradores. O tutorial acompanha [listas de verificação de auditoria](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) e modelos baixáveis para ajudá-lo a iniciar imediatamente uma instância herdada. Siga junto com os tutoriais e inspire-se no aprendizado dos colegas!
+Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, proveniente de especialistas do Marketo [!DNL Adobe], fornece orientação passo a passo para novos administradores. O tutorial acompanha [listas de verificação de auditoria](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=pt-BR) e modelos baixáveis para ajudá-lo a iniciar imediatamente uma instância herdada. Siga junto com os tutoriais e inspire-se no aprendizado dos colegas!
 
 ## Tópicos e o que você aprenderá
 

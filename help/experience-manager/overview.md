@@ -77,6 +77,6 @@ A coisa mais poderosa sobre as soluções de Experience Cloud [!DNL Adobe]? Voc�
 ## Recursos adicionais
 
 * [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=pt)
-* [Documentação do Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
-* [Tutorials Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [Documentação do Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=pt-BR)
+* [Tutorials Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=pt-BR)
 * Experience Manager [informações sobre o produto](https://business.adobe.com/br/products/experience-manager/adobe-experience-manager.html)

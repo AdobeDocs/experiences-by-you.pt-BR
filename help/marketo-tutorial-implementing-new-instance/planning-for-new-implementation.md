@@ -38,7 +38,7 @@ Neste tutorial, analisaremos os marcos específicos, os envolvimentos de equipe 
 
 ### Fase 3 - Criação da biblioteca de programas e configuração da campanha
 
-- Desenvolvimento de modelos de email e landing pages. Começando com [importando programas iniciais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) da [Biblioteca de Importação de Programas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Desenvolvimento de modelos de email e landing pages. Começando com [importando programas iniciais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) da [Biblioteca de Importação de Programas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Configuração da segmentação e regras do Personalization
 - Criar campanhas iniciais para geração de leads e promoção
 

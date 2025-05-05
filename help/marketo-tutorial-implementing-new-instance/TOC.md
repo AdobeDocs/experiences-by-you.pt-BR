@@ -27,4 +27,4 @@ ht-degree: 3%
 + [Criar marketing conversacional omnicanal com o Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Introdução à governança de instâncias e documentação](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] tutoriais](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR)
-+ [Retornar às perspectivas](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
++ [Retornar às perspectivas](https://experienceleague.adobe.com/pt-br/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))

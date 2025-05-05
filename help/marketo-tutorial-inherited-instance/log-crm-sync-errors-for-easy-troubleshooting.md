@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Registrar erros de sincronização do CRM para solução de problemas
 
-Como administrador do [!DNL Marketo Engage], verificar se sua instância está sincronizada com o CRM deve ser uma parte essencial da sua [rotina diária](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. Embora a [seção Notificações](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (encontre-a no canto superior direito da interface do [!DNL Marketo Engage]) seja onde você começará a encontrar e investigar problemas frequentes de sincronização, há uma dica profissional que pode ajudá-lo a gerenciar a integridade da instância de maneira organizada. Especialista em Marketo do [!DNL Adobe] (2019-2022), Amy Goldfine recomenda que os usuários administradores mantenham um log dos erros de Sincronização do CRM para facilitar a solução de problemas.
+Como administrador do [!DNL Marketo Engage], verificar se sua instância está sincronizada com o CRM deve ser uma parte essencial da sua [rotina diária](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. Embora a [seção Notificações](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=pt-BR){target="_blank"} (encontre-a no canto superior direito da interface do [!DNL Marketo Engage]) seja onde você começará a encontrar e investigar problemas frequentes de sincronização, há uma dica profissional que pode ajudá-lo a gerenciar a integridade da instância de maneira organizada. Especialista em Marketo do [!DNL Adobe] (2019-2022), Amy Goldfine recomenda que os usuários administradores mantenham um log dos erros de Sincronização do CRM para facilitar a solução de problemas.
 
 ![Captura de tela da guia Erros de sincronização](/help/marketo-tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -34,7 +34,7 @@ Antes de começar, baixe o [modelo de Log de Erros de Sincronização do CRM](/h
 
 **Etapa 1:** vá para a seção *[!UICONTROL Administrador]* em [!DNL Marketo Engage]. Em *[!UICONTROL Integração]*, clique em *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]* ou *[!DNL Veeva]*, dependendo do [!DNL CRM] usado, em seguida, na guia *[!UICONTROL Erros de Sincronização]*.
 
-**Etapa 2:** Você pode optar por [exportar os registros de erros como um  [!DNL CSV] arquivo por meio do painel [!UICONTROL Filtro]](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}. Se você tiver poucas horas, copie e cole diretamente da guia *[!UICONTROL Erros de sincronização]*.
+**Etapa 2:** Você pode optar por [exportar os registros de erros como um  [!DNL CSV] arquivo por meio do painel [!UICONTROL Filtro]](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=pt-BR#filter-sync-errors){target="_blank"}. Se você tiver poucas horas, copie e cole diretamente da guia *[!UICONTROL Erros de sincronização]*.
 
 **Etapa 3:** Observe a data em que o erro ocorreu.
 

@@ -33,4 +33,4 @@ Dê uma olhada nessas dicas de seu colega técnico, Rakesh Pasupuleti. Rakesh é
 
 ## Recursos adicionais {#additional-resources}
 
-* [Jornada de integração do AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html) - Um guia passo a passo para um novo administrador do sistema provisionar inicialmente os recursos de nuvem e atribuir usuários a funções com base em suas responsabilidades de trabalho, para que cada membro da equipe possa fazer logon e acessar seus novos recursos do AEM as a Cloud Service
+* [Jornada de integração do AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html?lang=pt-BR) - Um guia passo a passo para um novo administrador do sistema provisionar inicialmente os recursos de nuvem e atribuir usuários a funções com base em suas responsabilidades de trabalho, para que cada membro da equipe possa fazer logon e acessar seus novos recursos do AEM as a Cloud Service

@@ -58,7 +58,7 @@ A coisa mais poderosa sobre as soluções do [!DNL Adobe Experience Cloud]? Voc�
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="Criar convenções de nomenclatura padronizadas" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="Criar convenções de nomenclatura padronizadas" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=pt-BR" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">

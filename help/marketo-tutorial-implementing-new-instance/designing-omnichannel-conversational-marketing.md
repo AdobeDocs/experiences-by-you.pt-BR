@@ -26,7 +26,7 @@ Este tutorial descreve o processo de reflexão e os casos de uso principais comp
 
 Os visitantes navegam pelo site por um motivo. Eles podem estar buscando conteúdo em seus produtos ou serviços ou procurando informações de contato para falar com seus representantes de vendas. Eles também podem ser seus clientes que procuram informações adicionais sobre o produto. O chat permite que os visitantes do site se autoatendam e se autoqualifiquem se estiverem prontos para falar com a equipe de vendas.
 
-Quando Sara Barriuso implementou o Dynamic Chat, ela se sentiu atraída pela sua integração perfeita com o Marketo Engage e os [acionadores de atividade pré-criados](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} que ativam programas Marketo Engage e vice-versa. Ela desenvolveu suas estratégias de engajamento conversacional com três segmentos de público-alvo em mente:
+Quando Sara Barriuso implementou o Dynamic Chat, ela se sentiu atraída pela sua integração perfeita com o Marketo Engage e os [acionadores de atividade pré-criados](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} que ativam programas Marketo Engage e vice-versa. Ela desenvolveu suas estratégias de engajamento conversacional com três segmentos de público-alvo em mente:
 
 1. Prospetos desconhecidos: ofereça chamadas de demonstração de forma proativa para gerar novos leads.
 2. Clientes potenciais conhecidos: aumente o tempo gasto pelos visitantes ao navegar pelo conteúdo e ofereça chamadas de demonstração para gerar oportunidades de venda adicional e venda cruzada.
@@ -193,7 +193,7 @@ Estender o envolvimento com o conteúdo do Campaign - Configuração:
 
 ## O que vem a seguir?
 
-* Mapeie seu fluxo de conversação em [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} ou um fluxograma offline.
+* Mapeie seu fluxo de conversação em [Stream Designer](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} ou um fluxograma offline.
 * Criar uma caixa de diálogo padrão catch-all no Dynamic Chat.
 * Ative os diálogos após o engajamento da campanha usando acionadores de automação no Marketo Engage.
 

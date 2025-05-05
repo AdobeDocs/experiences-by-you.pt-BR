@@ -21,7 +21,7 @@ ht-degree: 0%
 
 _Descubra o impacto dos histogramas no Analytics para insights além das médias. Os histogramas revelam padrões de dados no comportamento do cliente, envolvimento do visitante, desempenho técnico e erros de formulário, permitindo insights mais profundos e decisões informadas no Workspace [!DNL Adobe]._
 
-Vamos pular direto. Você deve usar [histogramas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). Vou explicar por que, mas quero responder sua primeira pergunta: O que diabos é um histograma? Entendi. Na maioria das vezes, quando você vê um monte de barras subindo, você pode pensar que é um gráfico de barras. Sim, os histogramas são parecidos, mas eu garanto que são diferentes. Um gráfico de barras compara as coisas, enquanto um histograma mostra a frequência com que uma variável ocorreu. Dê uma olhada. Aqui está um gráfico de barras:
+Vamos pular direto. Você deve usar [histogramas](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=pt-BR). Vou explicar por que, mas quero responder sua primeira pergunta: O que diabos é um histograma? Entendi. Na maioria das vezes, quando você vê um monte de barras subindo, você pode pensar que é um gráfico de barras. Sim, os histogramas são parecidos, mas eu garanto que são diferentes. Um gráfico de barras compara as coisas, enquanto um histograma mostra a frequência com que uma variável ocorreu. Dê uma olhada. Aqui está um gráfico de barras:
 
 ![Gráfico de barras 1](assets/bar-chart-1.png)
 

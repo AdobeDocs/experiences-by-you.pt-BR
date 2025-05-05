@@ -42,8 +42,8 @@ Esta série de &quot;Implementação de novas dicas e truques de instância&quot
 
 * [Sincronizando Campos dos Conectores CRM Nativos](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Saiba como simplificar sua integração inicial com o CRM selecionando estrategicamente os campos CRM essenciais para o Marketo Engage usar. Realize o exercício Dicionário de Dados para identificar os campos necessários para uma sincronização perfeita do CRM que ajude as equipes de vendas e marketing a permanecerem alinhadas.*
-   * [Introdução à sincronização do Salesforce](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
-   * [Introdução à sincronização do Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
+   * [Introdução à sincronização do Salesforce](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
+   * [Introdução à sincronização do Microsoft Dynamics](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
 <br>
 
 * [Organizar uma nova instância e estabelecer convenções de nomenclatura](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +59,6 @@ Esta série de &quot;Implementação de novas dicas e truques de instância&quot
 
 ## Recursos adicionais
 
-* [Implementando uma nova instância do Marketo Engage com listas de verificação de práticas recomendadas](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
+* [Implementando uma nova instância do Marketo Engage com listas de verificação de práticas recomendadas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *Cada lista de verificação fornece etapas valiosas para você acompanhar seu progresso de configuração. Use as listas de verificação que podem ser baixadas para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração de usuários.*
 

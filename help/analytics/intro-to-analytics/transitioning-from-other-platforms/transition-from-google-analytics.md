@@ -138,7 +138,7 @@ Outro recurso poderoso dos espaços de trabalho é a capacidade de aplicar modif
 
 >[!IMPORTANT]
 >
->Para saber mais sobre o uso de menus suspensos e detalhamentos de forma livre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Para saber mais sobre o uso de menus suspensos e detalhamentos de forma livre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=pt>
 
 ##### 2.1.2.2. Google [!DNL Analytics]: Painéis, Relatórios personalizados e Relatórios salvos
 
@@ -268,7 +268,7 @@ No entanto, eu recomendaria o uso do [!DNL Adobe Analytics] e do Google [!DNL An
 
 Há muitos recursos disponíveis para você além deste guia que podem ajudar a melhorar sua estratégia:
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) - Contém tutoriais, vídeos, documentação e fóruns da comunidade
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home) - Contém tutoriais, vídeos, documentação e fóruns da comunidade
 * [[!DNL Adobe] Grupos de usuários](https://analytics-augs.adobe.com/) - Um hub de eventos executados pela comunidade para ajudar os usuários a se conectarem e melhorar suas implementações.
 * [[!DNL Adobe Analytics] Canal YouTube de Grupos de Usuários](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Não foi possível criar uma sessão de grupo de usuários [!DNL Adobe Analytics]? Assista novamente às sessões anteriores de grupos de usuários em todo o mundo para saber mais sobre como seus colegas estão usando a ferramenta.
 * [Canal de Slack de Chat de Medida](https://www.measure.chat/) - Conecte-se com [!DNL Adobe Analytics] usuários em todo o mundo e compartilhe aprendizados do setor, faça perguntas a seus colegas e participe de grupos de interesse com foco em medição.
