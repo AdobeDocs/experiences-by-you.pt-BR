@@ -65,7 +65,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 ## 3. Use as ferramentas para começar a criar a sua comunidade
 
-* [Criar uma carta de projeto](assets/[!DNL Adobe]-[!DNL Analytics]-Empow-Community-Project-Charter-Template.pptx) (download de modelo):
+* [Criar uma carta de projeto] (assets/[!DNL Adobe]-[!DNL Analytics]-Empow-Community-Project-Charter-Template.pptx) (download de modelo):
 
   Uma carta de projeto geralmente é uma ótima maneira de alinhar seus negócios em torno da oportunidade para uma comunidade interna fortalecida. Ao responder às seguintes perguntas, você tem o que é necessário para elaborar sua carta:
 
