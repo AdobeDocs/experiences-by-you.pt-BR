@@ -27,7 +27,7 @@ Saiba como navegar no [!DNL Analytics] e na seção Banco de Dados para obter di
 ## Recursos adicionais
 
 * **Documentação do produto**
-Saiba mais sobre os diferentes relatórios que você pode obter - [Visão geral dos relatórios](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=pt-BR&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Saiba mais sobre os diferentes relatórios que você pode obter - [Visão geral dos relatórios](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=pt-BR&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
 * **Publicação de especialista no blog do cliente**
 Aprenda com o Campeão Chelsea Kiko a criar vários relatórios - [Relatórios em Vários [!DNL Marketo Engage] Espaços](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
