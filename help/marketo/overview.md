@@ -79,4 +79,4 @@ A coisa mais poderosa sobre as soluções de Experience Cloud [!DNL Adobe]? Voc�
 * [Nação da Marketo (comunidades)](https://nation.marketo.com/)
 * [Documentação do Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=pt-BR)
 * [Tutorials do Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=pt-BR)
-* [Informações sobre o produto Adobe Marketo Engage](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [Informações sobre o produto Adobe Marketo Engage](https://business.adobe.com/br/products/marketo/adobe-marketo.html)
