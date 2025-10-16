@@ -1,12 +1,12 @@
 ---
 title: Analytics por você
 description: O Analytics by You apresenta conteúdo gerado por usuários, criado por pessoas comuns que atingiram um nível de expertise e influência com o seu conhecimento do Adobe Analytics.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
-source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 19%
@@ -45,7 +45,7 @@ A coisa mais poderosa sobre as soluções do [!DNL Adobe Experience Cloud]? Voc�
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Traduzindo a linguagem técnica [!DNL Adobe Analytics] de forma não técnica" src="https://video.tv.adobe.com/v/345332?format=jpeg&captions=por_br" />
+      <img alt="Traduzindo a linguagem técnica [!DNL Adobe Analytics] de forma não técnica" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
@@ -58,7 +58,7 @@ A coisa mais poderosa sobre as soluções do [!DNL Adobe Experience Cloud]? Voc�
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="Criar convenções de nomenclatura padronizadas" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=pt-BR" />
+      <img alt="Criar convenções de nomenclatura padronizadas" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -79,4 +79,4 @@ A coisa mais poderosa sobre as soluções do [!DNL Adobe Experience Cloud]? Voc�
 * [Comunidade Experience League Adobe Analytics](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=pt)
 * [Documentação do Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=pt-BR)
 * [Tutoriais do Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=pt-BR)
-* [Informações sobre o produto Adobe Analytics](https://business.adobe.com/br/products/analytics/adobe-analytics.html)
+* [Informações sobre o produto Adobe Analytics](https://business.adobe.com/products/analytics/adobe-analytics.html)

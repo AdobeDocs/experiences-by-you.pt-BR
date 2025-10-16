@@ -1,5 +1,5 @@
 ---
-title: Baixar o manual de implementação  [!DNL Adobe Analytics]
+title: 'Baixar o manual de implementação  [!DNL Adobe Analytics] '
 description: Um Documento de requisitos comerciais (geralmente chamado de BRD) é uma documentação muito importante na qual os principais interessados, usuários empresariais e de tecnologia desejam colaborar. É um local para documentar todos os KPIs desejados, requisitos de relatórios e qualquer ponto de dados que você deseje ver quando a implementação do AA estiver concluída.
 solution: Analytics
 feature-set: Analytics
@@ -11,7 +11,7 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '1779'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Antes de começar, [baixe o manual](assets/aa-implementation-playbook.xlsx).
 
 **O QUE:** um Documento de Requisitos Comerciais (geralmente chamado de BRD) é uma documentação muito importante na qual os principais interessados, usuários empresariais e de tecnologia desejam colaborar. É um local para documentar todos os KPIs, requisitos de relatórios e qualquer ponto de dados desejado que você deseja ver quando a implementação do [!DNL Adobe Analytics] (AA) for concluída.
 
-**POR QUE:** isso serve como um ponto de partida para a documentação a seguir (SDR, especificação técnica etc.) e é uma fonte comum de verdade para um estado final acordado do AA. Este documento organiza o raciocínio entre as equipes da organização para formar uma direção orientadora e avançar com a criação ou o aprimoramento da implementação.
+**POR QUE:** isso serve como um ponto de partida para a documentação a seguir (SDR, especificação técnica etc.) e é uma fonte comum da verdade para um estado final acordado do AA. Este documento organiza o raciocínio entre as equipes da organização para formar uma direção orientadora e avançar com a criação ou o aprimoramento da implementação.
 
 **COMO:** a documentação dos requisitos comerciais é comumente feita pelos usuários empresariais finais do AA, mas é importante obter feedback dos usuários de tecnologia, pois pode haver desafios técnicos a serem observados e alguns pontos de dados podem exigir mais esforço do que outros, o que faz parte da priorização.
 
@@ -46,11 +46,12 @@ Por fim, a coluna Status da implementação servirá como uma verificação de s
 
 **POR QUE:** este documento terá muitos propósitos, mas os mais importantes são:
 
-* Para qualquer pessoa nova na sua implementação (nova contratação, proprietário de negócios procurando entender melhor os relatórios disponíveis etc.), este documento fornece a melhor visualização de todas as variáveis implementadas e a finalidade delas para que os indivíduos possam realizar um autoatendimento em termos de aprendizado da configuração do AA.
+* Para qualquer pessoa nova na sua implementação (nova contratação, proprietário de negócios procurando entender melhor os relatórios disponíveis etc.), este documento fornece a melhor visualização de todas as variáveis implementadas e qual é a finalidade delas para que os indivíduos possam realizar um autoatendimento em termos de aprendizado da configuração do AA.
 * Para o proprietário/usuário técnico de um produto do AA, este documento servirá como um lembrete de como outras variáveis são configuradas e quais variáveis estão disponíveis para uso ao adicionar uma nova dimensão.
 
 **COMO:** comece listando todas as [!DNL Adobe] variáveis prontas para uso (página, produto, geo etc.), bem como eVars, props, eventos e variáveis de lista em um documento do Excel. Isso deve ter uma guia por site/conjunto de relatórios.
 Para cada uma dessas dimensões, adiciono as seguintes colunas:
+
 * **Nome:** forneça um nome simples e curto que possa ser entendido pela maioria das pessoas. Ele deve ser intuitivo o suficiente para que um novo usuário possa vê-lo e entender o que a variável deve capturar.
 * **Descrição:** Mais detalhes sobre o uso da variável e quais dados ela rastreia. Eu mantenho isso curto e simples e faço corresponder à descrição usada na interface. Idealmente, não quero que meus usuários precisem consultar o documento de marcação. Assim, quando uma nova dimensão é configurada no back-end do administrador, eu adiciono a mesma descrição lá. Dessa forma, o usuário pode clicar no ícone de informações diretamente no Workspace para entender o que é uma dimensão. Não é necessário abrir um documento do Excel.
 
@@ -70,7 +71,7 @@ Também é recomendável usar este documento de marcação para rastrear qualque
    * Se a dimensão tiver valores que não foram usados nos últimos 90 dias, ela &quot;será excluída&quot;
    * Se a dimensão estiver livre e limpa por pelo menos 90 dias, estará &quot;livre&quot;
    * Marque esses itens de maneira apropriada em &quot;Nome&quot;, no documento de marcação, para que você possa filtrá-los facilmente. Mantenha-os desmarcados no documento de marcação (filtro de dados do Excel) para que os usuários não os vejam
-   * Marque esses itens como o nome do eVar na interface para que os usuários não os encontrem em uma pesquisa (ou seja, &quot;(v6)&quot;) e remova a descrição na interface
+   * Marque-os com o nome do eVar na interface para que os usuários não os encontrem em uma pesquisa (ou seja, &quot;(v6)&quot;) e remova a descrição na interface
 * Ao fazer isso, quando uma nova dimensão é necessária, você pode filtrar facilmente por &quot;livre&quot; na coluna &quot;Nome&quot; para encontrar uma dimensão limpa para usar
 * Para as dimensões e eventos que estão &quot;sendo excluídos&quot;, é recomendado que você acompanhe esses itens usando o Workspace:
    * Crie um projeto visível para administradores somente com 3 tabelas: eVars, propriedades e eventos. Use &quot;instâncias&quot; para eVars específicas e, para propriedades, crie segmentos de HIT com &quot;prop5 existe&quot;, por exemplo.
@@ -90,6 +91,7 @@ Dessa forma, seus dados estarão sempre limpos e você terá uma ideia clara do 
 
 **COMO:** identifique um proprietário do documento para fornecer governança e uma única fonte de responsabilidade para o gerenciamento de atualizações.
 Liste o seguinte na guia de propriedades:
+
 * **Nome da propriedade:** pode ser um domínio, subdomínio, nome do aplicativo etc. Mesmo no mesmo domínio, se algumas partes dele forem gerenciadas separadamente (por uma equipe ou tecnologia diferentes), elas devem ser separadas.
 * **Vincular (URL)** à propriedade, quando disponível
 * **Proprietário e contatos:** liste o proprietário ou os contatos principais da propriedade
@@ -101,9 +103,9 @@ Lembre-se de incluir todas as propriedades digitais, mesmo que elas não estejam
 
 >[!TIP]
 >
->Crie uma dimensão de nome de site/propriedade em [!DNL Adobe Analytics]. Ter uma dimensão dedicada (geralmente um eVar) em [!DNL Adobe Analytics], que identifica o nome do site/nome do aplicativo, permitirá segmentar, solucionar problemas, criar conjuntos de relatórios virtuais etc. Os benefícios são infinitos, especialmente ao combinar vários sites em um conjunto de relatórios (global). O segredo é garantir que suas equipes de desenvolvimento sempre definam esse valor na dimensão de propriedades, incluindo todos os carregamentos de página (s.t calls/trackState) e todos os eventos personalizados (s.tl calls/trackAction). As regras de processamento podem ser uma ferramenta valiosa para ajudar você a definir esses valores de maneira adequada e consistente.
+>Crie uma dimensão de nome de site/propriedade em [!DNL Adobe Analytics]. Ter uma dimensão dedicada (geralmente uma eVar) em [!DNL Adobe Analytics], que identifica o nome do site/nome do aplicativo, permitirá segmentar, solucionar problemas, criar conjuntos de relatórios virtuais etc. Os benefícios são infinitos, especialmente ao combinar vários sites em um conjunto de relatórios (global). O segredo é garantir que suas equipes de desenvolvimento sempre definam esse valor na dimensão de propriedades, incluindo todos os carregamentos de página (s.t calls/trackState) e todos os eventos personalizados (s.tl calls/trackAction). As regras de processamento podem ser uma ferramenta valiosa para ajudar você a definir esses valores de maneira adequada e consistente.
 
-[Assista a este vídeo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=pt-BR){target="_blank"} para obter mais informações sobre como preencher o manual de implementação.
+[Assista a este vídeo de Doug Moore](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} para obter mais informações sobre como preencher o manual de implementação.
 
 ## Autores
 

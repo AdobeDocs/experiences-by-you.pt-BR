@@ -11,7 +11,7 @@ last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 Por: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultor sênior, Meijer
 
-Como engenheiro sênior e especialista em clientes de produtos Experience Cloud [!DNL Adobe] nos últimos cinco anos, eu ofereço aos usuários de negócios em [Meijer](https://www.meijer.com/){target="_blank"}, uma cadeia de supercentros americana fundada em 1934, a capacidade de executar campanhas transacionais e de marketing complexas com o ACS. Alguns projetos nos quais eu trabalhei incluem campanhas personalizadas para armazenar ofertas e detalhes de pedidos para personalização, integradas ao Audience Manager [!DNL Adobe], e insights do cliente para assimilação de segmentos.
+Como engenheiro sênior e especialista em clientes dos produtos da Experience Cloud [!DNL Adobe] nos últimos cinco anos, eu ofereço aos usuários de negócios da [Meijer](https://www.meijer.com/){target="_blank"}, uma cadeia de supercentros americana fundada em 1934, a capacidade de executar campanhas transacionais e de marketing complexas com o ACS. Alguns projetos nos quais trabalhei incluem campanhas personalizadas para armazenar ofertas e detalhes de pedidos para personalização, integradas ao Audience Manager do [!DNL Adobe], e insight do cliente para assimilação de segmentos.
 
 No meu tempo usando o ACS, encontrei erros que podem ser demorados e frustrantes de resolver. Conhecer os erros mais comuns pode ajudar na solução mais rápida de problemas e aumentar sua produtividade. Abaixo estão minhas dicas de solução de problemas para ajudar você a resolver com eficiência erros semelhantes que ocorrem.
 
@@ -59,16 +59,17 @@ Consulte a captura de tela para atividade de reconciliação, como mostrado abai
 
 ![fluxo de trabalho com detalhes de reconciliação](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-Saiba mais sobre [reconciliação](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=pt-BR).
+Saiba mais sobre [reconciliação](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
 
 ## Erro de conjunto de dados de campo comum
 
 **Código de Erro:**
-`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
+
+`The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation.`
 
 **Causa:**
-Esse problema ocorre ao usar a **atividade de exclusão** em fluxos de trabalho ACS, ao executar uma exclusão com base na ID, quando o conjunto Principal e o conjunto excluído não têm os mesmos nomes de campo.
 
+Esse problema ocorre ao usar a **atividade de exclusão** em fluxos de trabalho do ACS, ao executar uma exclusão com base na ID, quando o conjunto Principal e o conjunto excluído não têm os mesmos nomes de campo.
 
 ![Erro no conjunto de dados do campo comum](/help/_assets/kt-13256/dataset-error.png)
 
@@ -82,7 +83,7 @@ Há duas maneiras de resolver esse erro:
 
 2. Use o método de exclusão JOINS para selecionar o campo com base no qual deseja excluir os registros.
 
-![Erro de Conjunto de Dados de Campo Comum - Solução &#x200B;](/help/_assets/kt-13256/dataset-error-solution.png)
+![Erro de Conjunto de Dados de Campo Comum - Solução ](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## Erro de descarte de nome de campo
 
@@ -95,7 +96,7 @@ Podem ocorrer pontos de falha em uma **atividade de enriquecimento**. Uma das ma
 
 ![Nome do Campo Descartado Erro](/help/_assets/kt-13256/field-name-dropped-error.png)
 
-Isso acontece quando você edita manualmente um nome de expressão na atividade. A imagem mostra que a expressão foi modificada de `name ` para `i__name`.
+Isso acontece quando você edita manualmente um nome de expressão na atividade. A imagem mostra que a expressão foi modificada de `name` para `i__name`.
 
 **Solução:**
 
@@ -115,7 +116,7 @@ Você pode resolver esse erro de três maneiras:
 **Causa:**
 Esse é um erro comum em workflows complicados envolvendo enriquecimento ou outra atividade. Isso provavelmente significa que alguns dos workflows de atividade não são salvos corretamente durante várias alterações no workflow.
 
-![Tabela Temporária Removida Erro &#x200B;](/help/_assets/kt-13256/temp-table-dropped-error.png)
+![Tabela Temporária Removida Erro ](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **Solução:**
 Há muitas maneiras de esse erro ocorrer, portanto, não há uma correção simples. Se for um fluxo de trabalho simples, é melhor reconfigurar a atividade. Em um workflow complicado, é melhor copiar as atividades do workflow para um novo workflow, salvá-lo e executá-lo novamente.
