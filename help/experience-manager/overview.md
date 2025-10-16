@@ -58,7 +58,7 @@ O que há de mais poderoso nas soluções da Experience Cloud [!DNL Adobe]? Voc�
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="Dicas e truques" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="Dicas e truques" src="https://video.tv.adobe.com/v/3439842?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
