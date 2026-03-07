@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARQUIVADO
 
-Este repositório foi migrado para <https://github.com/Adobe-Enterprise-Docs/experiences-by-you.en>.
+Este repositório foi migrado para <https://github.com/Adobe-Enterprise-Docs/experiences-by-you.pt-BR>.
