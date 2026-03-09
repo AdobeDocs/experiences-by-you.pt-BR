@@ -1,21 +1,21 @@
 ---
 title: Experiências por você
-description: Conheça os clientes do Adobe sobre como eles usam os aplicativos e recursos do Experience Cloud.
-role: User, Developer, Admin, Data Architect
+description: Aprenda com outros clientes da Adobe como eles usam os aplicativos e recursos da Experience Cloud.
+role: User, Developer, Admin
 level: Beginner
 doc-type: overview
 solution: Experience Cloud
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 24c2ee272ab1dcda53e5dfe918125e8542ecfe15
+source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '185'
+ht-degree: 12%
 
 ---
 
 # Experiências por você: recursos por usuários, para usuários.
 
-O mais poderoso das soluções [!DNL Adobe] de experiência digital (DX)? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. _Experiências por você_ apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções DX do [!DNL Adobe]. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
+O mais poderoso das soluções [!DNL Adobe] de experiência digital (DX)? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. _Experiências por você_ apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções DX [!DNL Adobe]. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -45,7 +45,7 @@ O mais poderoso das soluções [!DNL Adobe] de experiência digital (DX)? Você.
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] Programas de e-mail" src="https://video.tv.adobe.com/v/3453372?format=jpeg&captions=por_br" />
+      <img alt="[!DNL Marketo Engage] Programas de e-mail" src="https://video.tv.adobe.com/v/3453372?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
@@ -75,8 +75,8 @@ O mais poderoso das soluções [!DNL Adobe] de experiência digital (DX)? Você.
 
 ## Recursos adicionais
 
-* [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=pt)
-* [Documentação da Experience Cloud](https://experienceleague.adobe.com/docs/?lang=pt-BR)
+* [Comunidades Experience League](https://experienceleaguecommunities.adobe.com/?profile.language=pt)
+* [Documentação do Experience Cloud](https://experienceleague.adobe.com/docs/?lang=pt-BR)
 * [Tutoriais da Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR)
-* [negócios.adobe.com](https://business.adobe.com/br)
+* [business.adobe.com](https://business.adobe.com/br)
 

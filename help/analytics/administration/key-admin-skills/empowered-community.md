@@ -12,10 +12,10 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: 0e45d8ba-a08d-4b5d-8a12-326e01c29505
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
 workflow-type: tm+mt
-source-wordcount: '1494'
-ht-degree: 0%
+source-wordcount: '1574'
+ht-degree: 2%
 
 ---
 
@@ -27,7 +27,7 @@ Uma comunidade fortalecida tem algumas características importantes. Primeiro, e
 
 Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
-## 1. Crie uma infraestrutura sólida, a base para sua comunidade fortalecida
+## &#x200B;1. Crie uma infraestrutura sólida, a base para sua comunidade fortalecida
 
 * Criar um processo de integração de usuário:
 
@@ -45,7 +45,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
   [!DNL Adobe Analytics] Modelos e projetos de relatório são recursos importantes para habilitar os usuários das ferramentas na implementação do seu negócio, para relatórios de casos de uso e práticas recomendadas. Esses recursos devem abordar as perguntas comuns sobre negócios e como melhor respondê-las dentro da ferramenta.
 
-## 2. Crie um plano para quem executa e para quem deve estar envolvido
+## &#x200B;2. Crie um plano para quem executa e para quem deve estar envolvido
 
 * Decida quem administrará a comunidade:
 
@@ -63,15 +63,15 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * Lembre-se - &quot;O que eles ganham com isso?&quot; Manter a sua comunidade focada nos casos de uso e prioridades do negócio ajuda a garantir o engajamento e o sucesso.
 
-## 3. Use as ferramentas para começar a criar a sua comunidade
+## &#x200B;3. Use as ferramentas para começar a criar a sua comunidade
 
-* [Criar uma carta de projeto] (assets/[!DNL Adobe]-[!DNL Analytics]-Empow-Community-Project-Charter-Template.pptx) (download de modelo):
+* [Criar uma carta de projeto](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (download de modelo):
 
   Uma carta de projeto geralmente é uma ótima maneira de alinhar seus negócios em torno da oportunidade para uma comunidade interna fortalecida. Ao responder às seguintes perguntas, você tem o que é necessário para elaborar sua carta:
 
    * Qual é a descrição do problema que você está tentando resolver? Qual é o objetivo de sua comunidade e o que você prevê como dentro ou fora do escopo?
-   * &quot;O que eu ganho com isso?&quot; Quais são os benefícios ou custos potenciais, como medir o sucesso e quais são os riscos?
-   * Qual é a linha do tempo para colocar uma comunidade no ar? Qual trabalho de configuração é necessário em uma ferramenta de ativação, grupos de usuários administradores etc? perspectiva? Normalmente, é melhor ter recursos básicos de capacitação desenvolvidos antes de lançar uma iniciativa maior.
+   * O que eu ganho com isso? Quais são os benefícios ou custos potenciais, como medir o sucesso e quais são os riscos?
+   * Qual é a linha do tempo para colocar uma comunidade no ar? Qual trabalho de configuração é necessário de uma perspectiva de capacitação, ferramenta, grupos de usuários administradores etc? Normalmente, é melhor ter recursos básicos de capacitação desenvolvidos antes de lançar uma iniciativa maior.
    * Qual será a eficácia dos principais membros da equipe para o sucesso da comunidade e quem será apoiado dentro da iniciativa?
    * Por fim, quem é o seu patrocinador executivo? Não podemos enfatizar o suficiente o valor de um patrocinador executivo forte, alguém que apoie o trabalho e o seu valor.
 
@@ -89,9 +89,9 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
    * Quem enviará a comunicação?
    * Quando? É importante considerar ambas as comunicações antes do lançamento da comunidade, bem como aquelas que precisam ser fornecidas de forma contínua após o lançamento.
 
-* Use o seu veículo da comunidade para ir ao ar. Dependendo da pilha de tecnologia do seu negócio, você também desejará escolher uma ferramenta ou um veículo para sua comunidade. Isso será personalizado para sua organização, mas muitos constatam que os Microsoft Teams funcionam bem.
+* Use o seu veículo da comunidade para ir ao ar. Dependendo da pilha de tecnologia do seu negócio, você também desejará escolher uma ferramenta ou um veículo para sua comunidade. Isso será personalizado para sua organização, mas muitos acham que o Microsoft Teams funciona bem.
 
-## 4. Mantenha sua comunidade e garanta seu sucesso contínuo
+## &#x200B;4. Mantenha sua comunidade e garanta o seu sucesso contínuo
 
 * Tempo de reserva - Adicione as reuniões da comunidade aos calendários para marcar a data antecipadamente. As reuniões recorrentes, quando possíveis, são uma ótima ideia e ajudarão a dar vida ao seu plano de conteúdo. Para ajudar você a começar, veja algumas ideias de programação:
 
