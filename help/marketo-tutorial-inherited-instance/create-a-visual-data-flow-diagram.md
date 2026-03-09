@@ -11,22 +11,22 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 2%
+source-wordcount: '599'
+ht-degree: 1%
 
 ---
 
 # Criar um diagrama de fluxo de dados para entender sua pilha de tecnologia de marketing
 
-Como um administrador que assume uma instância do [!DNL Marketo Engage] que está ativa há anos, é como uma missão impossível auditar e organizar a instância com eficiência. Quando [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, entrou em uma instância há muito estabelecida, ela enfrentou esse desafio ao [criar um diagrama de &quot;Líder e fontes de dados&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} para se familiarizar com o universo de dados. Neste tutorial, você aprenderá a criar seu próprio diagrama de fluxo de dados, aproveitando os exemplos compartilhados por Kelly Jo Horton. Vamos conhecer seu ecossistema da MarTech!
+Como um administrador que assume uma instância do [!DNL Marketo Engage] que está ativa há anos, é como uma missão impossível auditar e organizar a instância com eficiência. Quando [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, entrou em uma instância há muito estabelecida, ela enfrentou esse desafio [criando um diagrama de &quot;Líder e fontes de dados&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} para se familiarizar com o universo de dados. Neste tutorial, você aprenderá a criar seu próprio diagrama de fluxo de dados, aproveitando os exemplos compartilhados por Kelly Jo Horton. Vamos conhecer seu ecossistema da MarTech!
 
 ## Por que criar um diagrama de arquitetura para sua instância herdada?
 
-1. **Familiarize-se com a pilha de tecnologia de marketing herdada de uma instância ativa.** Todos os gerentes de operações de marketing/gerentes de operações de plataforma são incentivados a realizar esse exercício ao iniciar uma nova empresa. Esse processo de criação permite que os usuários administradores vejam a imagem completa dos dados e atividades enviados de integrações externas para o [!DNL Marketo Engage] e solucionem facilmente os erros da API.
+1. **Familiarize-se com a pilha de tecnologia de marketing herdada de uma instância ativa.** Todos os gerentes de operações de marketing/gerentes de operações de plataforma são incentivados a fazer esse exercício ao iniciar em uma nova empresa. Esse processo de criação permite que os usuários administradores vejam a imagem completa dos dados e atividades enviados de integrações externas para o [!DNL Marketo Engage] e solucionem facilmente os erros da API.
 2. **Familiarize-se com as principais partes interessadas que gerenciam as integrações externas.** Uma dica que Kelly Jo Horton usa para identificar as partes interessadas rapidamente é fazer referência à lista de usuários da API.
-   1. **Navegue até a guia &#39;Integração>LaunchPoint&#39; na seção &#39;Administrador&#39;.** Saiba mais sobre como navegar até a guia &#39;LaunchPoint&#39;: [Crie um Serviço Personalizado para Usar com a API REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=pt-BR){target="_blank"}.
+   1. **Navegue até a guia &#39;Integração>LaunchPoint&#39; na seção &#39;Administrador&#39;.** Saiba mais sobre como navegar até a guia &#39;LaunchPoint&#39;: [Criar um serviço personalizado para usar com a API REST](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. Encontre estatísticas de uso de API por usuário de API na guia Integração>Serviços da Web na seção Informações sobre chamada de API. Ao clicar no número da chamada da API, é possível visualizar as chamadas individuais específicas feitas por cada usuário.
 
 ## Como fazer este exercício de diagrama de fluxo de dados visuais
@@ -46,7 +46,7 @@ Crie um diagrama de &quot;Estado futuro&quot; que possa ser usado ao apresentar 
 
 ### Etapa 3: Versão técnica
 
-Crie uma versão técnica que mostre detalhes como o nome de usuário da API para cada integração, uma breve descrição do tipo de dados que está sendo enviado por push para [!DNL Marketo Engage] ou extraído de [!DNL Marketo Engage] e um diagrama detalhado de quaisquer fluxos e acionadores de middleware.  Exemplo:
+Crie uma versão técnica que mostre detalhes como o nome de usuário da API para cada integração, uma breve descrição do tipo de dados que está sendo enviado por push para [!DNL Marketo Engage] ou extraído de [!DNL Marketo Engage] e um diagrama detalhado de quaisquer fluxos e acionadores de middleware. Veja um exemplo:
 
 ![Versão técnica](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
@@ -120,7 +120,7 @@ Baixe um dos diagramas de fluxo de dados de amostra para mapear o estado atual d
 
 Estas são algumas ferramentas que você pode usar: draw.io (Google Docs), [!DNL Adobe] XD, Figma, Gliffy (em Confluência)
 
-**E se já houver diagramas de arquitetura?** Os novos membros da equipe podem ter perspectivas diferentes. É importante que os novos administradores do [!DNL Marketo Engage] façam esse exercício como parte do processo de integração e o compartilhem com outras pessoas.
+**E se já houver diagramas de arquitetura?** Novos membros da equipe podem ter diferentes perspectivas. É importante que os novos administradores do [!DNL Marketo Engage] façam esse exercício como parte do processo de integração e o compartilhem com outras pessoas.
 
 ## Autores
 
@@ -133,4 +133,4 @@ Estas são algumas ferramentas que você pode usar: draw.io (Google Docs), [!DNL
 **Amy Chiu**
 *Gerenciador de Marketing de Adoção e Retenção,[!DNL Adobe]*
 
-(/help/marketo-tutorial-inhereted-instance/_assets/author/[!DNL Adobe]_Author_Amy_Chiu.png){width=30%}
+![Amy Chiu](/help/marketo-tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
