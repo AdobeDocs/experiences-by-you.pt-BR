@@ -39,7 +39,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * Entenda a implementação:
 
-  Como prática recomendada, os usuários devem ter um conhecimento básico dos requisitos comerciais apoiados por sua implementação, que normalmente são capturados por meio de um [documento de requisitos comerciais](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) e um [documento de referência do design da solução](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR). Esses requisitos devem incluir o que foi implementado e definir, por categoria, os requisitos de negócios, relatórios, eVars, eventos e assim por diante.
+  Como prática recomendada, os usuários devem ter um conhecimento básico dos requisitos comerciais apoiados por sua implementação, que normalmente são capturados por meio de um [documento de requisitos comerciais](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=pt-BR) (BRD) e um [documento de referência do design da solução](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=pt-BR) (SDR). Esses requisitos devem incluir o que foi implementado e definir, por categoria, os requisitos de negócios, relatórios, eVars, eventos e assim por diante.
 
 * Usar modelos de relatório:
 
@@ -115,4 +115,4 @@ Estabelecer e manter uma comunidade fortalecida dá muito trabalho. É important
 
 * Desenvolvimento de carreira - Uma comunidade fortalecida muda o foco de muitas equipes de analistas, de um plano reativo e tático para um prescritivo e estratégico. Isso abre oportunidades de desenvolvimento de carreira para a equipe de administração de projeto da sua comunidade.
 
-Se você tem um grupo interno de usuários [!DNL Adobe Analytics] ou uma &quot;comunidade&quot; mais formal, ou está trabalhando para criar uma, adoraríamos ouvir sua história no [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!
+Se você tem um grupo interno de usuários [!DNL Adobe Analytics] ou uma &quot;comunidade&quot; mais formal, ou está trabalhando para criar uma, adoraríamos ouvir sua história no [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=pt)!

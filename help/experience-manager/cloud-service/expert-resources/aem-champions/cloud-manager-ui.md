@@ -27,4 +27,4 @@ Dê uma olhada nessas dicas de seu colega técnico, Rakesh Pasupuleti. Rakesh é
 
 ## Recursos adicionais {#additional-resources}
 
-* [Introdução a [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html) - Documentação sobre o uso de [!DNL Cloud Manager] no AEM as a Cloud Service
+* [Introdução a [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html?lang=pt-BR) - Documentação sobre o uso de [!DNL Cloud Manager] no AEM as a Cloud Service
