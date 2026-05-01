@@ -9,12 +9,11 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '874'
-ht-degree: 0%
+source-wordcount: '936'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +29,7 @@ A documentação detalhada e um [!UICONTROL Changelog] são vitais para o gerenc
 
 1. Treine usuários internos com mais facilidade e de maneira escalável.
 2. Crie com mais eficiência em [!DNL Marketo Engage] a longo prazo.
-3. Mantenha a integridade e a higiene de sua instância avançando para evitar que você passe horas pesquisando emails, [trilha de auditoria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=pt-BR) e [log de atividades](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=pt-BR) para obter contexto.
+3. Mantenha a integridade e a higiene de sua instância avançando para evitar que você passe horas pesquisando emails, [trilha de auditoria](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) e [log de atividades](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) para obter contexto.
 4. Economize tempo ao transferir o conhecimento sobre o [!DNL Marketo Engage] para um novo administrador do [!DNL Marketo Engage] se a equipe passar por algum volume de negócios.
 
 ## Guia de governança 101 do [!DNL Marketo Engage]
