@@ -13,7 +13,7 @@ kt: 10536
 exl-id: f133d049-9a24-4153-88c5-40ec480d1e4e
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '763'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Estas são as vantagens/desvantagens de ter um único conjunto de relatórios pa
 
 A migração de uma estratégia de multitags com um conjunto de relatórios exclusivo por propriedade requer mais estratégia e planejamento. Algumas das considerações que você precisará ter em mente:
 
-* Alinhamento das variáveis (ou seja, o eVar 1 na Propriedade A precisa capturar o mesmo ponto de dados que o eVar 1 na Propriedade B)
+* Alinhamento das variáveis (ou seja, o eVar1 na Propriedade A precisa capturar o mesmo ponto de dados que o eVar1 na Propriedade B)
 * Consolidação de quaisquer regras de processamento, regras de canal de marketing, classificações (SAINT e Construtor de regras)
 * Migração de feeds de dados e fontes de dados
 * Escolha de uma data limite e comunicação com todos os usuários empresariais
@@ -54,7 +54,7 @@ Este documento foi coescrito por:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, gerente de plataforma [!DNL Analytics] digital do NortonLifeLock
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
