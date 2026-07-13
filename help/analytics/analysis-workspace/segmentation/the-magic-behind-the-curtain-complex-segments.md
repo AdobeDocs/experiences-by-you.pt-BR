@@ -60,7 +60,7 @@ Vocês podem estar sentados lá pensando: &quot;Ok, mas eu já tenho as opções
 
 ![Figura2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Como acima, cada ocorrência dentro da **visita**será avaliada com o mesmo valor verdadeiro/falso. No entanto, o conjunto de dados retornado é o da visita inteira.*
+*Como acima, cada ocorrência dentro da **visita**&#x200B;será avaliada com o mesmo valor verdadeiro/falso. No entanto, o conjunto de dados retornado é o da visita inteira.*
 
 - Em cada ocorrência, &quot;Valor&quot; não contém &quot;Exemplo&quot; (sim), portanto, retorna verdadeiro; da mesma forma, &quot;Exemplo&quot; não contém &quot;Exemplo&quot; (não, ele contém), portanto, retorna falso.
    - Se **qualquer** ocorrência na visita retornar **true**, então a **visita inteira** será retornada.*
@@ -76,7 +76,7 @@ Vocês podem estar sentados lá pensando: &quot;Ok, mas eu já tenho as opções
 
 ![Figura3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Como acima, cada ocorrência feita por **visitante**será avaliada com a mesma lógica verdadeira/falsa. Mas agora estamos vendo todas as ocorrências que esse visitante fez, em todas as visitas (dentro do intervalo de datas selecionado).*
+*Como acima, cada ocorrência feita por **visitante**&#x200B;será avaliada com a mesma lógica verdadeira/falsa. Mas agora estamos vendo todas as ocorrências que esse visitante fez, em todas as visitas (dentro do intervalo de datas selecionado).*
 
 - Em cada ocorrência, &quot;Valor&quot; não contém &quot;Exemplo&quot; (sim), portanto, retorna verdadeiro; da mesma forma, &quot;Exemplo&quot; não contém &quot;Exemplo&quot; (não, ele contém), portanto, retorna falso.
    - Se **qualquer** ocorrência feita pelo visitante retornar **true**, então a **visita inteira** será retornada.
