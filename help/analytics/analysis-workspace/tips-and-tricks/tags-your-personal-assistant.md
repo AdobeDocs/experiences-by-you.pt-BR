@@ -12,7 +12,7 @@ thumbnail: KT-14963.jpeg
 exl-id: 563941cc-30a2-45d2-8634-0bde3b539ffd
 source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: '1404'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Encare isso, pessoal!  Você escolhe isso, nós vimos e ouvimos todas as desculp
 
 ## O que há na caixa de ferramentas
 
-**Adobe** fez até mesmo de WE THE PEOPLE o serviço de criar um conjunto selecionado de #TAGS pronto para uso, porque, bem... eles tiveram que nos começar em algum lugar.  Vou fornecer algumas advertências adicionais em apenas um pouco, mas o que estou demonstrando primeiro lhe dará o maior retorno pelo seu investimento!
+**O Adobe** até prestou a WE THE PEOPLE o serviço de criar um conjunto selecionado de #TAGS pronto para uso, porque, bem... eles tiveram que nos iniciar em algum lugar.  Vou fornecer algumas advertências adicionais em apenas um pouco, mas o que estou demonstrando primeiro lhe dará o maior retorno pelo seu investimento!
 
 Antes de criar qualquer uma das suas, o que você precisa saber primeiro é como pesquisar por **tags** existentes:
 
@@ -77,7 +77,7 @@ Antes de criar qualquer uma das suas, o que você precisa saber primeiro é como
 
 Se você estiver em um projeto novo ou existente, basta ir para a barra de pesquisa de componentes, digitar um #hashtag, juntamente com um desses termos principais (basta assistir ao vídeo), e pressionar ENTER; ou simplesmente começar a rolar até encontrar um termo reconhecível.
 
-PRIMEIRA ADVERTÊNCIA: algo para ter em mente é, se você se mantiver fiel às convenções de nomenclatura apropriadas quando começar a criar suas *próprias* tags, praticamente a cada *tag com maiúsculas* que você vir *deveria*, e serei cuidadoso com essa palavra &quot;deveria&quot;, ser um **Adobe**, item marcado como pronto para uso.  Ou seja, verifique se todas as marcas criadas estão em **minúsculas**.
+PRIMEIRA ADVERTÊNCIA: algo para ter em mente é, se você se mantiver fiel às convenções de nomenclatura apropriadas quando começar a criar suas *próprias* tags, praticamente a cada *tag com maiúsculas* que você vir *deveria*, e serei cuidadoso com essa palavra &quot;deveria&quot;, ser um **Adobe**, item marcado pronto para uso.  Ou seja, verifique se todas as marcas criadas estão em **minúsculas**.
 
 ## Criar seu próprio assistente pessoal
 

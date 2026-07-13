@@ -12,7 +12,7 @@ thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
 source-git-commit: 69fa16c1bf38604e4dabc553baee71598be83db3
 workflow-type: tm+mt
-source-wordcount: '4102'
+source-wordcount: '4166'
 ht-degree: 1%
 
 ---
@@ -251,44 +251,44 @@ Aqui estou comparando ocorrências em ofertas em destaque/conteúdo recomendado 
 
 ## Modelo de atribuição
 
-A modelagem de atribuição em uma definição de segmento se refere principalmente a dimensões com expiração sem ocorrência, de modo que props (que são sempre um nível de ocorrência) não são realmente um bom candidato. Suas eVars, canais de marketing etc. no entanto, são realmente para o que essas configurações são projetadas.
+A modelagem de atribuição em uma definição de segmento se refere principalmente a dimensões com expiração sem ocorrência, de modo que props (que são sempre um nível de ocorrência) não são realmente um bom candidato. Suas eVars, canais de marketing etc., no entanto, são realmente para o que essas configurações foram projetadas.
 
 Antes de analisarmos o segmento, devemos fazer uma rápida análise de como a modelagem de atribuição funciona em um exemplo simples.
 
-Digamos que temos duas eVars, uma delas está definida para visitar o vencimento (eVar 1) e outra está definida para um vencimento de 30 dias (eVar 2). Para simplificar, vamos rastrear uma campanha interna (icid).
+Digamos que temos duas eVars, uma delas está definida para expiração de visita (eVar1) e outra está definida para um prazo de 30 dias (eVar2). Para simplificar, vamos rastrear uma campanha interna (icid).
 
 **Visita 1**
 
 - Página A
-   - **eVar 1** não está definido
-   - **eVar 2** não está definido
+   - **eVar1** não está definido
+   - **eVar2** não está definido
 - Clique no banner promocional com ?icid=promo-banner no URL
 - Página B
-   - **eVar 1** e **eVar 2** estão definidos como &quot;banner promocional&quot;
-   - **Instância de eVar 1** acionada
-   - **Instância de eVar 2** acionada
+   - **eVar1** e **eVar2** estão definidos como &quot;banner promocional&quot;
+   - **Instância de eVar1** acionada
+   - **Instância de eVar2** acionada
 - Página C
-   - O **eVar 1** e o **eVar 2** mantêm o valor &quot;promo-banner&quot;
+   - O **eVar1** e o **eVar2** mantêm o valor &quot;promo-banner&quot;
    - Nenhuma das métricas de instância para eVars é acionada, pois ambas as eVars estão usando valores persistentes
 
 **Visita 2**
 
 - Página D
-   - **eVar 1** não está definido com nenhum valor e nenhuma **Instância de eVar 1** foi acionada
-   - **eVar 2** mantém o valor de &quot;banner promocional&quot; devido ao prazo de 30 dias
-   - **Instância de eVar 2** não disparada porque o valor é persistente e não está definido
+   - **eVar1** não está definida com nenhum valor e nenhuma **Instância do eVar1** foi acionada
+   - **eVar2** mantém o valor de &quot;banner promocional&quot; devido à expiração de 30 dias
+   - A **Instância de eVar2** não foi disparada, pois o valor é persistente e não está definido
 - Clique na promoção do painel lateral com ?icid=promo-side-rail no URL
 - Página E
-   - **eVar 1** e **eVar 2** estão definidos como &quot;painel lateral promocional&quot;
-   - **Instância de eVar 1** acionada
-   - **Instância de eVar 2** acionada
+   - **eVar1** e **eVar2** estão definidos como &quot;painel lateral promocional&quot;
+   - **Instância de eVar1** acionada
+   - **Instância de eVar2** acionada
 - Página F
-   - O **eVar 1** e o **eVar 2** mantêm o valor &quot;painel lateral da promoção&quot;
+   - O **eVar1** e o **eVar2** mantêm o valor &quot;promo-side-rail&quot;
    - Nenhuma das métricas de instância para eVars é acionada, pois ambas as eVars estão usando valores persistentes
 
 Atualmente, este é o resultado esperado dessas duas visitas:
 
-<table><tr><th colspan="1" valign="top"></th><th colspan="1" valign="top"></th><th colspan="1" valign="top"><b>Page Views</b></th><th colspan="1" valign="top"><b>Visitas</b></th><th colspan="1" valign="top"><b>Instância de eVar 1</b></th><th colspan="1" valign="top"><b>Instância de eVar 2</b></th></tr>
+<table><tr><th colspan="1" valign="top"></th><th colspan="1" valign="top"></th><th colspan="1" valign="top"><b>Page Views</b></th><th colspan="1" valign="top"><b>Visitas</b></th><th colspan="1" valign="top"><b>Instância do eVar1</b></th><th colspan="1" valign="top"><b>Instância do eVar2</b></th></tr>
 <tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top">6</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td></tr>
 <tr><td colspan="1" rowspan="7" valign="top">Página</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">6</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td></tr>
 <tr><td colspan="1" valign="top">Página A</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">0</td><td colspan="1" valign="top">0</td></tr>
@@ -299,16 +299,16 @@ Atualmente, este é o resultado esperado dessas duas visitas:
 <tr><td colspan="1" valign="top">Página F</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">0</td><td colspan="1" valign="top">0</td></tr>
 </table>
 
-<table><tr><th colspan="1" valign="top"></th><th colspan="1" valign="top"></th><th colspan="1" valign="top"><b>Page Views</b></th><th colspan="1" valign="top"><b>Visitas</b></th><th colspan="1" valign="top"><b>Instância de eVar 1</b></th></tr>
+<table><tr><th colspan="1" valign="top"></th><th colspan="1" valign="top"></th><th colspan="1" valign="top"><b>Page Views</b></th><th colspan="1" valign="top"><b>Visitas</b></th><th colspan="1" valign="top"><b>Instância do eVar1</b></th></tr>
 <tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td></tr>
-<tr><td colspan="1" rowspan="3" valign="top">EVAR 1</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">EVAR1</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">4</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td></tr>
 <tr><td colspan="1" valign="top">banner promocional</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">1</td></tr>
 <tr><td colspan="1" valign="top">painel lateral promocional</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">1</td></tr>
 </table>
 
-<table><tr><th colspan="1" valign="top"></th><th colspan="1" valign="top"></th><th colspan="1" valign="top"><b>Page Views</b></th><th colspan="1" valign="top"><b>Visitas</b></th><th colspan="1" valign="top"><b>Instância de eVar 2</b></th></tr>
+<table><tr><th colspan="1" valign="top"></th><th colspan="1" valign="top"></th><th colspan="1" valign="top"><b>Page Views</b></th><th colspan="1" valign="top"><b>Visitas</b></th><th colspan="1" valign="top"><b>Instância do eVar2</b></th></tr>
 <tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td></tr>
-<tr><td colspan="1" rowspan="3" valign="top">EVAR 2</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">EVAR2</td><td colspan="1" valign="top"></td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">2</td></tr>
 <tr><td colspan="1" valign="top">banner promocional</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">1</td></tr>
 <tr><td colspan="1" valign="top">painel lateral promocional</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">1</td></tr>
 </table>
@@ -321,9 +321,9 @@ Agora, vamos ver onde você pode definir a atribuição no seu segmento.
 
 *O ícone de engrenagem na sua dimensão é onde você pode definir a atribuição. Cada opção tem informações disponíveis ao passar o mouse sobre o &quot;?&quot; ícone. Basicamente:*
 
-- O comportamento padrão retornará todas as instâncias do eVar em que o valor é definido (especificamente ou por meio da atribuição definida)
-- A instância retornará apenas a dimensão em que o valor é explicitamente definido (ou seja, nas ocorrências em que a &quot;Instância de eVar&quot; é acionada)
-- A instância de não repetição só retornará a primeira vez que o valor da dimensão for definido (ou seja, enquanto não for abordado no exemplo acima, imagine que o usuário clicou no banner promocional várias vezes, isso também incrementaria a &quot;Instância de eVar&quot; para cada vez que o banner fosse clicado, essa configuração só tomaria a primeira instância exclusiva de &quot;banner promocional&quot; e ignoraria qualquer contagem subsequente desse banner)
+- O comportamento padrão retornará todas as instâncias da eVar em que o valor estiver definido (especificamente ou por meio da atribuição de conjunto)
+- A instância só retornará a dimensão em que o valor é explicitamente definido (ou seja, nas ocorrências em que a &quot;Instância do eVar&quot; é acionada)
+- A instância de não repetição só retornará a primeira vez que o valor da dimensão for definido (ou seja, enquanto não for abordado no exemplo acima, imagine que o usuário clicou no banner promocional várias vezes, isso também incrementaria a &quot;Instância do eVar&quot; para cada vez que o banner fosse clicado, essa configuração só tomaria a primeira instância exclusiva de &quot;banner promocional&quot; e ignoraria qualquer contagem subsequente desse banner)
 
 ### Exemplo de segmento 5: &quot;Pesquisa paga&quot; do canal de marketing em relação às instâncias diretas da pesquisa paga
 
@@ -335,7 +335,7 @@ Vamos mudar as coisas e começar observando as comparações, então vamos anali
 
 <table style="border: 0;">
     <tr>
-        <td width="352" style="border: 0;">As primeiras 4 colunas não estão segmentadas e devem ser fáceis de entender. Observe que *"Entradas"* é basicamente um valor calculado com base em onde os visitantes iniciam a sessão. Eu o adicionei aqui para mostrar que isso não retorna as informações que estamos procurando, pois os usuários podem entrar no site por meio de vários canais de marketing (por meio da análise de redes sociais, de pesquisas, clicando em emails de marketing etc.). tudo dentro da mesma visita/sessão).</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
+        <td width="352" style="border: 0;">As primeiras 4 colunas não estão segmentadas e devem ser fáceis de entender. Observe que *"Entradas"* é basicamente um valor calculado com base em onde os visitantes iniciam a sessão. Adicionei-o aqui para mostrar que isso não retorna as informações que estamos procurando, pois os usuários podem entrar no site por meio de vários canais de marketing (por meio da análise de mídias sociais, de pesquisas, clicando em emails de marketing etc., tudo dentro da mesma visita/sessão).</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
         </td>
     </tr>
 </table>

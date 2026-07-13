@@ -13,7 +13,7 @@ thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '740'
 ht-degree: 2%
 
 ---
@@ -22,14 +22,14 @@ ht-degree: 2%
 
 Por: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultor sênior, Meijer
 
-Como engenheiro sênior e especialista em clientes dos produtos da Experience Cloud [!DNL Adobe] nos últimos cinco anos, eu ofereço aos usuários de negócios da [Meijer](https://www.meijer.com/){target="_blank"}, uma cadeia de supercentros americana fundada em 1934, a capacidade de executar campanhas transacionais e de marketing complexas com o ACS. Alguns projetos nos quais trabalhei incluem campanhas personalizadas para armazenar ofertas e detalhes de pedidos para personalização, integradas ao Audience Manager do [!DNL Adobe], e insight do cliente para assimilação de segmentos.
+Como engenheiro sênior e especialista em clientes dos produtos da [!DNL Adobe] Experience Cloud nos últimos cinco anos, eu ofereço aos usuários de negócios da [Meijer](https://www.meijer.com/){target="_blank"}, uma cadeia de supercentros americana fundada em 1934, a capacidade de executar campanhas transacionais e de marketing complexas com o ACS. Alguns projetos nos quais trabalhei incluem campanhas personalizadas para armazenar ofertas e detalhes de pedidos para personalização, integradas ao Audience Manager do [!DNL Adobe], e insight do cliente para assimilação de segmentos.
 
 No meu tempo usando o ACS, encontrei erros que podem ser demorados e frustrantes de resolver. Conhecer os erros mais comuns pode ajudar na solução mais rápida de problemas e aumentar sua produtividade. Abaixo estão minhas dicas de solução de problemas para ajudar você a resolver com eficiência erros semelhantes que ocorrem.
 
 ## Erro de incompatibilidade de tipo de dados
 
-**Código de Erro:**
-`PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
+**Código de Erro:
+
 
 **Causa:**
 Esses tipos de erros aparecem em um fluxo de trabalho quando você tenta reconciliar usando campos de tipos de dados diferentes. Por exemplo, ao fazer upload de um arquivo usando carregar arquivo que tem um campo de sequência e você tenta reconciliar o campo de sequência com um campo de perfil que tem o tipo de dados int.
@@ -44,8 +44,8 @@ Altere o tipo de dados do campo na atividade &quot;Load file&quot; para o campo 
 
 ## Erro de entrega do Personalization
 
-**Código de Erro:**
-`The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
+**Código de Erro:
+
 
 **Causa:**
 Este erro aparece ao enviar um email para um endereço, mas o email ou qualquer outro identificador não é reconciliado com um perfil. Para enviar uma comunicação por email, o email ou o identificador deve estar sempre vinculado a um perfil.
@@ -87,8 +87,8 @@ Há duas maneiras de resolver esse erro:
 
 ## Erro de descarte de nome de campo
 
-**Código de Erro:**
-`XTK-170036 Unable to parse expression 'i__name'`
+**Código de Erro:
+
 
 **Causa:**
 
@@ -110,8 +110,8 @@ Você pode resolver esse erro de três maneiras:
 
 ## Erro de descarte de tabela temporária 
 
-**Código de Erro:**
-`XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
+**Código de Erro:
+
 
 **Causa:**
 Esse é um erro comum em workflows complicados envolvendo enriquecimento ou outra atividade. Isso provavelmente significa que alguns dos workflows de atividade não são salvos corretamente durante várias alterações no workflow.

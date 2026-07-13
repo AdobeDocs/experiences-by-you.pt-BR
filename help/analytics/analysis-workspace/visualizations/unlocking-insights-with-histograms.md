@@ -1,6 +1,6 @@
 ---
 title: Desbloqueando insights com histogramas; além das médias em [!DNL Analytics]
-description: Descubra o impacto dos histogramas no Analytics para insights além de médias.
+description: Descubra o impacto dos histogramas no Analytics para obter insights além das médias.
 feature-set: Analytics
 feature: Visualizations
 role: User
@@ -12,8 +12,8 @@ thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1091'
-ht-degree: 0%
+source-wordcount: '1105'
+ht-degree: 1%
 
 ---
 
@@ -39,7 +39,7 @@ Então, como isso é útil? Bem, vemos que a maioria das pessoas só compra uma 
 
 Se o site ou aplicativo depende de tráfego repetido, você quer saber quantos visitantes estão voltando e com que frequência. Um dos histogramas mais simples que você pode usar é descobrir quantos visitantes estão retornando mais de uma vez. À medida que você acompanha esse histograma ao longo do tempo, você pode ver seu progresso, como esperamos que as barras da direita fiquem mais altas e as da esquerda, mais curtas.
 
-Talvez você queira manter as pessoas no site, lendo artigos. Um histograma que mostra quantos visitantes leem números diferentes de artigos forneceria informações sobre o nível de engajamento. Por que isso é útil? Digamos que a maioria dos visitantes leia um artigo e saia, mas alguns visitantes altamente engajados leem três artigos e saem. Essa é uma ótima informação! Agora você sabe que deve personalizar a página do primeiro e do terceiro artigos lidos com o objetivo de fazer com que os visitantes leiam mais um artigo.
+Talvez você queira manter as pessoas no site, lendo artigos. Um histograma que mostra quantos visitantes leem números diferentes de artigos forneceria a você um insight sobre o nível de engajamento. Por que isso é útil? Digamos que a maioria dos visitantes leia um artigo e saia, mas alguns visitantes altamente engajados leem três artigos e saem. Essa é uma ótima informação! Agora você sabe que deve personalizar a página do primeiro e do terceiro artigos lidos com o objetivo de fazer com que os visitantes leiam mais um artigo.
 
 ## Noções básicas sobre o comportamento do cliente
 
@@ -65,11 +65,11 @@ Você pode perguntar, como isso difere de apenas ter uma métrica calculada? Ei,
 
   ![Histograma 3](assets/histogram-3.png)
 
-- Erros de formulário - Se você tiver uma média de 3,6 mensagens de erro de formulário por visitante, isso é um indicador de um problema. Você pode ter o mesmo problema atípico dos erros técnicos, mas também há informações a serem obtidas ao ver um pico no histograma em um número específico de erros. Um grande pico em um erro? Isso pode ser um problema comum que todos esses visitantes experimentam ou talvez todos tenham um erro diferente uma vez. Um pico gigante com três erros? Ah, agora isso é interessante. Se isso solicitar uma investigação que mostre que são os mesmos três erros, você zerou os dados que fornecem uma compreensão de seus visitantes e ajudam a corrigir o que provavelmente é um grupo de problemas inter-relacionados.
+- Erros de formulário - Se você tiver uma média de 3,6 mensagens de erro de formulário por visitante, isso é um indicador de um problema. Você pode ter o mesmo problema atípico dos erros técnicos, mas também há insight a ser obtido ao ver um pico no histograma em um número específico de erros. Um grande pico em um erro? Isso pode ser um problema comum que todos esses visitantes experimentam ou talvez todos tenham um erro diferente uma vez. Um pico gigante com três erros? Ah, agora isso é interessante. Se isso solicitar uma investigação que mostre que são os mesmos três erros, você zerou os dados que fornecem uma compreensão de seus visitantes e ajudam a corrigir o que provavelmente é um grupo de problemas inter-relacionados.
 
   ![Histograma 4](assets/histogram-4.png)
 
-Como você pode ver, os histogramas não só têm seus próprios usos, mas também aprofundam a compreensão que você obtém de uma média. Eles são uma visualização pronta para uso no [!DNL Adobe Analytics] e fáceis de criar. Esperamos que esses casos de uso sejam úteis para você ou despertem alguma inspiração. Feliz visualização!
+Como você pode ver, os histogramas não só têm seus próprios usos, mas também aprofundam a insight que você ganha com uma média. Eles são uma visualização pronta para uso no [!DNL Adobe Analytics] e fáceis de criar. Esperamos que esses casos de uso sejam úteis para você ou despertem alguma inspiração. Feliz visualização!
 
 ## Autor
 
