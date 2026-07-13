@@ -12,7 +12,7 @@ thumbnail: KT-15331.jpeg
 exl-id: a7e06ac7-cc06-47e5-a4d7-834a5a7f8351
 source-git-commit: 41e1153f92ceed71831cb89c9619c375f2304194
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '716'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ O componente de dados Anotações é uma das funcionalidades mais simples, mas a
 
 ![1stgraph](assets/1stgraph.png)
 
-Simplificando, as Anotações são textos de descrição curta que podem ser adicionados aos dados de tendência de data no Adobe Workspace. As anotações oferecem contexto a todos que usam o Analysis Workspace para entender o histórico de dados da sua empresa, ajudam a analisar o desempenho com mais rapidez e dão a todos os seus relatórios uma impressão altamente personalizada.
+Simplificando, as Anotações são textos de descrição curta que podem ser adicionados a dados de tendência de data no Adobe Workspace. As anotações oferecem contexto a todos que usam o Analysis Workspace para entender o histórico de dados da sua empresa, ajudam a analisar o desempenho com mais rapidez e dão a todos os seus relatórios uma impressão altamente personalizada.
 
 ## Casos de uso
 
@@ -44,7 +44,7 @@ Criar e editar anotações é intuitivo e quase autoexplicativo. Clique com o bo
 ![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-Para obter todos os detalhes sobre como as anotações funcionam, assista ao [tutorial em vídeo sobre o Experience League](https://experienceleague.adobe.com/pt-br/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace).
+Para obter todos os detalhes sobre como as anotações funcionam, assista ao [tutorial em vídeo sobre o Experience League](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace).
 
 ## Dicas e truques para começar
 
@@ -75,7 +75,7 @@ Por fim, veja algumas dicas úteis para começar a usar anotações imediatament
 
 ![9thimage](assets/9thimage.png)
 
-Para obter a documentação detalhada, visite a [Visão geral das anotações](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/components/annotations/overview) e os artigos ao redor.
+Para obter a documentação detalhada, visite a [Visão geral das anotações](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview) e os artigos ao redor.
 
 ## Autor
 
@@ -83,4 +83,4 @@ Este documento foi escrito por:
 
 ![thomas-headshot](assets/thomas-headshot.png)
 
-Thomas Edward Buckley, Data Warehouse e Business Intelligence da Miles &amp; More (Lufthansa Group)
+Thomas Edward Buckley, gerente da Data Warehouse &amp; Business Intelligence em Miles &amp; More (Grupo Lufthansa)

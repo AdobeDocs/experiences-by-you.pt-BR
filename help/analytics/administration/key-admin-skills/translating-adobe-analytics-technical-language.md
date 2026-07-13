@@ -12,14 +12,14 @@ kt: 10128
 exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
 source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '981'
+source-wordcount: '1005'
 ht-degree: 0%
 
 ---
 
 # Traduzindo a linguagem técnica [!DNL Adobe Analytics] de forma não técnica
 
->[!VIDEO](https://video.tv.adobe.com/v/345332/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Falando línguas diferentes
 
@@ -31,12 +31,11 @@ Aqui estão quatro dicas que achei úteis para fazer com que as partes interessa
 
 Um sólido programa de integração para os novos usuários do [!DNL Adobe Analytics] é fundamental para impulsionar a adoção desde o início. Muitas vezes, o programa de integração será a primeira exposição ao maravilhoso mundo de props e eVars. O programa de integração precisa ser acessível, relevante e marcante para garantir que os usuários continuem voltando para a ferramenta.
 
-Por exemplo, esta é a minha maneira favorita de explicar eVars e métodos de alocação para novos analistas: imagine que você está fazendo uma caminhada noturna pela vizinhança e, ah não, você pisa em um chiclete. Para o resto do seu passeio, esse chiclete agora está preso no fundo do seu sapato (como um eVar!). Você dá alguns passos para a frente e outro chiclete gruda no seu sapato. Ao final da caminhada, você decide jogar os sapatos fora. O que o levou a essa decisão? Foi o primeiro chiclete, o último ou ambos foram igualmente culpados?
+Por exemplo, esta é a minha maneira favorita de explicar eVars e métodos de alocação para novos analistas: imagine que você está fazendo uma caminhada noturna pela vizinhança e, ah não, você pisa em um chiclete. Para o resto de sua caminhada, esse chiclete agora está preso ao fundo do seu sapato (como um eVar!). Você dá alguns passos para a frente e outro chiclete gruda no seu sapato. Ao final da caminhada, você decide jogar os sapatos fora. O que o levou a essa decisão? Foi o primeiro chiclete, o último ou ambos foram igualmente culpados?
 
 >[!TIP]
 >
->**Nomeie claramente os componentes (ou seja, dimensões, segmentos e métricas) com descrições**
->O compartilhamento do dicionário de dados de eVars e props é sempre uma boa etapa para democratizar os dados de sua organização, mas não espera que um usuário casual memorize todas as variáveis personalizadas e seu uso pretendido por índice/número. Em vez disso, no Workspace [!DNL Adobe], verifique se os nomes dos componentes são descritivos com marcas e descrições relevantes. Isso ajudará os usuários a encontrar rapidamente a métrica correta entre as centenas de eVars e métricas/segmentos infinitos.
+>**Nomeie claramente os componentes (ou seja, dimensões, segmentos e métricas) com descriçõesO compartilhamento do dicionário de dados de eVars e props é sempre uma boa etapa para democratizar os dados de sua organização, mas não espera que um usuário casual memorize todas as variáveis personalizadas e seu uso pretendido por índice/número. Em vez disso, no Workspace [!DNL Adobe], verifique se os nomes dos componentes são descritivos com marcas e descrições relevantes. Isso ajudará os usuários a encontrar rapidamente a métrica correta entre as centenas de eVars e métricas/segmentos infinitos.
 
 ## Dica #2: encontre uma linguagem comum
 
@@ -46,8 +45,7 @@ Em [!DNL The Home Depot], um comerciante ou um gerente de loja pode não estar f
 
 >[!TIP]
 >
->**Fazer com que sua implementação reflita a linguagem comum**
->Quase tudo na interface do usuário do [!DNL Adobe Analytics] é personalizável. Se sua organização se refere aos carrinhos de compras como sacolas de compras, você pode renomear o evento do carrinho para sacola de compras.
+>**Fazer com que sua implementação reflita a linguagem comumQuase tudo na interface do usuário do [!DNL Adobe Analytics] é personalizável. Se sua organização se refere aos carrinhos de compras como sacolas de compras, você pode renomear o evento do carrinho para sacola de compras.
 >
 >Considere criar um vocabulário próprio controlado para sua organização se você encontrar vários sinônimos por aí, ou se houver termos que geralmente confundem os usuários. Tome a iniciativa de padronizar a terminologia preferencial. Além disso, analise os termos confusos mais comuns em suas sessões de integração e capacitação para ajudar os usuários a se familiarizarem.
 
@@ -59,8 +57,7 @@ No [!DNL The Home Depot], fizemos um desafio [!DNL Adobe Analytics], no qual fiz
 
 >[!TIP]
 >
->**Criar modelos e orientações do espaço de trabalho específico da solução.**
->Aproveite os relatórios da empresa (modelos) e as visualizações de texto no Analysis Workspace para criar guias contextuais que ajudarão suas estrelas do rock a permanecer no caminho certo.
+>**Criar modelos e orientações do espaço de trabalho específico da solução.Aproveite os relatórios da empresa (modelos) e as visualizações de texto no Analysis Workspace para criar guias contextuais que ajudarão suas estrelas do rock a permanecer no caminho certo.
 >
 >A flexibilidade do Analysis Workspace permite criar modelos para análises mais rápidas, além de permitir autoatendimento e autoativação. Ao combinar as capacidades de recursos, como modelos com curadoria, anotações e links entre/dentro do espaço de trabalho, você tem uma ótima maneira de criar orientações eficientes, acessíveis e fáceis de disseminar para usuários não técnicos no contexto do [!DNL Adobe Analytics].
 
@@ -68,6 +65,6 @@ No [!DNL The Home Depot], fizemos um desafio [!DNL Adobe Analytics], no qual fiz
 
 Dê oportunidades para que as partes interessadas obtenham ajuda durante a criação dos painéis do [!DNL Adobe Analytics]. Você pode disponibilizar horários para que as partes interessadas possam fazer perguntas e interagir com um especialista. Ou configurar um canal de linha de ajuda em que as partes interessadas possam fazer perguntas em um ambiente de aprendizagem seguro.
 
-No [!DNL The Home Depot], as partes interessadas adoram o horário disponibilizado e a linha de ajuda Slack. Desde o início da disponibilização desses canais, vimos um aumento da precisão na criação de relatórios e um disparo na adoção do [!DNL Adobe Analytics]. No passado, chegamos ao top 5% das [!DNL Adobe Analytics] pontuações de adoção, em todos os varejistas do mundo todo!
+Em [!DNL The Home Depot], as partes interessadas adoram o horário disponibilizado e a linha de ajuda Slack. Desde o início da disponibilização desses canais, vimos um aumento da precisão na criação de relatórios e um disparo na adoção do [!DNL Adobe Analytics]. No passado, chegamos ao top 5% das [!DNL Adobe Analytics] pontuações de adoção, em todos os varejistas do mundo todo!
 
 Ajudar os usuários a entender o mundo técnico do [!DNL Adobe Analytics] não é uma tarefa fácil. Espero que essas dicas e exemplos ajudem a capacitar suas partes interessadas, criar essas tabelas de forma livre e se apaixonar pelo mundo de props e eVars.
