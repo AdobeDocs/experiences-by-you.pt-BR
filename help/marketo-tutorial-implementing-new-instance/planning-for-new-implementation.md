@@ -12,18 +12,18 @@ thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1098'
-ht-degree: 5%
+source-wordcount: '1194'
+ht-degree: 9%
 
 ---
 
 # Planejar uma nova implementação do Marketo Engage
 
-A implementação de uma nova instância de Marketo Engage envolve planejamento meticuloso, colaboração entre equipes e otimização contínua. Embora não haja uma receita perfeita para implementar uma nova instância, a maioria dos administradores de Marketo Engage que passaram por ela podem concordar que o planejamento antecipado tornará o processo muito mais tranquilo.
+A implementação de uma nova instância do Marketo Engage envolve planejamento meticuloso, colaboração entre equipes e otimização contínua. Embora não haja uma receita perfeita para implementar uma nova instância, a maioria dos administradores do Marketo Engage que passou por ela podem concordar que o planejamento antecipado tornará o processo muito mais tranquilo.
 
 Neste tutorial, analisaremos os marcos específicos, os envolvimentos de equipe e as alocações de recursos cruciais para uma implantação bem-sucedida do Marketo Engage.
 
-## Principais marcos durante a implementação do novo Marketo Engage
+## Principais marcos durante a nova implementação do Marketo Engage
 
 ### Fase 1 — detecção e planejamento
 
@@ -38,7 +38,7 @@ Neste tutorial, analisaremos os marcos específicos, os envolvimentos de equipe 
 
 ### Fase 3 - Criação da biblioteca de programas e configuração da campanha
 
-- Desenvolvimento de modelos de email e landing pages. Começando com [importando programas iniciais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) da [Biblioteca de Importação de Programas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Desenvolvimento de modelos de email e landing pages. Começando com [importando programas iniciais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) da [Biblioteca de Importação de Programas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Configuração da segmentação e regras do Personalization
 - Criar campanhas iniciais para geração de leads e promoção
 
@@ -67,7 +67,7 @@ A implementação de uma nova instância requer planejamento e execução cuidad
  </thead>    
  <tbody>
     <tr>
-        <td>Operações de marketing Director/Gerente</td>
+        <td>Diretor/Gerente de operações de marketing</td>
         <td>
         <li>Ponto de contato principal no projeto</li>
         <li>Regras de governança de instância</li> 
@@ -124,7 +124,7 @@ A implementação de uma nova instância requer planejamento e execução cuidad
     </tr>
 </table>
 
-## Perspectiva ponto a ponto - Implementação de Marketo Engage
+## Perspectiva ponto a ponto - Implementação do Marketo Engage
 
 Ouça o Marketo Engage Champion (2019), Kyle McCormick, sobre suas experiências de integração e implementação na Palotos Networks. Você aprenderá sobre os desafios que ele enfrentou e seus conselhos sobre como orientar com sucesso e eficiência seu processo de integração.
 
@@ -160,58 +160,58 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
         <td rowspan="2">Configuração técnica</td>
         <td><em>EXEMPLO -</em> Instale o MunchkinID no site da empresa</td>
         <td bgcolor="c6f0cf">Concluído</td>
-        <td>05/09/24</td>
-        <td>12/09/24</td>
+        <td>9/5/24</td>
+        <td>9/12/24</td>
         <td>Equipe de desenvolvimento na Web</td>
     </tr>
     <tr>
-        <td><em>EXEMPLO -</em> Configure o DKIM (Domain Keys Identified Mail) e dois CNAMEs separados para os links de capacidade de entrega e de rastreamento de email.</td>
+        <td><em>EXEMPLO -</em> Configure o Domain Keys Identified Mail (DKIM) e dois CNAMEs separados para links de capacidade de entrega e de rastreamento de email.</td>
         <td bgcolor="c6f0cf">Concluído</td>
-        <td>15/09/24</td>
-        <td>18/09/24</td>
+        <td>9/15/24</td>
+        <td>9/18/24</td>
         <td>Suporte e configuração da equipe de TI</td>
     </tr>
     <tr>
         <td rowspan="4">Configuração do Adobe Admin Console e do administrador</td>
         <td><em>EXEMPLO -</em> Criar usuários e funções do Marketo Engage</td>
         <td bgcolor="c6f0cf">Concluído</td>
-        <td>27/08/24</td>
-        <td>15/09/24</td>
+        <td>8/27/24</td>
+        <td>9/15/24</td>
         <td>Informações de equipes de marketing sobre quem precisa de acesso ao Marketo Engage.</td>
     </tr>
     <tr>
-        <td><em>EXEMPLO -</em> Criar administrador de produto Marketo Engage adicional no Adobe Admin Console</td>
+        <td><em>EXEMPLO -</em> Criar administrador de produto adicional do Marketo Engage no Adobe Admin Console</td>
         <td bgcolor="c6f0cf">Concluído</td>
-        <td>27/08/24</td>
-        <td>15/09/24</td>
+        <td>8/27/24</td>
+        <td>9/15/24</td>
         <td>Informações da equipe de operação de marketing sobre quem precisa de acesso de administrador ao Marketo Engage.</td>
     </tr>
     <tr>
         <td><em>EXEMPLO -</em> Configurar Administradores de Suporte</td>
         <td bgcolor="c6f0cf">Concluído</td>
-        <td>27/08/24</td>
-        <td>15/09/24</td>
+        <td>8/27/24</td>
+        <td>9/15/24</td>
         <td>Informações da equipe de operação de marketing para confirmar os contatos principais do suporte. Suporte do administrador do sistema para atribuir usuários de administrador de suporte.</td>
     </tr>
     <tr>
         <td><em>EXEMPLO -</em> Definir a estrutura de pastas e as convenções de nomenclatura</td>
         <td bgcolor="c6f0cf">Concluído</td>
-        <td>07/09/24</td>
-        <td>12/09/24</td>
-        <td>A entrada de cada equipe usando o Marketo Engage sobre os tipos de programas e as necessidades da organização.</td>
+        <td>9/7/24</td>
+        <td>9/12/24</td>
+        <td>Contribuição de cada equipe usando o Marketo Engage sobre tipos de programas e necessidades da organização.</td>
     </tr>
     <tr>
         <td rowspan="2">Integração do CRM (se aplicável)</td>
         <td><em>EXEMPLO -</em> Determinar mapeamento de campo antes da sincronização</td>
-        <td bgcolor="ffeb9c">Em progresso</td>
-        <td>22/10/24</td>
+        <td bgcolor="ffeb9c">Em andamento</td>
+        <td>10/22/24</td>
         <td>N/D</td>
         <td>Suporte do administrador do CRM para entender os campos disponíveis.</td>
     </tr>
     <tr>
         <td><em>EXEMPLO -</em> Realizar uma auditoria de dados</td>
-        <td bgcolor="ffeb9c">Em progresso</td>
-        <td>26/10/24</td>
+        <td bgcolor="ffeb9c">Em andamento</td>
+        <td>10/26/24</td>
         <td>N/D</td>
         <td>Suporte do administrador ou orçamento do CRM.</td>
     </tr>
@@ -219,28 +219,28 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
         <td rowspan="2">Build do programa operacional</td>
         <td><em>EXEMPLO -</em> Crie um programa para padronizar os dados de entrada</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>09/11/24</td>
+        <td>11/9/24</td>
         <td>N/D</td>
         <td>Suporte das equipes de Operações de vendas e CRM para determinar uma estratégia de gerenciamento de dados.</td>
     </tr>
     <tr>
         <td><em>EXEMPLO -</em> Criar uma central de assinaturas por email</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>19/11/24</td>
+        <td>11/19/24</td>
         <td>N/D</td>
         <td>Entrada das equipes de marketing sobre tipos de conteúdo e segmentação para listas de endereçamento.</td>
     <tr>
         <td rowspan="2">Build do primeiro programa de marketing</td>
         <td><em>EXEMPLO -</em> Configurar programa de email básico</td>
-        <td bgcolor="ffeb9c">Em progresso</td>
-        <td>12/11/24</td>
+        <td bgcolor="ffeb9c">Em andamento</td>
+        <td>11/12/24</td>
         <td>N/D</td>
-        <td>Ativos criativos da equipe digital para emails e landing pages.</td>
+        <td>Ativos do Creative da equipe digital para emails e landing pages.</td>
     </tr>
     <tr>    
         <td><em>EXEMPLO -</em> Criar programa para informativo trimestral</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>30/11/24</td>
+        <td>11/30/24</td>
         <td>N/D</td>
         <td>Conteúdo da equipe de marketing para email do informativo e ativos/conteúdo criativos da equipe de design.</td>
     </tr>
@@ -248,43 +248,43 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
         <td rowspan="2">Configuração da integração do LaunchPoint</td>
         <td><em>EXEMPLO -</em> Criar API somente de usuário e função</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>23/11/24</td>
+        <td>11/23/24</td>
         <td>   </td>
         <td>Determine o escopo dos serviços necessários para a nova instância com as equipes de marketing.</td>
     </tr>
     <tr>
         <td><em>EXEMPLO -</em> Criar um serviço personalizado para Google Ads</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>07/12/24</td>
+        <td>12/7/24</td>
         <td>   </td>
-        <td>Suporte das equipes da Web e de mídia paga para autenticar o Marketo Engage para acessar os anúncios da Google.</td>
+        <td>Suporte das equipes da Web e de mídia paga para autenticar o Marketo Engage e acessar o Google Ads.</td>
         <td>
     </tr>
     <tr>
         <td rowspan="2">Treinamento e documentação do usuário</td>
         <td><em>EXEMPLO -</em> Criar um guia de governança para usuários internos</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>02/12/24</td>
+        <td>12/2/24</td>
         <td>N/D</td>
-        <td>Crie uma equipe de governança do Marketo Engage para criar documentação de suporte de governança ou orçamento para contratar o projeto de governança.</td>
+        <td>Crie uma equipe de governança do Marketo Engage para criar documentação de governança de suporte ou orçamento para contratar o projeto de governança.</td>
     <tr>
         <td><em>EXEMPLO -</em> Treine 4 usuários e forneça a eles acesso de Usuário Padrão do Marketo</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>13/12/24</td>
+        <td>12/13/24</td>
         <td>N/D</td>
         <td>Suporte do VP de Marketing para tornar os treinamentos obrigatórios para acessar o Marketo Engage.</td>
     <tr>
         <td rowspan="2">Ativação</td>
         <td><em>EXEMPLO -</em> Enviar primeiro informativo</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>09/12/24</td>
+        <td>12/9/24</td>
         <td>N/D</td>
         <td>Equipe de operações de marketing para controle de qualidade, programação e envio.</td>
     </tr>
     <tr>
         <td><em>EXEMPLO -</em> Obtenha o primeiro Relatório de Desempenho de Email.</td>
         <td bgcolor="ffc7cf">Não iniciado</td>
-        <td>16/12/24</td>
+        <td>12/16/24</td>
         <td>N/D</td>
         <td>Equipe de operações de marketing para controle de qualidade, programação e envio.</td>
     </tr>
@@ -294,7 +294,7 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
 >[!NOTE]
 >Os exemplos fornecidos não se baseiam em uma linha do tempo de implementação real. Não confie neles como uma linha do tempo padrão para sua integração com o Marketo Engage, pois cada implementação é exclusiva com marcos e requisitos diferentes de acordo com as necessidades da sua organização.
 
-Para obter assistência direta na implementação e personalização do Marketo Engage para sua instância, entre em contato com a Equipe de Conta do Adobe ou entre em contato com o [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
+Para obter assistência direta na implementação e personalização do Marketo Engage para sua instância, entre em contato com a Equipe de Conta da Adobe ou entre em contato com o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ### Autor
 

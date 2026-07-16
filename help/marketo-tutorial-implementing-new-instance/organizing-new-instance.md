@@ -12,7 +12,7 @@ thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '1166'
+source-wordcount: '1291'
 ht-degree: 2%
 
 ---
@@ -23,15 +23,15 @@ Como administrador que implementa uma nova instância do Marketo Engage, você e
 
 ## Por que é necessário estruturar pastas e aplicar convenções de nomenclatura?
 
-Manter-se organizado em sua instância facilita para você e seus colegas rastrear campanhas, programas e ativos e relatar o desempenho do programa. Para organizar a árvore de navegação em sua instância e compilá-la em escala, é recomendável usar [pastas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [convenções de nomenclatura padrão](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} e recursos como [clonagem](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
+Manter-se organizado em sua instância facilita para você e seus colegas rastrear campanhas, programas e ativos e relatar o desempenho do programa. Para organizar a árvore de navegação em sua instância e compilá-la em escala, é recomendável usar [pastas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [convenções de nomenclatura padrão](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} e recursos como [clonagem](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"}.
 
 ## Como organizar uma instância do Marketo Engage
 
->[!VIDEO](https://video.tv.adobe.com/v/3422767/?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
 
 ### Etapa 1 - Configuração de uma estrutura de pastas para colocar seus programas em ordem
 
-A primeira etapa para organizar sua instância é [configurar uma estrutura de pastas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=pt-BR) para hospedar seu programa e seus ativos de maneira fácil de encontrar e ordenada.
+A primeira etapa para organizar sua instância é [configurar uma estrutura de pastas](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) para hospedar seu programa e seus ativos de maneira fácil de encontrar e ordenada.
 
 Estas são algumas dicas rápidas ao estruturar as pastas na árvore:
 
@@ -70,7 +70,7 @@ Agora, vamos aplicar a estrutura de pastas no nível do programa. Como prática 
 * Assets Local - *Pasta para todos os ativos específicos deste Programa.*
 
    * Emails
-   * Páginas de aterrissagem
+   * Páginas de destino
    * Campanhas inteligentes
    * Listas - *Necessário somente quando há Listas específicas do Programa.*
    * Forms - *Necessário somente quando há Forms específicos do Programa; a maioria das Forms são Assets Globais.*
@@ -172,7 +172,7 @@ Com isso em mente, aplicaremos essas dicas aos seguintes ativos e criaremos fór
 | --- |
 | XYZ-Gadget-DS.pdf |
 | Acme-Company-CS.pdf |
-| How-XYZ-Gadgets-make-life-easier-WP.pdf |
+| How-XYZ-Gadgets-make-life-easy-WP.pdf |
 
 >[!CAUTION]
 >

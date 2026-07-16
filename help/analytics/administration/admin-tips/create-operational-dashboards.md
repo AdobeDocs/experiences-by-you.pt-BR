@@ -14,7 +14,7 @@ thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1132'
+source-wordcount: '1145'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,11 @@ Como muitos administradores, eu executo um hub de informações interno (Conflu�
 
 Percebi que os usuários frequentemente ignoravam minhas indicações ao site de Confluência, com motivos como &quot;Minha VPN está desativada&quot; ou &quot;Não posso lê-la agora&quot; etc. Basicamente, &quot;eu vou ler esse documento mais tarde&quot; significa que ele nunca será lido, e a mesma pergunta será feita novamente na próxima semana.
 
-***A ocorrência da realização:**&#x200B;a versatilidade do Workspace pode ser um divisor de águas. Os usuários preferem respostas rápidas e diretas no Workspace, então vamos mantê-las lá para evitar etapas extras.*
+***A ocorrência da realização:**a versatilidade do Workspace pode ser um divisor de águas. Os usuários preferem respostas rápidas e diretas no Workspace, então vamos mantê-las lá para evitar etapas extras.*
 
 Prossegui e criei painéis operacionais para compartilhar com toda a empresa. Até o momento, eles mantiveram os usuários informados, centralizaram as informações e reduziram a frustração. Este tem sido um processo fácil e em evolução que aumenta a eficiência ao longo do tempo.
 
-As pessoas conseguiram obter muitas informações boas sem mim, entender as áreas do site, ver o quão legal o [!DNL Adobe Analytics] é e (importante para mim??) fazer menos perguntas e usar menos do meu tempo.
+As pessoas conseguiram obter muitas informações sem mim, entender as áreas do site, ver o quão legal o [!DNL Adobe Analytics] é e (importante para mim 😊) fazer menos perguntas e usar menos do meu tempo.
 
 **É altamente recomendável que você crie painéis para todas as suas propriedades ou áreas principais do site.** Eles devem fornecer uma visão geral da propriedade/site/aplicativo/fluxo e ter informações básicas e insights rápidos. Elas devem ser compartilhadas com toda a empresa, permitindo que todos os usuários entendam a propriedade sem precisar de ajuda. Para mim, esses painéis geralmente respondem a 80% das perguntas que recebo e economizam um tempo valioso.
 
@@ -49,7 +49,7 @@ Deixem-me guiá-los pelos três painéis operacionais que criei para minha empre
 
 Cansado do infinito loop de repetição de respostas? Pare! Economize tempo criando um painel de perguntas frequentes. Os usuários podem consultá-lo antes de perguntar, ou você pode vincular rapidamente a ele em suas respostas.
 
-Basta criar [visualizações de texto](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=pt-BR) com perguntas formatadas como títulos e respostas/explicações como conteúdo, todas recolhidas para mostrar apenas a pergunta. Agrupe-os por relevância (por exemplo, páginas ou produtos) ou use painéis. Mantenha a simplicidade, priorizando consultas comuns na parte superior.
+Basta criar [visualizações de texto](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) com perguntas formatadas como títulos e respostas/explicações como conteúdo, todas recolhidas para mostrar apenas a pergunta. Agrupe-os por relevância (por exemplo, páginas ou produtos) ou use painéis. Mantenha a simplicidade, priorizando consultas comuns na parte superior.
 
 Em vez de escrever e-mails longos ou redescobrir explicações antigas, atualize seu painel de perguntas frequentes. Comece agora e expanda com o tempo. Use hiperlinks para fazer referência a outros painéis ou perguntas frequentes relacionadas nos relatórios. Forneça contexto complexo quando necessário, vinculando de outros painéis às Perguntas frequentes.
 
