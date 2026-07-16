@@ -49,7 +49,7 @@ Deixem-me guiá-los pelos três painéis operacionais que criei para minha empre
 
 Cansado do infinito loop de repetição de respostas? Pare! Economize tempo criando um painel de perguntas frequentes. Os usuários podem consultá-lo antes de perguntar, ou você pode vincular rapidamente a ele em suas respostas.
 
-Basta criar [visualizações de texto](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) com perguntas formatadas como títulos e respostas/explicações como conteúdo, todas recolhidas para mostrar apenas a pergunta. Agrupe-os por relevância (por exemplo, páginas ou produtos) ou use painéis. Mantenha a simplicidade, priorizando consultas comuns na parte superior.
+Basta criar [visualizações de texto](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=pt-BR) com perguntas formatadas como títulos e respostas/explicações como conteúdo, todas recolhidas para mostrar apenas a pergunta. Agrupe-os por relevância (por exemplo, páginas ou produtos) ou use painéis. Mantenha a simplicidade, priorizando consultas comuns na parte superior.
 
 Em vez de escrever e-mails longos ou redescobrir explicações antigas, atualize seu painel de perguntas frequentes. Comece agora e expanda com o tempo. Use hiperlinks para fazer referência a outros painéis ou perguntas frequentes relacionadas nos relatórios. Forneça contexto complexo quando necessário, vinculando de outros painéis às Perguntas frequentes.
 

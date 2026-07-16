@@ -38,7 +38,7 @@ Neste tutorial, analisaremos os marcos específicos, os envolvimentos de equipe 
 
 ### Fase 3 - Criação da biblioteca de programas e configuração da campanha
 
-- Desenvolvimento de modelos de email e landing pages. Começando com [importando programas iniciais](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) da [Biblioteca de Importação de Programas](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Desenvolvimento de modelos de email e landing pages. Começando com [importando programas iniciais](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) da [Biblioteca de Importação de Programas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Configuração da segmentação e regras do Personalization
 - Criar campanhas iniciais para geração de leads e promoção
 
@@ -294,7 +294,7 @@ Você também pode baixar o exemplo para editar e rastrear tarefas de marcos esp
 >[!NOTE]
 >Os exemplos fornecidos não se baseiam em uma linha do tempo de implementação real. Não confie neles como uma linha do tempo padrão para sua integração com o Marketo Engage, pois cada implementação é exclusiva com marcos e requisitos diferentes de acordo com as necessidades da sua organização.
 
-Para obter assistência direta na implementação e personalização do Marketo Engage para sua instância, entre em contato com a Equipe de Conta da Adobe ou entre em contato com o [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Para obter assistência direta na implementação e personalização do Marketo Engage para sua instância, entre em contato com a Equipe de Conta da Adobe ou entre em contato com o [Adobe Professional Services](https://business.adobe.com/br/customers/consulting-services/main.html){target="_blank"}.
 
 ### Autor
 
