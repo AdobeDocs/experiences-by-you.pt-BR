@@ -12,7 +12,7 @@ thumbnail: KT-13266.jpeg
 exl-id: 301ee179-b154-4cf2-b27e-77f38a8945a0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1572'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Como recurso avançado do [!DNL Adobe Analytics], as métricas calculadas permit
 
 Para começar a usar métricas calculadas, vejamos um exemplo simples. Imagine que você queira entender se os usuários de autoatendimento online têm um valor médio de pedido (AOV) mais alto do que os usuários assistidos por chamada. Para criar uma métrica calculada para responder a essa pergunta, faça o seguinte:
 
-Para abrir o Construtor de métricas calculadas, use a navegação superior para clicar em → **Componentes** → **Métricas calculadas** → **+ Adicionar.** Ou clique no sinal de **+** acima de **Métricas** no painel Componentes.
+Para abrir o Construtor de métricas calculadas, use a navegação superior para clicar em → **Componentes** → **Métricas calculadas** → **+ Adicionar.** Ou você pode clicar no sinal **+** acima de **Métricas** no painel Componentes.
 
 
 ![Calc 01](assets/calc01.png) ![Calc 02](assets/calc03.png) ![Calc 03](assets/calc02.png)
@@ -64,7 +64,7 @@ Em nosso exemplo, vemos um aumento significativo quando os compradores usam a ce
 
 ## Utilização de segmentos em métricas calculadas
 
-Agora, vamos ver como podemos usar segmentos em métricas calculadas para obter mais informações sobre o comportamento, as preferências e as motivações do cliente. Com segmentos e métricas calculadas, podemos aprender o suficiente sobre os clientes para melhorar sua experiência, aumentar a receita e melhorar a satisfação e a fidelidade do cliente.
+Agora, vejamos como podemos usar segmentos em métricas calculadas para obter mais insight sobre comportamento, preferências e motivações do cliente. Com segmentos e métricas calculadas, podemos aprender o suficiente sobre os clientes para melhorar sua experiência, aumentar a receita e melhorar a satisfação e a fidelidade do cliente.
 
 Já sabemos pelos exemplos de AOV acima que as compras assistidas pela central de atendimento normalmente têm uma AOV mais alta. No entanto, outras métricas nos informam que a maioria dos usuários não usa a central de atendimento para compras.
 
@@ -114,8 +114,8 @@ No entanto, essas métricas não estão disponíveis em todas as áreas de [!DNL
 
 Agora que você sabe o quanto as métricas calculadas podem ser valiosas, vamos dar uma olhada nas práticas recomendadas para criá-las.
 
-1. **Verifique a sintaxe da fórmula.** Verifique se a sintaxe da fórmula está correta e siga a sintaxe [!DNL Adobe Analytics] para obter informações relevantes.
-1. **Verifique a ordem das operações.** Certifique-se de usar os contêineres com cuidado e colocar as coisas em ordem matemática adequada de operações.
+1. **Verifique a sintaxe da fórmula.** Verifique se a sintaxe da fórmula está correta e segue a sintaxe [!DNL Adobe Analytics] para garantir que você obtenha informações significativas.
+1. **Verifique a ordem das operações.** Certifique-se de usar os contêineres com cuidado e colocar as coisas na ordem matemática correta de operações.
 1. **Não conte dados duas vezes**. É possível evitar a contagem dupla de dados, garantindo que a fórmula usada na métrica calculada não conte os mesmos dados várias vezes. Geralmente, isso é feito combinando as condições *Incluir* e *Excluir* na métrica calculada ou por meio do uso de segmentos.
 1. **Verifique a granularidade de tempo.** Verifique se a métrica calculada tem a mesma granularidade de tempo que as métricas de origem usadas na fórmula.
 1. **Usar dados precisos:** você só obterá resultados valiosos se usar dados precisos e confiáveis no cálculo.
@@ -124,15 +124,15 @@ Agora que você sabe o quanto as métricas calculadas podem ser valiosas, vamos 
 
 Ao criar segmentos em [!DNL Adobe Analytics], lembre-se das seguintes práticas recomendadas:
 
-1. **Mantenha simples.** Evite complicar o segmento em excesso. Mantenha o mais simples possível e use apenas as condições necessárias para garantir a precisão.
+1. **Mantenha a simplicidade.** Evite complicar o segmento em excesso. Mantenha o mais simples possível e use apenas as condições necessárias para garantir a precisão.
 1. **Usar os tipos de contêiner corretos**. Use o tipo correto de contêiner (visitante, visita ou ocorrência) na definição do segmento para evitar resultados incorretos.
 1. **Não conte dados duas vezes**. Assim como com as métricas calculadas, verifique se o segmento não conta os mesmos dados várias vezes. Os contêineres Incluir e Excluir podem ajudar.
    1. Quando um contêiner de inclusão é usado, ele *inclui* *todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
    1. Quando um container de exclusão é usado, ele *exclui todo o conteúdo da visita* se qualquer ocorrência corresponder à condição na visita.
-1. **Aninhe corretamente os contêineres**. Determine quais dados são incluídos usando o contêiner mais externo e aplique regras aninhadas aos dados restantes. À medida que regras aninhadas são aplicadas, o fluxo de segmento atua como um funil e as regras subsequentes não se aplicam a nenhuma ocorrência excluída pela primeira regra.
-1. **Verifique se seus dados estão atualizados.** Certifique-se de usar dados precisos e atualizados na definição do segmento para obter resultados precisos.
+1. **Aninhe corretamente os contêineres**. Determine quais dados são incluídos usando o contêiner mais externo e aplique regras aninhadas aos dados restantes. À medida que regras aninhadas são aplicadas, o fluxo de segmento atua como uma funnel e as regras subsequentes não se aplicam a nenhuma ocorrência excluída pela primeira regra.
+1. **Verifique se seus dados estão atualizados.** Use dados precisos e atualizados na definição de segmento para obter resultados precisos.
 1. **Testar o segmento.** Sempre teste o segmento para verificar se ele está funcionando como pretendido antes de liberá-lo para outras pessoas.
-1. **Considere o desempenho.** Segmentos podem retardar o processamento de relatórios, portanto, considere esse impacto ao criá-los.
+1. **Considere o desempenho.** Os segmentos podem retardar o processamento de relatórios, portanto, considere esse impacto ao criá-los.
 
 ## Principais aprendizados
 
