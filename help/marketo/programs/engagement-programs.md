@@ -13,8 +13,8 @@ solution: Marketo Engage
 exl-id: 6bd2433a-ec79-4ce6-873c-4c897c4b9f82
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 22%
+source-wordcount: '87'
+ht-degree: 16%
 
 ---
 
@@ -28,8 +28,8 @@ Siga este tutorial passo a passo para criar seu primeiro programa de engajamento
 
 Consulte os guias de produtos relacionados para obter mais informações:
 
-* [Noções básicas sobre a documentação dos Programas de Participação](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=pt-BR)
+* [Noções básicas sobre a documentação dos Programas de engajamento](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=pt-BR)
 
 Aprenda com seus colegas como usar os Programas de engajamento:
 
-* [Publicação de especialista no blog do cliente: Programas de participação](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)
+* [Publicação no blog de especialistas do cliente: Programas de engajamento](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)
