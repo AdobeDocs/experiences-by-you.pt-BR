@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Dicas e truques do AEM Champion: modelos editáveis
 
->[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439842?captions=por_br&quality=12&learn=on)

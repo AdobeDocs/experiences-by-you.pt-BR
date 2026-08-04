@@ -19,4 +19,4 @@ ht-degree: 0%
 
 # Dicas e truques do AEM Champion: Sessão 2
 
->[!VIDEO](https://video.tv.adobe.com/v/3409427?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439476?captions=por_br&quality=12&learn=on)
