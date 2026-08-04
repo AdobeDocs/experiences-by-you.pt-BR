@@ -26,7 +26,7 @@ Saiba como navegar na interface e se familiarize com a plataforma do [!DNL Marke
 
 ## Recursos adicionais
 
-* [[!DNL Marketo Engage] glossário](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [[!DNL Marketo Engage] glossário](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=pt-BR)
 Definições para muitos dos termos que você pode encontrar ao usar o Marketo.
-* [Glossário de ícones](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+* [Glossário de ícones](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=pt-BR)
 Glossário de ícones da interface [!DNL Marketo Engage].
