@@ -128,7 +128,7 @@ A implementação de uma nova instância requer planejamento e execução cuidad
 
 Ouça o Marketo Engage Champion (2019), Kyle McCormick, sobre suas experiências de integração e implementação na Palotos Networks. Você aprenderá sobre os desafios que ele enfrentou e seus conselhos sobre como orientar com sucesso e eficiência seu processo de integração.
 
->[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447935/?captions=por_br&quality=12&learn=on)
 
 ## O que vem a seguir?
 
