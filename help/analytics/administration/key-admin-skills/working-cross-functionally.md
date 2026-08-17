@@ -12,14 +12,14 @@ kt: 10129
 exl-id: 9dbebe7a-0b68-4aea-8a51-6e6bc0f54d09
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
 
 # Trabalhar além das funções
 
->[!VIDEO](https://video.tv.adobe.com/v/345456/?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
 
 A jornada para [!DNL Adobe Analytics] começa com uma boa implementação. Todos nós conhecemos a expressão &quot;lixo entra, lixo sai&quot;. Para eliminar uma implementação &quot;lixo sai&quot;, os administradores devem monitorar cada detalhe dos dados inseridos no sistema. Dito isso, a estratégia de coleta de dados é influenciada por muitas partes interessadas na organização com quem o administrador terá de trabalhar dia após dia.
 

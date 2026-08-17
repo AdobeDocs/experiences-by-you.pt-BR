@@ -13,7 +13,7 @@ thumbnail: KT-15338.jpeg
 exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
 source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '1647'
+source-wordcount: '1692'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ _Revolucione sua estratégia de dados e capacite sua equipe a criar um documento
 
 De uma equipe, você ouve reclamações como:
 
-&quot;Por que não consigo descobrir a taxa de conversão nesse funil?&quot;
+&quot;Por que não consigo descobrir a taxa de conversão nessa funnel?&quot;
 
 &quot;Por que não há uma métrica para isso?&quot;
 
@@ -48,7 +48,7 @@ Quero apresentar um método que meus colegas e eu desenvolvemos para criar um SD
 
 ## O How
 
-_Saiba mais sobre a conferência de medição. Use um mapa de funil para visualizar cada etapa do plano. Crie painéis de modelos para revisar como um grupo. Criar um dicionário de dados para usuários._
+_Saiba mais sobre a conferência de medição. Use um mapa do funnel para visualizar cada etapa do seu plano. Crie painéis de modelos para revisar como um grupo. Criar um dicionário de dados para usuários._
 
 ### A conferência de medição
 
@@ -59,18 +59,18 @@ _Saiba mais sobre a conferência de medição. Use um mapa de funil para visuali
 1. Para qualquer métrica e dimensão com votos baixos, peça às partes interessadas que os solicitaram que expliquem por que esses componentes seriam usados. Se houver um bom caso de uso, mantenha esses componentes. Se houver uma maneira melhor de obter esses dados, se ninguém conseguir explicar como esses dados são acionáveis ou se houver outro bom motivo para remover as métricas e dimensões, faça isso.
 1. Adicione essas métricas e dimensões ao seu SDR para uma revisão inicial pelas partes interessadas que estavam presentes.
 
-### O mapa do funil
+### O mapa do funnel
 
 1. Obtenha uma visualização de todos os funis, passo a passo, com cada estado incluído.
-1. Com os designers e gerentes de produtos, analise cada etapa e discuta o que todos consideram o sucesso nesse funil. É o índice de conversão? Ele está escolhendo um caminho específico? Ele está usando determinados recursos?
-1. Faça perguntas sobre quais métricas e dimensões são necessárias para entender o desempenho do funil em cada etapa do funil e em geral.
-1. Acima de cada etapa do funil, adicione as métricas e dimensões medidas nessa etapa, incluindo as métricas calculadas.
-1. No início de cada funil, escreva os relatórios que vão no painel que o gerente de produto pode usar para rastrear o desempenho. Esses relatórios incluem um [relatório de fallout](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [mês atual](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [taxas de conversão de tendência](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/visualizations/line) e qualquer coisa mais específica para esse funil.
+1. Com os designers e gerentes de produtos, confira cada etapa e discuta o que todos consideram o sucesso nesse funnel. É o índice de conversão? Ele está escolhendo um caminho específico? Ele está usando determinados recursos?
+1. Faça perguntas sobre quais métricas e dimensões são necessárias para entender o desempenho do funnel em cada etapa da funnel e em geral.
+1. Acima de cada etapa do funnel, adicione as métricas e dimensões medidas nessa etapa, incluindo as métricas calculadas.
+1. No início de cada funnel, escreva os relatórios que são inseridos no painel que o gerente de produto pode usar para rastrear o desempenho. Esses relatórios incluem um [relatório de fallout](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [mês atual](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [taxas de conversão de tendência](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line) e qualquer coisa mais específica para essa funnel.
 1. Adicione as novas métricas e dimensões descobertas ao SDR e envie-o aos participantes para uma segunda revisão.
 
 ### Os painéis de visualização
 
-1. Usando o mapa de funil como guia, crie painéis de modelo.
+1. Usando o mapa do funnel como guia, crie painéis de modelo.
 1. Deve haver uma exibição geral, como um [Painel de resumo executivo](driving-success-with-executive-summary-dashboards.md), e painéis para cada um dos funis.
 1. Também haverá alguns mais específicos para seu site ou aplicativo, como desempenho do produto ou desempenho do conteúdo.
 1. Distribua isso aos participantes relevantes e obtenha feedback sobre o design.
