@@ -13,7 +13,7 @@ kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '1779'
+source-wordcount: '1799'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Antes de começar, [baixe o manual](assets/aa-implementation-playbook.xlsx).
 
 **O QUE:** um Documento de Requisitos Comerciais (geralmente chamado de BRD) é uma documentação muito importante na qual os principais interessados, usuários empresariais e de tecnologia desejam colaborar. É um local para documentar todos os KPIs, requisitos de relatórios e qualquer ponto de dados desejado que você deseja ver quando a implementação do [!DNL Adobe Analytics] (AA) for concluída.
 
-**POR QUE:** isso serve como um ponto de partida para a documentação a seguir (SDR, especificação técnica etc.) e é uma fonte comum da verdade para um estado final acordado do AA. Este documento organiza o raciocínio entre as equipes da organização para formar uma direção orientadora e avançar com a criação ou o aprimoramento da implementação.
+**POR QUE:** isso serve como um ponto de partida para a documentação a seguir (SDR, especificação técnica etc.) e é uma fonte comum de verdade para um estado final acordado do AA. Este documento organiza o raciocínio entre as equipes da organização para formar uma direção orientadora e avançar com a criação ou o aprimoramento da implementação.
 
 **COMO:** a documentação dos requisitos comerciais é comumente feita pelos usuários empresariais finais do AA, mas é importante obter feedback dos usuários de tecnologia, pois pode haver desafios técnicos a serem observados e alguns pontos de dados podem exigir mais esforço do que outros, o que faz parte da priorização.
 
@@ -46,7 +46,7 @@ Por fim, a coluna Status da implementação servirá como uma verificação de s
 
 **POR QUE:** este documento terá muitos propósitos, mas os mais importantes são:
 
-* Para qualquer pessoa nova na sua implementação (nova contratação, proprietário de negócios procurando entender melhor os relatórios disponíveis etc.), este documento fornece a melhor visualização de todas as variáveis implementadas e qual é a finalidade delas para que os indivíduos possam realizar um autoatendimento em termos de aprendizado da configuração do AA.
+* Para qualquer pessoa nova na sua implementação (nova contratação, proprietário de negócios procurando entender melhor os relatórios disponíveis etc.), este documento fornece a melhor visualização de todas as variáveis implementadas e a finalidade delas para que os indivíduos possam realizar um autoatendimento em termos de aprendizado da configuração do AA.
 * Para o proprietário/usuário técnico de um produto do AA, este documento servirá como um lembrete de como outras variáveis são configuradas e quais variáveis estão disponíveis para uso ao adicionar uma nova dimensão.
 
 **COMO:** comece listando todas as [!DNL Adobe] variáveis prontas para uso (página, produto, geo etc.), bem como eVars, props, eventos e variáveis de lista em um documento do Excel. Isso deve ter uma guia por site/conjunto de relatórios.
@@ -68,16 +68,16 @@ Captura de tela do SDR de amostra:
 Também é recomendável usar este documento de marcação para rastrear qualquer variável livre e qualquer variável &quot;inútil&quot;. Quando uma dimensão não é mais útil, o desenvolvimento geralmente precisará de um tempo para excluí-la. Mesmo depois disso, o armazenamento em cache pode ocorrer, ou você pode perceber que a dimensão também estava sendo definida em outro lugar. Limpar dimensões não é fácil e geralmente requer paciência. Veja algumas dicas para manter seu lixo escondido para que seus usuários não fiquem confusos enquanto o acompanham.
 
 * Todas as dimensões/eventos que não estão sendo usados estão &quot;livres&quot; ou &quot;sendo excluídos&quot;
-   * Se a dimensão tiver valores que não foram usados nos últimos 90 dias, ela &quot;será excluída&quot;
-   * Se a dimensão estiver livre e limpa por pelo menos 90 dias, estará &quot;livre&quot;
-   * Marque esses itens de maneira apropriada em &quot;Nome&quot;, no documento de marcação, para que você possa filtrá-los facilmente. Mantenha-os desmarcados no documento de marcação (filtro de dados do Excel) para que os usuários não os vejam
-   * Marque-os com o nome do eVar na interface para que os usuários não os encontrem em uma pesquisa (ou seja, &quot;(v6)&quot;) e remova a descrição na interface
+  * Se a dimensão tiver valores que não foram usados nos últimos 90 dias, ela &quot;será excluída&quot;
+  * Se a dimensão estiver livre e limpa por pelo menos 90 dias, estará &quot;livre&quot;
+  * Marque esses itens de maneira apropriada em &quot;Nome&quot;, no documento de marcação, para que você possa filtrá-los facilmente. Mantenha-os desmarcados no documento de marcação (filtro de dados do Excel) para que os usuários não os vejam
+  * Marque-os com o nome do eVar na interface para que os usuários não os encontrem em uma pesquisa (ou seja, &quot;(v6)&quot;) e remova a descrição na interface
 * Ao fazer isso, quando uma nova dimensão é necessária, você pode filtrar facilmente por &quot;livre&quot; na coluna &quot;Nome&quot; para encontrar uma dimensão limpa para usar
 * Para as dimensões e eventos que estão &quot;sendo excluídos&quot;, é recomendado que você acompanhe esses itens usando o Workspace:
-   * Crie um projeto visível para administradores somente com 3 tabelas: eVars, propriedades e eventos. Use &quot;instâncias&quot; para eVars específicas e, para propriedades, crie segmentos de HIT com &quot;prop5 existe&quot;, por exemplo.
-   * Definir data como Últimos 90 dias
-   * Use-as como linhas nas 3 tabelas, juntamente com as ocorrências
-   * Assim que um item chegar a &quot;0&quot;, marque-o como &quot;livre&quot; no documento de marcação e remova-o do projeto do Workspace
+  * Crie um projeto visível para administradores somente com 3 tabelas: eVars, propriedades e eventos. Use &quot;instâncias&quot; para eVars específicas e, para propriedades, crie segmentos de HIT com &quot;prop5 existe&quot;, por exemplo.
+  * Definir data como Últimos 90 dias
+  * Use-as como linhas nas 3 tabelas, juntamente com as ocorrências
+  * Assim que um item chegar a &quot;0&quot;, marque-o como &quot;livre&quot; no documento de marcação e remova-o do projeto do Workspace
 
 Dessa forma, seus dados estarão sempre limpos e você terá uma ideia clara do seu lixo.
 
@@ -114,7 +114,7 @@ Este documento foi coescrito por:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, gerente de plataforma [!DNL Analytics] digital do NortonLifeLock
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
