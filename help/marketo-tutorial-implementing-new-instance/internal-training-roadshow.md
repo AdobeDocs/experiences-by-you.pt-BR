@@ -1,31 +1,29 @@
 ---
 title: Desenvolver roteiro interno de integração e treinamento
-description: Saiba como estabelecer um procedimento robusto para criar e manter a documentação e o log de alterações da sua instância  [!DNL Marketo Engage] . Isso não só economizará tempo para o compartilhamento de conhecimento da sua equipe, como também melhorará a integridade e a eficiência da sua instância.
+description: Saiba como estabelecer um procedimento robusto para criar e manter a documentação e o log de alterações para sua instância do [!DNL Marketo Engage]. Isso não só economizará tempo para o compartilhamento de conhecimento da sua equipe, como também melhorará a integridade e a eficiência da sua instância.
 role: Admin
 level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-03-01T00:00:00Z
+last-substantial-update: 2024-03-01
 jira: KT-14809
 thumbnail: KT-14809.jpeg
 exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '856'
 ht-degree: 0%
-
 ---
-
 # Desenvolvimento de um roteiro interno de integração e treinamento
 
 Ao ativar uma nova instância do [!DNL Marketo Engage], é hora de ativar as equipes relevantes para aproveitar o [!DNL Marketo Engage] em seus trabalhos.
 
-Essas práticas recomendadas internas de integração e treinamento foram fornecidas por Naomi Liu, cliente da Adobe Marketo Engage, compartilha as [práticas recomendadas de integração interna](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} e [de treinamento](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} derivadas de sua experiência de implementar uma nova instância para os produtos eletrônicos para as equipes globais da Imaging. Siga os insights dela para criar um plano de treinamento eficaz para suas equipes internas.
+Essas práticas recomendadas internas de integração e treinamento foram fornecidas por Naomi Liu, cliente da Adobe Marketo Engage, compartilha as [práticas recomendadas de integração interna](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=&quot;_blank} e as [práticas recomendadas de treinamento](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=&quot;_blank} derivadas de sua experiência de implementação de uma nova instância para os produtos eletrônicos para as equipes globais de criação de imagens. Siga os insights dela para criar um plano de treinamento eficaz para suas equipes internas.
 
 ## Por que desenvolver um plano de integração interna ao implementar a nova instância?
 
-Como administradores do Marketo Engage, você não só precisa se equipar com os novos recursos da pilha de tecnologia, como também impulsionar a adoção e a educação da nova tecnologia. Capacitar as equipes internas para trabalhar em maior escala depende da educação. Para fazer isso, você precisará aprender a fornecer treinamento sobre os recursos do [!DNL Marketo Engage] que serão mais relevantes para os membros da equipe.
+Como administradores da Marketo Engage, você não só precisa se equipar com os novos recursos da pilha de tecnologia, como também impulsionar a adoção e a educação da nova tecnologia. Capacitar as equipes internas para trabalhar em maior escala depende da educação. Para fazer isso, você precisará aprender a fornecer treinamento sobre os recursos do [!DNL Marketo Engage] que serão mais relevantes para os membros da equipe.
 
 ## Como desenvolver um plano de integração interna
 
@@ -36,7 +34,7 @@ Como administrador, você deve começar por mergulhar nos recursos do [!DNL Mark
 ### Etapa 2: Desenvolvimento de estratégias de treinamento de equipe
 
 * Ao treinar sua equipe de operações de marketing, considere escalonar a participação nos cursos dos Conceitos principais 1 e 2. Certifique-se de que os membros da equipe participem de diferentes aulas com instrutores diferentes para obter perspectivas e insights variados para compartilhar com o grupo.
-* Aproveite os tutoriais da Adobe Experience League, que oferecem lições curtas e fáceis de assimilar para que sua equipe inicie o treinamento do [!DNL Marketo Engage] no seu próprio ritmo.
+* Aproveite os tutoriais da Adobe Experience League, que oferecem lições curtas e fáceis de assimilar para sua equipe iniciar a educação [!DNL Marketo Engage] em seu próprio ritmo.
 * Incentive os membros da equipe a compartilhar conhecimento recém-adquirido durante chamadas de equipe semanais. Isso garante que insights valiosos sejam disseminados entre a equipe que administra a instância de maneira eficaz.
 
 ### Etapa 3: Desenvolvimento de roteiros de treinamento interno
@@ -48,12 +46,12 @@ Como administrador, você deve começar por mergulhar nos recursos do [!DNL Mark
 
 ## Exemplo de currículo: exposições de roteiro de treinamento interno
 
-Esta é uma amostra do currículo de treinamento sugerido por Naomi Liu para você personalizar seus parceiros de negócios de marketing. Baixe o [currículo de treinamento de amostra](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} para sua personalização offline.
+Esta é uma amostra do currículo de treinamento sugerido por Naomi Liu para você personalizar seus parceiros de negócios de marketing. Baixe o [currículo de treinamento de exemplo](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} para sua personalização offline.
 
 | Título da sessão | Objetivos | Métodos de treinamento | Alocação de tempo |
 |--- |--- |--- |--- |
-| Revisão de operações de marketing | <ul><li>Atualizações e responsabilidades da equipe de operações de marketing</li><li>Visão geral da pilha e dos processos da Tecnologia de marketing</li><li>Criação de campanha (de ponta a ponta)</li><li>Analisar os processos atuais para identificar/eliminar as lacunas</li></ul> | Revisão presencial, análise prática do Marketo Engage, pesquisa dos processos atuais e desejos | 2,5h |
-| Apresentação do Marketo Engage | <ul><li>Apresentação de alto nível do Marketo Engage</li><li>Tipos de campanha e convenções de nomenclatura</li><li>Integração de Marketo Engage + CRM | Demonstração ao vivo, sessão de trabalho da convenção de nomenclatura, sessão de convidado com operações de vendas, | 1,5h |
+| Revisão de operações de marketing | <ul><li>Atualizações e responsabilidades da equipe de operações de marketing</li><li>Visão geral da pilha e dos processos da Tecnologia de marketing</li><li>Criação de campanha (de ponta a ponta)</li><li>Analisar os processos atuais para identificar/eliminar as lacunas</li></ul> | Revisão presencial, apresentação prática do Marketo Engage, pesquisa dos processos atuais e desejos | 2,5h |
+| Apresentação do Marketo Engage | <ul><li>Apresentação de alto nível do Marketo Engage</li><li>Tipos de campanha e convenções de nomenclatura</li><li>Integração Marketo Engage + CRM | Demonstração ao vivo, sessão de trabalho da convenção de nomenclatura, sessão de convidado com operações de vendas, | 1,5h |
 | Emails + Landing Pages | <ul><li>Visão geral de modelos de email e de páginas de aterrissagem</li><li>Exemplos de páginas de aterrissagem ativas</li><li>Definição de critérios de público-alvo de Caixas de diálogo e URLs de destino</li><li>Práticas recomendadas de criação de email + landing page</li></ul> | Links de trabalho ao vivo, exemplos interativos, revisão das práticas recomendadas do setor | 1h |
 | Gerenciamento de eventos + Integração de webinários | Páginas de registro + aplicativo de check-in do iPad | Demonstração ao vivo do processo de registro do webinário e do aplicativo de check-in do iPad | 1h |
 |  | Webinar interativo | Demonstração ao vivo da criação, gerenciamento e entrega de eventos no Marketo Engage | 1h |
@@ -64,7 +62,7 @@ Esta é uma amostra do currículo de treinamento sugerido por Naomi Liu para voc
 
 ## O que vem a seguir?
 
-* Baixe a [planilha do currículo de treinamento de amostra](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} para desenvolver seus módulos de treinamento internos.
+* Baixe a planilha do [currículo de treinamento de amostra](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target="blank"} para desenvolver seus módulos de treinamento internos.
 * Preencha as equipes adequadas para o tópico da sessão.
 * Selecione os métodos que gostaria de usar para criar materiais de treinamento.
 
