@@ -13,11 +13,9 @@ kt: 10535
 exl-id: 59944fab-11f8-4af5-92ed-00dcd4205eda
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '499'
 ht-degree: 0%
-
 ---
-
 # Criar um projeto de notícias e anúncios
 
 **O QUE:** Crie um projeto de &#39;Notícias e Anúncios&#39; no Workspace, que terá principalmente texto, e compartilhe-o com toda a empresa. Não é necessário forçá-la como uma página de aterrissagem para seus usuários (embora seja possível), pois ela flutuará para o topo da lista toda vez que for atualizada.
@@ -54,7 +52,7 @@ Este documento foi coescrito por:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, gerente de plataforma [!DNL Analytics] digital do NortonLifeLock
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
