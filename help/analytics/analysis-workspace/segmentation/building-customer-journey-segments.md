@@ -1,31 +1,29 @@
 ---
 title: Criação de segmentos de Jornada do cliente
-description: Saiba como criar segmentos de jornada do cliente com base no comportamento no [!DNL Adobe Analytics] e melhorar a experiência do cliente com o [!DNL Adobe] Experience Cloud seguindo este guia passo a passo.
+description: Saiba como criar segmentos de jornada do cliente com base no comportamento no [!DNL Adobe Analytics] e melhorar a experiência do cliente com a Experience Cloud do [!DNL Adobe] seguindo este guia passo a passo.
 feature-set: Analytics
 feature: Segmentation
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02
 jira: KT-13180
 thumbnail: KT-13180.jpeg
 exl-id: 34f42d7e-e849-420e-9b3d-f3dcc1882b23
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1239'
 ht-degree: 0%
-
 ---
-
 # Criação de segmentos de Jornada do cliente
 
-Saiba como criar segmentos de jornada do cliente com base no comportamento no [!DNL Adobe Analytics] e melhorar a experiência do cliente com o Experience Cloud [!DNL Adobe] seguindo este guia passo a passo.
+Saiba como criar segmentos de jornada do cliente com base no comportamento no [!DNL Adobe Analytics] e melhorar a experiência do cliente com a Experience Cloud do [!DNL Adobe] seguindo este guia passo a passo.
 
-Vamos criar melhores segmentos de jornada do cliente! Nesta série, usaremos [!DNL Adobe Analytics] para definir segmentos comportamentais, estimar tamanhos de público-alvo e rastrear o movimento do usuário. Ao final, você poderá personalizar a mídia e melhorar a experiência dos clientes com o Experience Cloud [!DNL Adobe]. Lembre-se de que esses segmentos estão ativos e devem ser atualizados conforme você aprende mais sobre os clientes. Embora os relatórios possam apresentar alguns desafios, não se preocupe, eu vou guiá-lo através dele! Vamos começar criando nosso primeiro conjunto de segmentos de Jornada de clientes, começando com o segmento &quot;Maravilhas de uma ocorrência&quot;.
+Vamos criar melhores segmentos de jornada do cliente! Nesta série, usaremos [!DNL Adobe Analytics] para definir segmentos comportamentais, estimar tamanhos de público-alvo e rastrear o movimento do usuário. Ao final, você poderá personalizar a mídia e melhorar a experiência dos clientes com a [!DNL Adobe] Experience Cloud. Lembre-se de que esses segmentos estão ativos e devem ser atualizados conforme você aprende mais sobre os clientes. Embora os relatórios possam apresentar alguns desafios, não se preocupe, eu vou guiá-lo através dele! Vamos começar criando nosso primeiro conjunto de segmentos de Jornada de clientes, começando com o segmento &quot;Maravilhas de uma ocorrência&quot;.
 
 Hoje, criaremos espaços reservados para nosso primeiro conjunto de segmentos de Jornada de clientes, criaremos um Workspace [!DNL Adobe Analytics] para nos ajudar a definir nossos segmentos e também nosso primeiro segmento, &quot;Maravilhas de uma só ocorrência&quot;.
 
-Ao final desta série, você poderá criar segmentos de jornadas do cliente no [!DNL Adobe Analytics] com base em sinais comportamentais. Você poderá estimar o tamanho de cada público-alvo em cada estágio da jornada e entender em que taxa os usuários se movem entre esses estágios. E você poderá exportar esses públicos-alvo de jornadas do cliente para o [!DNL Adobe] Experience Cloud para habilitar a personalização e o direcionamento de mídia.
+Ao final desta série, você poderá criar segmentos de jornadas do cliente no [!DNL Adobe Analytics] com base em sinais comportamentais. Você poderá estimar o tamanho de cada público-alvo em cada estágio da jornada e entender em que taxa os usuários se movem entre esses estágios. E você poderá exportar esses públicos-alvo do jornada do cliente para a [!DNL Adobe] Experience Cloud para habilitar a personalização e o direcionamento de mídia.
 
 Cada negócio é diferente, o que significa que os segmentos de jornada de seus clientes serão diferentes dos meus. Portanto, em vez de receitar fórmulas específicas para seus segmentos, sugira algumas coisas a serem observadas e um processo geral para criá-las.
 
@@ -105,6 +103,6 @@ Este documento foi escrito por:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, [!DNL Analytics] Digital
+**Aaron Fossum**, Diretor, Digital [!DNL Analytics]
 
 [!DNL Adobe Analytics] Especialista
