@@ -1,6 +1,6 @@
 ---
 title: Criar modelos de código padronizados
-description: Para uma implementação de linha de base (ou seja, o que sua empresa considera ser os KPIs obrigatórios para todos os [!DNL Adobe Analytics] sites), sua organização deve ter um único método de implementação, quando possível.
+description: Para uma implementação de linha de base (ou seja, o que sua empresa considera ser os KPIs obrigatórios para todos os sites [!DNL Adobe Analytics]), sua organização deve ter um único método de implementação, quando possível.
 solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
@@ -13,11 +13,9 @@ kt: 10532
 exl-id: edd3df73-6d1a-4a26-a984-810cc7dd382f
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '358'
 ht-degree: 0%
-
 ---
-
 # Criar modelos de código padronizados
 
 **O QUE:** para uma implementação de &quot;linha de base&quot; (ou seja, o que sua empresa considera ser os KPIs obrigatórios para todos os sites [!DNL Adobe Analytics]), sua organização deve ter um único método de implementação, quando possível. Por exemplo, use a mesma estrutura de camada de dados entre os sites e a mesma regra/código personalizado do gerenciador de tags para capturar dados, como pesquisas internas ou informações de perfil do visitante.
@@ -30,7 +28,7 @@ ht-degree: 0%
 
 | Variável AA | Descrição | Quando/Onde definir | Como definir |
 |--- |--- |--- |--- |
-| EVAR 8 | Palavras-chave de pesquisa interna | Na aterrissagem da página de resultados da pesquisa interna | camada de dados |
+| EVAR8 | Palavras-chave de pesquisa interna | Na aterrissagem da página de resultados da pesquisa interna | camada de dados |
 | event8 | Contagem de pesquisas internas | Na aterrissagem da página de resultados da pesquisa interna | Regra de inicialização |
 
 * Detalhe sobre como definir. É aqui que você pode especificar quaisquer objetos de camada de dados necessários e sua sintaxe, bem como quaisquer regras TMS que precisam ser configuradas e os detalhes da configuração da regra.
@@ -45,7 +43,7 @@ Este documento foi coescrito por:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, gerente de plataforma [!DNL Analytics] digital do NortonLifeLock
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 

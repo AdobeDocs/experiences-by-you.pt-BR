@@ -6,17 +6,15 @@ feature: Curate and Share
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02
 jira: KT-13179
 thumbnail: KT-13179.jpeg
 exl-id: 99729c18-9f0d-4bbb-be99-01ddd0d2dcb0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '695'
 ht-degree: 0%
-
 ---
-
 # Como explorar o potencial do compartilhamento somente leitura no Analysis Workspace
 
 Saiba como compartilhar projetos do Analysis Workspace [!DNL Adobe] como &quot;somente leitura&quot; pode criar relatórios de painel prontos para executivos com uma interface de usuário limpa e opções de filtragem predefinidas, bem como como como o &quot;cartão de pontuação móvel&quot; pode simplificar o compartilhamento de KPIs de experiência digital com executivos em qualquer lugar.
@@ -48,6 +46,6 @@ Este documento foi escrito por:
 
 ![Leo Lau](assets/leo_headshot.png)
 
-**Leo Lau**, Director, líder da MarTech na Ásia
+**Leo Lau**, Diretor, MarTech Lead Ásia
 
 [!DNL Adobe Analytics] Especialista

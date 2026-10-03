@@ -13,11 +13,9 @@ kt: 10531
 exl-id: 79cec21e-2b52-4e7b-88ad-db137a8cef4e
 source-git-commit: c568ed0a06551d910b6f533698ec47c15adecf6c
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '323'
 ht-degree: 0%
-
 ---
-
 # Criar convenções de nomenclatura padronizadas
 
 **O QUE:** as convenções de nomenclatura padronizadas se aplicam ao próprio nome da variável quando habilitadas na interface do administrador do [!DNL Adobe Analytics] (AA) e aos valores transmitidos para a dimensão. (ou seja, os nomes de página seriam &quot;page name (v1)&quot; como um nome de variável, e os valores de nome de página transmitidos deveriam ser uniformes e seguir uma estrutura/hierarquia específica, como &quot;sitename|homepage&quot; ou &quot;sitename|search|searchresults&quot;).
@@ -37,7 +35,7 @@ Este documento foi coescrito por:
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
 Christel Guidon, gerente de plataforma [!DNL Analytics] digital do NortonLifeLock
-[!DNL Adobe Analytics] Campeão
+[!DNL Adobe Analytics] Especialista
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
