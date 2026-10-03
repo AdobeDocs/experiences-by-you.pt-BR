@@ -1,6 +1,6 @@
 ---
 title: Dicas e truques sobre como simplificar e gastar menos tempo treinando usuários
-description: Garantir que os usuários empresariais em sua organização sejam bem treinados no [!DNL Adobe Analytics]  é fundamental para ajudar a criar uma cultura de tomada de decisão orientada por dados. Os usuários que podem encontrar informações facilmente no  [!DNL Adobe Analytics]  podem responder a perguntas comerciais simples por conta própria, permitindo mais tempo para que os analistas respondam a perguntas comerciais desafiadoras. O compartilhamento do seu conhecimento ajuda a promover a democracia de dados e permite que os usuários empresariais sejam mais independentes na tomada de decisões baseadas em desempenho.
+description: Garantir que os usuários empresariais em sua organização sejam bem treinados no [!DNL Adobe Analytics] é fundamental para ajudar a construir uma cultura de tomada de decisão orientada por dados. Os usuários que podem encontrar informações facilmente no [!DNL Adobe Analytics] podem responder a perguntas comerciais simples por conta própria, permitindo mais tempo para que os analistas respondam a perguntas comerciais desafiadoras. O compartilhamento do seu conhecimento ajuda a promover a democracia de dados e permite que os usuários empresariais sejam mais independentes na tomada de decisões baseadas em desempenho.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -13,11 +13,9 @@ kt: 9779
 exl-id: 9ceef641-3509-4e5e-8c44-bc76502e389b
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '905'
 ht-degree: 0%
-
 ---
-
 # Dicas e truques sobre como simplificar e gastar menos tempo treinando usuários
 
 >[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
@@ -53,7 +51,7 @@ Você pode acabar repetindo o treinamento mais básico várias vezes, conforme o
 * Grave as sessões e disponibilize-as uma por uma conforme cria o novo conteúdo.
 * Ocasionalmente, à medida que sua implementação cresce e evolui, pode ser necessário atualizar suas sessões de treinamento para manter o conteúdo atualizado.
 * Dependendo de como sua implementação e sua organização estão estruturadas, pode ser relevante criar sessões de treinamento direcionadas a um departamento ou grupo específico. Por exemplo: fornecer treinamento a um departamento de TI sobre o uso do navegador e do sistema operacional, demonstrar alertas sobre a disponibilidade do site; fornecer treinamento a um departamento de marketing sobre referenciadores, canais de marketing e páginas de conteúdo mais visitadas.
-* Você não precisa criar todo o conteúdo sozinho. O [!DNL Adobe] tem excelentes caminhos de aprendizado gratuitos e conteúdo de treinamento adicional, que você pode oferecer aos seus usuários dentro do [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=pt-BR).
+* Você não precisa criar todo o conteúdo sozinho. O [!DNL Adobe] tem excelentes caminhos de aprendizado gratuitos e conteúdo de treinamento adicional, que você pode oferecer aos seus usuários no [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=pt-BR).
 
 
 
