@@ -1,27 +1,40 @@
 ---
 title: Adeus Excel, olá métricas calculadas
-description: Saiba mais sobre os benefícios de usar as métricas calculadas no [!DNL Adobe Analytics] e como elas podem fornecer uma exibição contínua e dinâmica dos seus dados neste artigo.
+description: Saiba mais sobre os benefícios do uso de métricas calculadas no [!DNL Adobe Analytics] e como elas podem fornecer a você uma exibição contínua e dinâmica dos seus dados neste artigo.
 feature-set: Analytics
 feature: Calculated Metrics
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13178
 thumbnail: KT-13178.jpeg
 exl-id: b233d6d0-2e89-473e-b700-9977b402af39
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1274'
+source-wordcount: '1277'
 ht-degree: 0%
-
 ---
-
 # Adeus Excel, olá métricas calculadas
 
 Saiba mais sobre os benefícios do uso de métricas calculadas no [!DNL Adobe Analytics] e como elas podem fornecer a você uma exibição contínua e dinâmica dos seus dados neste artigo.
 
-Ei! Por que você está no Excel agora? Quero dizer, eu sei por quê. Você tem relatórios para chegar às pessoas certas. Você está ocupado inserindo dados de [!DNL Adobe Analytics] e calculando taxas de conversão, gerando gráficos e se preparando para colocar todos eles em um PowerPoint que está se encaminhando para os tomadores de decisão. Realmente espero que você esteja pelo menos usando o Report Builder para fazer isso, mas sei que alguns de vocês estão copiando e colando manualmente dados de um Workspace para o Excel.
+Ei! Por que você está no Excel agora? Quero dizer, eu sei por quê. Você tem relatórios para chegar às pessoas certas. Você está ocupado inserindo dados de [!DNL Adobe Analytics] e calculando taxas de conversão, gerando gráficos e se preparando para colocar todos eles em um PowerPoint que está se encaminhando para os tomadores de decisão. Realmente espero que você esteja pelo menos usando o Report Builder para fazer isso, mas sei que alguns de vocês estão copiando e colando dados manualmente de um Workspace para o Excel.
 
 Por quê?
 
@@ -39,7 +52,7 @@ Métricas calculadas são poderosas, mas até mesmo as funções matemáticas b�
 
    Eu estive lá. Copiar/colar. Insira a fórmula ou arraste a célula acima dela para baixo. Clique no gráfico e altere o intervalo para que você tenha os últimos doze ou treze meses. Agora copie o gráfico. Agora faça de novo. E de novo. E de novo. Envie o PowerPoint. É tedioso e demorado e parece que você tem que fazer isso todos os meses para sempre.
 
-   Em vez disso, você pode criar uma Workspace que use sua métrica calculada, tenha Doze ou Treze últimos meses completos como intervalo de datas e fazer com que os dados e o gráfico sejam atualizados automaticamente no traço da meia-noite no primeiro dia de cada mês. Os recipients podem ter acesso direto à Workspace. Eles podem receber uma cópia em PDF automaticamente enviada por email para eles no primeiro dia do mês ou depois de usar Visualizações de texto para adicionar seus comentários sobre os dados (você sabe, a parte divertida dos relatórios).
+   Em vez disso, você pode criar uma Workspace que use sua métrica calculada, tenha Doze ou Treze últimos meses completos como intervalo de datas e fazer com que os dados e o gráfico sejam atualizados automaticamente no traço da meia-noite no primeiro dia de cada mês. Os recipients podem ter acesso direto à Workspace. Eles podem ter uma cópia do PDF enviada automaticamente por email a eles no primeiro dia do mês ou após o uso de Visualizações de texto para adicionar comentários sobre os dados (você sabe, a parte divertida dos relatórios).
 
 1. **Métricas calculadas podem ser aplicadas a grandes conjuntos de dados**
 
@@ -53,7 +66,7 @@ Métricas calculadas são poderosas, mas até mesmo as funções matemáticas b�
 
 **Caso de Uso 1: Taxas de Conversão**
 
-A maioria das taxas de conversão é apenas uma simples divisão. Divida o número de conversões pelo número de visitantes ou visitas. Divida o número de exibições de página para a página final de um funil pelo número de exibições de páginas para a primeira página de um funil. Divida o número de cliques internos na campanha pelo número de impressões. Tudo isso pode ser facilmente feito como métricas calculadas e colocado em um painel, aproveitando a baixa latência de dados, a atualização de visualizações e uma maior capacidade de compartilhamento.
+A maioria das taxas de conversão é apenas uma simples divisão. Divida o número de conversões pelo número de visitantes ou visitas. Divida o número de exibições de página para a página final de uma funnel pelo número de exibições de páginas para a primeira página de uma funnel. Divida o número de cliques internos na campanha pelo número de impressões. Tudo isso pode ser facilmente feito como métricas calculadas e colocado em um painel, aproveitando a baixa latência de dados, a atualização de visualizações e uma maior capacidade de compartilhamento.
 
 **Caso de Uso 2: Pesquisa Interna**
 

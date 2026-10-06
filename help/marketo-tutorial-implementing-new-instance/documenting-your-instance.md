@@ -6,24 +6,31 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-08T00:00:00Z
+last-substantial-update: 2024-05-08T00:00:00.000Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 0%
-
+ht-degree: 1%
 ---
-
 # Introdução à governança de instâncias e documentação
 
 Uma boa documentação pode ser quase tão importante quanto a própria implementação da instância real. Um guia de governança é um recurso essencial que descreve os detalhes de configuração da instância do Marketo Engage, abordando tópicos como estruturas de programa/pasta, limites de comunicação e muito mais. Este documento dinâmico é uma referência para o administrador do Marketo Engage ou usuários avançados, mostrando práticas recomendadas específicas e padrões de governança personalizados para sua instância e organização da Marketo Engage.
 
 Mas não pára por aí. Sua equipe pode exigir documentos de ativação complementares ou materiais de treinamento para aprimorar sua proficiência com a Marketo Engage. Esses recursos podem incluir exercícios interativos, testes de acesso ou diretrizes sobre ações permitidas no Marketo Engage, beneficiando todos os usuários do Marketo Engage na organização. Seja criando um guia de governança abrangente ou documentando os principais aspectos de configuração inicialmente, registrar as decisões tomadas durante a integração é fundamental para garantir o sucesso com o Marketo Engage para sua equipe atual e para as futuras gerações de novas contratações.
 
-Ao entender a importância da documentação e da governança, este tutorial aborda as práticas recomendadas provenientes de colegas especialistas [Introdução à sua documentação de treinamento e governança do Marketo Engage](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=_blank} e [Como você documenta sua instância?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=_blank} para ajudá-lo a colocar um processo em vigor e manter a documentação relevante para seus usuários internos.
+Ao entender a importância da documentação e da governança, este tutorial aborda as práticas recomendadas provenientes de colegas especialistas [Introdução à sua documentação de treinamento e governança do Marketo Engage](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=&quot;_blank} e [Como você documenta sua instância?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=&quot;_blank} para ajudá-lo a colocar um processo em vigor e manter a documentação relevante para seus usuários internos.
 
 ## Por que documentar alterações e decisões durante a implementação da instância é essencial
 
@@ -68,7 +75,7 @@ Guie seu plano de governança e documentação começando com o exemplo de outli
    * Ciclo de vida da pessoa
    * Gerenciamento de dados
 1. Criação na instância do Marketo Engage
-   * [Centro de excelência (COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=_blank}
+   * [Centro de excelência (COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=&quot;_blank}
    * Estrutura de pastas
    * Convenções de nomenclatura
    * Organização do programa

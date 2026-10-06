@@ -1,22 +1,29 @@
 ---
 title: Dicas e truques para implementar uma nova instância
-description: Saiba como implementar uma nova instância  [!DNL Marketo Engage]  para aproveitar ao máximo sua capacidade.
+description: Saiba como implementar uma nova instância [!DNL Marketo Engage] para aproveitar ao máximo sua capacidade.
 solution: Marketo Engage
 role: Admin
 level: Beginner
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-03-01T00:00:00Z
+last-substantial-update: 2024-03-01T00:00:00.000Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: b7e6c53ba2f2345e72f5028472d46596e6c41f58
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '653'
-ht-degree: 12%
-
+source-wordcount: '577'
+ht-degree: 0%
 ---
-
 # Dicas e truques para implementar uma nova instância do [!DNL Marketo Engage]
 
 Bem-vindo(a) ao Adobe [!DNL Marketo Engage]! Configurar uma nova instância é o primeiro passo para melhorar sua estratégia de marketing digital com a automação de marketing. A chave para uma implementação bem-sucedida do [!DNL Marketo Engage] é a documentação.
@@ -42,8 +49,8 @@ Esta série de &quot;Implementação de novas dicas e truques de instância&quot
 
 * [Sincronizando Campos dos Conectores CRM Nativos](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Saiba como simplificar sua integração inicial com o CRM selecionando estrategicamente os campos CRM essenciais para o Marketo Engage usar. Realize o exercício Dicionário de Dados para identificar os campos necessários para uma sincronização perfeita do CRM que ajude as equipes de vendas e marketing a permanecerem alinhadas.*
-   * [Introdução à sincronização do Salesforce](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=_blank}
-   * [Introdução à sincronização do Microsoft Dynamics](https://experienceleague.adobe.com/pt-br/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=_blank}
+  * [Introdução à sincronização do Salesforce](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target=&quot;_blank}
+  * [Introdução à sincronização do Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target=&quot;_blank}
 <br>
 
 * [Organizar uma nova instância e estabelecer convenções de nomenclatura](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +66,6 @@ Esta série de &quot;Implementação de novas dicas e truques de instância&quot
 
 ## Recursos adicionais
 
-* [Implementando uma nova instância do Marketo Engage com listas de verificação de práticas recomendadas](https://experienceleague.adobe.com/pt-br/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=_blank}
+* [Implementando uma nova instância do Marketo Engage com listas de verificação de práticas recomendadas](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target=&quot;_blank}
   *Cada lista de verificação fornece etapas valiosas para você acompanhar seu progresso de configuração. Use as listas de verificação que podem ser baixadas para documentar seu trabalho ao longo do caminho para futuras auditorias de instância e integração de usuários.*
 

@@ -1,6 +1,6 @@
 ---
-title: Guia abrangente para transição do  [!DNL Adobe Analytics] para o Google [!DNL Analytics]
-description: Saiba mais sobre a localização de funcionalidade equivalente e como usá-la com eficiência na transição do Google [!DNL Analytics] para [!DNL Adobe Analytics]
+title: Guia abrangente para transição do [!DNL Analytics] para o [!DNL Adobe Analytics] da Google
+description: Saiba mais sobre a localização de funcionalidade equivalente e como usá-la com eficiência na transição do Google [!DNL Analytics] para o [!DNL Adobe Analytics]
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -8,13 +8,26 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+subfeature_v2:
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '3362'
+source-wordcount: '3364'
 ht-degree: 1%
-
 ---
-
 # Guia abrangente para transição do [!DNL Analytics] para o [!DNL Adobe Analytics] da Google{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## &#x200B;1. Introdução
@@ -94,22 +107,23 @@ Há uma variedade de visualizações disponíveis para os usuários:
 * Fallout
 * Fluxo
 * Gráficos
-   * Área (empilhada e não empilhada)
-   * Linha
-   * Dispersão
-   * Barra (empilhada e não empilhada)
-   * Marcador
-   * Rosquinha
-   * Histograma
-   * Barra horizontal (empilhada e não empilhada)
+  * Área (empilhada e não empilhada)
+  * Linha
+  * Dispersão
+  * Barra (empilhada e não empilhada)
+  * Marcador
+  * Rosquinha
+  * Histograma
+  * Barra horizontal (empilhada e não empilhada)
 * Mapa
 * Blocos de resumo
-   * Alteração de resumo
-   * Texto de resumo
-   * Texto (campo de texto livre para inserir informações extras para fornecer contexto)
+  * Alteração de resumo
+  * Texto de resumo
+  * Texto (campo de texto livre para inserir informações extras para fornecer contexto)
 * Venn
 
-Cada painel e visualização podem ser intitulados e ter uma descrição aplicada para ajudar a contextualizar o que as informações estão mostrando.No [!DNL Adobe], os segmentos (essencialmente filtros de dados) se aplicam retroativamente e podem ser colocados em colunas das tabelas de forma livre para comparar os dados lado a lado. Por exemplo, se um usuário quiser comparar duas categorias diferentes em seu site para tráfego, ele pode criar um segmento para a &quot;Categoria A&quot; e um segmento diferente para a &quot;Categoria B&quot;.
+Cada painel e visualização podem ser intitulados e ter uma descrição aplicada para ajudar a contextualizar o que as informações estão mostrando.
+No [!DNL Adobe], os segmentos (essencialmente filtros de dados) se aplicam retroativamente e podem ser colocados em colunas das tabelas de forma livre para comparar os dados lado a lado. Por exemplo, se um usuário quiser comparar duas categorias diferentes em seu site para tráfego, ele pode criar um segmento para a &quot;Categoria A&quot; e um segmento diferente para a &quot;Categoria B&quot;.
 
 ![analytics-page-views-report](assets/ga-to-aa_3.png)
 
@@ -137,7 +151,7 @@ Outro recurso poderoso dos espaços de trabalho é a capacidade de aplicar modif
 
 >[!IMPORTANT]
 >
->Para saber mais sobre o uso de menus suspensos e detalhamentos de forma livre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=pt>
+>Para saber mais sobre o uso de menus suspensos e detalhamentos de forma livre, consulte <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
 
 ##### 2.1.2.2. Google [!DNL Analytics]: painéis, relatórios personalizados e relatórios salvos
 
@@ -267,7 +281,7 @@ No entanto, eu recomendaria o uso do [!DNL Adobe Analytics] e do Google [!DNL An
 
 Há muitos recursos disponíveis para você além deste guia que podem ajudar a melhorar sua estratégia:
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/pt-br?lang=pt-BR#home) - Contém tutoriais, vídeos, documentações e fóruns da comunidade
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=pt-BR#home) - Contém tutoriais, vídeos, documentações e fóruns da comunidade
 * [[!DNL Adobe] Grupos de usuários](https://analytics-augs.adobe.com/) - Um hub de eventos executados pela comunidade para ajudar os usuários a se conectarem e melhorar suas implementações.
 * [[!DNL Adobe Analytics] Canal YouTube de Grupos de Usuários](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Não foi possível criar uma sessão de grupo de usuários [!DNL Adobe Analytics]? Assista novamente às sessões anteriores de grupos de usuários em todo o mundo para saber mais sobre como seus colegas estão usando a ferramenta.
 * [Canal de chat do Measure Slack](https://www.measure.chat/) - Conecte-se com [!DNL Adobe Analytics] usuários em todo o mundo e compartilhe aprendizados do setor, faça perguntas a seus colegas e participe de grupos de interesse com foco em medição.

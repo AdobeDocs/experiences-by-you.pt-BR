@@ -7,20 +7,30 @@ feature: Admin Tools
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-15T00:00:00Z
+last-substantial-update: 2023-05-15T00:00:00.000Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: ea446e58-d9f2-4a21-aa9b-71aa548016e2
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '879'
 ht-degree: 0%
-
 ---
-
 # Impulsionar o sucesso com painéis de resumo executivo
 
-_Os executivos geralmente não têm informações oportunas e relevantes para seus sites e aplicativos, dependendo de gráficos mensais do Excel ou se afogando em dados granulares. A solução: Painel de resumo executivo do Experience Manager Cloud ManagerMarketo Engag._
+_Os executivos geralmente não têm informações oportunas e relevantes para seus sites e aplicativos, dependendo de gráficos mensais do Excel ou se afogando em dados granulares. A solução: Painel de resumo executivo do Experience Manager Cloud Manager ManagerMarketo Engage._
 
 Quero que imaginem dirigir de Seattle a São Francisco. Em relação à direção, é muito fácil. Suba na I-5 Sul por 12 a 16 horas e você estará lá. Simples, certo? Agora, quero que imaginem que coloquei um pedaço de papelão sobre seus painéis, e digo isso no final
 da sua viagem, você receberá um painel que informa a velocidade, os níveis de combustível e a distância percorrida:

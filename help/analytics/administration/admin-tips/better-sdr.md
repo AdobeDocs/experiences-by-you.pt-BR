@@ -7,17 +7,30 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-04-25T00:00:00Z
+last-substantial-update: 2024-04-25T00:00:00.000Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
 exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1692'
 ht-degree: 0%
-
 ---
-
 # Criação de uma cultura de dados e uma referência de design de solução melhor
 
 _Revolucione sua estratégia de dados e capacite sua equipe a criar um documento sólido de Referência de Design de Solução (SDR). Elimine as lacunas de medição e promova uma cultura de dados colaborativa por meio de metodologias passo a passo._
@@ -65,7 +78,7 @@ _Saiba mais sobre a conferência de medição. Use um mapa do funnel para visual
 1. Com os designers e gerentes de produtos, confira cada etapa e discuta o que todos consideram o sucesso nesse funnel. É o índice de conversão? Ele está escolhendo um caminho específico? Ele está usando determinados recursos?
 1. Faça perguntas sobre quais métricas e dimensões são necessárias para entender o desempenho do funnel em cada etapa da funnel e em geral.
 1. Acima de cada etapa do funnel, adicione as métricas e dimensões medidas nessa etapa, incluindo as métricas calculadas.
-1. No início de cada funnel, escreva os relatórios que são inseridos no painel que o gerente de produto pode usar para rastrear o desempenho. Esses relatórios incluem um [relatório de fallout](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [mês atual](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [taxas de conversão de tendência](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/visualizations/line) e qualquer coisa mais específica para essa funnel.
+1. No início de cada funnel, escreva os relatórios que são inseridos no painel que o gerente de produto pode usar para rastrear o desempenho. Esses relatórios incluem um [relatório de fallout](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [mês atual](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [taxas de conversão de tendência](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line) e qualquer coisa mais específica para essa funnel.
 1. Adicione as novas métricas e dimensões descobertas ao SDR e envie-o aos participantes para uma segunda revisão.
 
 ### Os painéis de visualização

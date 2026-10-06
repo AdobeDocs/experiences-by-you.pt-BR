@@ -1,6 +1,6 @@
 ---
 title: Como criar uma comunidade fortalecida
-description: Saiba mais sobre como criar uma comunidade fortalecida. Uma comunidade fortalecida é apoiada por seus  [!DNL Adobe Analytics] administradores, tem conhecimento sobre como os requisitos de negócios são representados em sua implementação e tem os meios de usar a análise com confiança para tomar decisões orientadas por dados.
+description: Saiba mais sobre como criar uma comunidade fortalecida. Uma comunidade fortalecida é apoiada por seus administradores do [!DNL Adobe Analytics], tem conhecimento sobre como os requisitos de negócios são representados em sua implementação e tem os meios de usar a análise com confiança para tomar decisões orientadas por dados.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -12,13 +12,23 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: 0e45d8ba-a08d-4b5d-8a12-326e01c29505
-source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1574'
+source-wordcount: '1575'
 ht-degree: 2%
-
 ---
-
 # Criação de uma comunidade fortalecida
 
 >[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
@@ -39,7 +49,7 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * Entenda a implementação:
 
-  Como prática recomendada, os usuários devem ter um conhecimento básico dos requisitos comerciais apoiados por sua implementação, que normalmente são capturados por meio de um [documento de requisitos comerciais](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=pt-BR) (BRD) e um [documento de referência do design da solução](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=pt-BR) (SDR). Esses requisitos devem incluir o que foi implementado e definir, por categoria, os requisitos de negócios, relatórios, eVars, eventos e assim por diante.
+  Como prática recomendada, os usuários devem ter um conhecimento básico dos requisitos comerciais apoiados por sua implementação, que normalmente são capturados por meio de um [documento de requisitos comerciais](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) e um [documento de referência do design da solução](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR). Esses requisitos devem incluir o que foi implementado e definir, por categoria, os requisitos de negócios, relatórios, eVars, eventos e assim por diante.
 
 * Usar modelos de relatório:
 
@@ -53,13 +63,13 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * Definir quem está envolvido, as funções e responsabilidades:
 
-   * **Equipe de administração do projeto:** A equipe que gerencia o grupo de usuários ou a comunidade da empresa normalmente é responsável por definir a oportunidade, por exemplo, por meio de uma carta de projeto, a criação do plano de conteúdo (pelo menos inicialmente) e por determinar os veículos de comunicação (por exemplo, equipe da Microsoft®, distribuição de email, chamada trimestral e assim por diante).
+  * **Equipe de administração do projeto:** A equipe que gerencia o grupo de usuários ou a comunidade da empresa normalmente é responsável por definir a oportunidade, por exemplo, por meio de uma carta de projeto, a criação do plano de conteúdo (pelo menos inicialmente) e por determinar os veículos de comunicação (por exemplo, equipe da Microsoft®, distribuição de email, chamada trimestral e assim por diante).
 
-   * **Patrocinador executivo:** É fundamental ter um patrocinador executivo para apoiar o sucesso do grupo de usuários interno ou da comunidade da sua empresa. Essa função é fundamental para apoiar os marcos e a comunicação, garantir a priorização em toda a equipe e gerenciar alterações.
+  * **Patrocinador executivo:** É fundamental ter um patrocinador executivo para apoiar o sucesso do grupo de usuários interno ou da comunidade da sua empresa. Essa função é fundamental para apoiar os marcos e a comunicação, garantir a priorização em toda a equipe e gerenciar alterações.
 
-   * **Responsabilidades das funções de suporte:** Dependendo do tamanho e da estrutura de sua organização, pode ser útil envolver equipes de Desenvolvimento na Web, Personalization, Testes, entre outras.
+  * **Responsabilidades das funções de suporte:** Dependendo do tamanho e da estrutura de sua organização, pode ser útil envolver equipes de Desenvolvimento na Web, Personalization, Testes, entre outras.
 
-   * **Usuários da ferramenta:** A oportunidade de se envolver está aberta para qualquer pessoa, independentemente de cargo ou função, que tenha o potencial de impactar dados alinhados à implementação do [!DNL Adobe Analytics] da sua empresa.
+  * **Usuários da ferramenta:** A oportunidade de se envolver está aberta para qualquer pessoa, independentemente de cargo ou função, que tenha o potencial de impactar dados alinhados à implementação do [!DNL Adobe Analytics] da sua empresa.
 
 * Lembre-se - &quot;O que eles ganham com isso?&quot; Manter a sua comunidade focada nos casos de uso e prioridades do negócio ajuda a garantir o engajamento e o sucesso.
 
@@ -69,25 +79,25 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
   Uma carta de projeto geralmente é uma ótima maneira de alinhar seus negócios em torno da oportunidade para uma comunidade interna fortalecida. Ao responder às seguintes perguntas, você tem o que é necessário para elaborar sua carta:
 
-   * Qual é a descrição do problema que você está tentando resolver? Qual é o objetivo de sua comunidade e o que você prevê como dentro ou fora do escopo?
-   * O que eu ganho com isso? Quais são os benefícios ou custos potenciais, como medir o sucesso e quais são os riscos?
-   * Qual é a linha do tempo para colocar uma comunidade no ar? Qual trabalho de configuração é necessário de uma perspectiva de capacitação, ferramenta, grupos de usuários administradores etc? Normalmente, é melhor ter recursos básicos de capacitação desenvolvidos antes de lançar uma iniciativa maior.
-   * Qual será a eficácia dos principais membros da equipe para o sucesso da comunidade e quem será apoiado dentro da iniciativa?
-   * Por fim, quem é o seu patrocinador executivo? Não podemos enfatizar o suficiente o valor de um patrocinador executivo forte, alguém que apoie o trabalho e o seu valor.
+  * Qual é a descrição do problema que você está tentando resolver? Qual é o objetivo de sua comunidade e o que você prevê como dentro ou fora do escopo?
+  * O que eu ganho com isso? Quais são os benefícios ou custos potenciais, como medir o sucesso e quais são os riscos?
+  * Qual é a linha do tempo para colocar uma comunidade no ar? Qual trabalho de configuração é necessário de uma perspectiva de capacitação, ferramenta, grupos de usuários administradores etc? Normalmente, é melhor ter recursos básicos de capacitação desenvolvidos antes de lançar uma iniciativa maior.
+  * Qual será a eficácia dos principais membros da equipe para o sucesso da comunidade e quem será apoiado dentro da iniciativa?
+  * Por fim, quem é o seu patrocinador executivo? Não podemos enfatizar o suficiente o valor de um patrocinador executivo forte, alguém que apoie o trabalho e o seu valor.
 
 * Criar um plano de conteúdo - Embora sua comunidade possa lhe oferecer ideias de conteúdo, você também deve ter algumas para iniciar o engajamento. Uma boa regra é ter pelo menos 6 a 12 meses de conteúdo criado em um determinado momento.
 
-   * Existem tópicos que podem ser alinhados a iniciativas empresariais maiores, como eventos-chave, programas maiores, períodos de planejamento, entre outros?
-   * Quem seria o melhor para falar sobre esses tópicos? Como eles se beneficiariam do engajamento da comunidade?
-   * Idealmente, qual conteúdo seria incluído na apresentação e quais perguntas poderiam ser respondidas?
+  * Existem tópicos que podem ser alinhados a iniciativas empresariais maiores, como eventos-chave, programas maiores, períodos de planejamento, entre outros?
+  * Quem seria o melhor para falar sobre esses tópicos? Como eles se beneficiariam do engajamento da comunidade?
+  * Idealmente, qual conteúdo seria incluído na apresentação e quais perguntas poderiam ser respondidas?
 
 * Criar um plano de comunicação - Um plano de comunicação sólido será a chave para o engajamento de sua comunidade e o sucesso geral. Algumas questões a serem consideradas ao criar seu plano são:
 
-   * Quais equipes serão afetadas pela sua comunidade e quem é o seu público-alvo (por exemplo, executivos, gerentes, analistas de linha de frente)?
-   * Qual o foco da sua mensagem principal, quais mensagens são necessárias, o que ela oferece ao seu público-alvo (o que ele ganha com isso?) e quais solicitações você tem?
-   * Quais veículos de comunicação devem ser usados (por exemplo, email, Slack, vídeo, reuniões e assim por diante) antes ou depois do lançamento da comunidade? Por exemplo, você enviará emails por meio da ferramenta de administração [!DNL Adobe Analytics]? Ou agora o seu novo processo de integração de usuário deve incluir a manutenção de uma lista interna de distribuição de email que pode ser usada para boletins informativos e assim por diante?
-   * Quem enviará a comunicação?
-   * Quando? É importante considerar ambas as comunicações antes do lançamento da comunidade, bem como aquelas que precisam ser fornecidas de forma contínua após o lançamento.
+  * Quais equipes serão afetadas pela sua comunidade e quem é o seu público-alvo (por exemplo, executivos, gerentes, analistas de linha de frente)?
+  * Qual o foco da sua mensagem principal, quais mensagens são necessárias, o que ela oferece ao seu público-alvo (o que ele ganha com isso?) e quais solicitações você tem?
+  * Quais veículos de comunicação devem ser usados (por exemplo, email, Slack, vídeo, reuniões e assim por diante) antes ou depois do lançamento da comunidade? Por exemplo, você enviará emails por meio da ferramenta de administração [!DNL Adobe Analytics]? Ou agora o seu novo processo de integração de usuário deve incluir a manutenção de uma lista interna de distribuição de email que pode ser usada para boletins informativos e assim por diante?
+  * Quem enviará a comunicação?
+  * Quando? É importante considerar ambas as comunicações antes do lançamento da comunidade, bem como aquelas que precisam ser fornecidas de forma contínua após o lançamento.
 
 * Use o seu veículo da comunidade para ir ao ar. Dependendo da pilha de tecnologia do seu negócio, você também desejará escolher uma ferramenta ou um veículo para sua comunidade. Isso será personalizado para sua organização, mas muitos acham que o Microsoft Teams funciona bem.
 
@@ -95,9 +105,9 @@ Você pode criar uma comunidade fortalecida na sua organização. Veja como:
 
 * Tempo de reserva - Adicione as reuniões da comunidade aos calendários para marcar a data antecipadamente. As reuniões recorrentes, quando possíveis, são uma ótima ideia e ajudarão a dar vida ao seu plano de conteúdo. Para ajudar você a começar, veja algumas ideias de programação:
 
-   * Se a sua empresa está hospedando eventos virtuais, quais aprendizados e insights digitais podem ser compartilhados mais amplamente?
-   * Se o seu site usa ferramentas interativas (como chatbots, calculadoras de economia, demonstrações etc.), como os dados de desempenho estão sendo aproveitados? Quais insights podem ser obtidos para oferecer melhor suporte aos clientes e à jornada do cliente?
-   * Como a sua empresa está utilizando os recursos existentes para aprimorar e aproveitar os insights do público-alvo? Por exemplo, sua empresa está usando a nova integração do [!DNL Adobe Analytics] com o Marketo? Quais aprendizados e insights podem ser compartilhados mais amplamente?
+  * Se a sua empresa está hospedando eventos virtuais, quais aprendizados e insights digitais podem ser compartilhados mais amplamente?
+  * Se o seu site usa ferramentas interativas (como chatbots, calculadoras de economia, demonstrações etc.), como os dados de desempenho estão sendo aproveitados? Quais insights podem ser obtidos para oferecer melhor suporte aos clientes e à jornada do cliente?
+  * Como a sua empresa está utilizando os recursos existentes para aprimorar e aproveitar os insights do público-alvo? Por exemplo, sua empresa está usando a nova integração do [!DNL Adobe Analytics] com o Marketo? Quais aprendizados e insights podem ser compartilhados mais amplamente?
 
 * Definir expectativas - Continue utilizando a carta do projeto e o plano de comunicação para definir expectativas em torno do que a sua comunidade é ou não é. A consistência é fundamental.
 * Planejar o engajamento - Embora a sua comunidade esteja iniciando, pode ser útil designar alguém para monitorar e envolver equipes por meio do bate-papo durante reuniões e através dos veículos da comunidade.
@@ -115,4 +125,4 @@ Estabelecer e manter uma comunidade fortalecida dá muito trabalho. É important
 
 * Desenvolvimento de carreira - Uma comunidade fortalecida muda o foco de muitas equipes de analistas, de um plano reativo e tático para um prescritivo e estratégico. Isso abre oportunidades de desenvolvimento de carreira para a equipe de administração de projeto da sua comunidade.
 
-Se você tem um grupo interno de usuários [!DNL Adobe Analytics] ou uma &quot;comunidade&quot; mais formal, ou está trabalhando para criar uma, adoraríamos ouvir sua história no [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=pt)!
+Se você tem um grupo interno de usuários [!DNL Adobe Analytics] ou uma &quot;comunidade&quot; mais formal, ou está trabalhando para criar uma, adoraríamos ouvir sua história no [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!

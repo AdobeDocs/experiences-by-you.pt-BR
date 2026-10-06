@@ -7,9 +7,22 @@ audience: author, marketer, developer
 role: Admin
 level: Intermediate
 topic: Administration
-last-substantial-update: 2023-11-03
+last-substantial-update: 2023-11-03T00:00:00.000Z
 exl-id: 65a12916-27bb-4761-a1d3-da8ff4c51ef8
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+product_v2:
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: c45915cf-e157-4af7-a80d-97b905bcb3a5
+    internal-label: Experience Manager Sites
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -26,9 +39,9 @@ As avaliações de maturidade permitem a avaliação e a adesão aos padrões e 
 
 Para obter as práticas recomendadas sobre administração, desenvolvimento ou criação, consulte os seguintes recursos:
 
-* [Administração de práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=pt-BR)
-* [Desenvolvimento de práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=pt-BR)
-* [Práticas recomendadas de criação](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=pt-BR)
+* [Administração de práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
+* [Desenvolvimento de práticas recomendadas](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
+* [Práticas recomendadas de criação](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
 
 Cada uma dessas áreas de práticas recomendadas acima também inclui outras práticas recomendadas para a criação, o desenvolvimento e a implantação do AEM.
 

@@ -1,6 +1,6 @@
 ---
 title: Trabalhar além das funções
-description: A jornada para  [!DNL Adobe Analytics] começa com uma boa implementação. Todos nós conhecemos a expressão "lixo entra, lixo sai". Para eliminar uma implementação "lixo sai", os administradores devem monitorar cada detalhe dos dados inseridos no sistema. Dito isso, a estratégia de coleta de dados é influenciada por muitas partes interessadas na organização com quem o administrador terá de trabalhar dia após dia.
+description: A jornada para [!DNL Adobe Analytics] começa com uma boa implementação. Todos nós conhecemos a expressão "lixo entra, lixo sai". Para eliminar uma implementação "lixo sai", os administradores devem monitorar cada detalhe dos dados inseridos no sistema. Dito isso, a estratégia de coleta de dados é influenciada por muitas partes interessadas na organização com quem o administrador terá de trabalhar dia após dia.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,16 +10,26 @@ level: Experienced
 thumbnail: 342071.jpg
 kt: 10129
 exl-id: 9dbebe7a-0b68-4aea-8a51-6e6bc0f54d09
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '713'
 ht-degree: 0%
-
 ---
-
 # Trabalhar além das funções
 
->[!VIDEO](https://video.tv.adobe.com/v/345456/?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
 
 A jornada para [!DNL Adobe Analytics] começa com uma boa implementação. Todos nós conhecemos a expressão &quot;lixo entra, lixo sai&quot;. Para eliminar uma implementação &quot;lixo sai&quot;, os administradores devem monitorar cada detalhe dos dados inseridos no sistema. Dito isso, a estratégia de coleta de dados é influenciada por muitas partes interessadas na organização com quem o administrador terá de trabalhar dia após dia.
 
