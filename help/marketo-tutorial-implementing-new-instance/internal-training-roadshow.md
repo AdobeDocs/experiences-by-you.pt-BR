@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Ao ativar uma nova instância do [!DNL Marketo Engage], é hora de ativar as equipes relevantes para aproveitar o [!DNL Marketo Engage] em seus trabalhos.
 
-Essas práticas recomendadas internas de integração e treinamento foram fornecidas por Naomi Liu, cliente da Adobe Marketo Engage, compartilha as [práticas recomendadas de integração interna](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=&quot;_blank} e as [práticas recomendadas de treinamento](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=&quot;_blank} derivadas de sua experiência de implementação de uma nova instância para os produtos eletrônicos para as equipes globais de criação de imagens. Siga os insights dela para criar um plano de treinamento eficaz para suas equipes internas.
+Essas práticas recomendadas internas de integração e treinamento foram fornecidas por Naomi Liu, cliente da Adobe Marketo Engage, compartilha as [práticas recomendadas de integração interna](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target=_blank} e as [práticas recomendadas de treinamento](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target=_blank} derivadas de sua experiência de implementação de uma nova instância para os produtos eletrônicos para as equipes globais de criação de imagens. Siga os insights dela para criar um plano de treinamento eficaz para suas equipes internas.
 
 ## Por que desenvolver um plano de integração interna ao implementar a nova instância?
 
