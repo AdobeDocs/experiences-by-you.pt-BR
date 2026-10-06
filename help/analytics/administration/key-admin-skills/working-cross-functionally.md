@@ -29,7 +29,7 @@ ht-degree: 0%
 ---
 # Trabalhar além das funções
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345456/?captions=por_br&quality=12&learn=on)
 
 A jornada para [!DNL Adobe Analytics] começa com uma boa implementação. Todos nós conhecemos a expressão &quot;lixo entra, lixo sai&quot;. Para eliminar uma implementação &quot;lixo sai&quot;, os administradores devem monitorar cada detalhe dos dados inseridos no sistema. Dito isso, a estratégia de coleta de dados é influenciada por muitas partes interessadas na organização com quem o administrador terá de trabalhar dia após dia.
 

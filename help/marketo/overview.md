@@ -45,7 +45,7 @@ O mais importante das soluções da Experience Cloud para o [!DNL Adobe]? Você.
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Navegar na interface do usuário [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="Navegar na interface do usuário [!DNL Marketo Engage]" src="https://video.tv.adobe.com/v/3450431?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -58,7 +58,7 @@ O mais importante das soluções da Experience Cloud para o [!DNL Adobe]? Você.
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="Relatórios e análises" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="Relatórios e análises" src="https://video.tv.adobe.com/v/3446425?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -71,7 +71,7 @@ O mais importante das soluções da Experience Cloud para o [!DNL Adobe]? Você.
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Programas de e-mail" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="Programas de e-mail" src="https://video.tv.adobe.com/v/3453372?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

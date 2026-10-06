@@ -32,7 +32,7 @@ ht-degree: 4%
 
 Saiba como navegar no [!DNL Analytics] e na seção Banco de Dados para obter diferentes relatórios prontos para uso no [!DNL Marketo Engage].
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446425/?captions=por_br&learn=on){transcript=true}
 
 ## Recursos adicionais
 

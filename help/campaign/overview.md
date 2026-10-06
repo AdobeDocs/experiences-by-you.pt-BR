@@ -46,7 +46,7 @@ O mais importante das soluções da Experience Cloud para o [!DNL Adobe]? Você.
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="As 5 principais práticas de fluxo de trabalho para profissionais de marketing" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="As 5 principais práticas de fluxo de trabalho para profissionais de marketing" src="https://video.tv.adobe.com/v/3448132?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">

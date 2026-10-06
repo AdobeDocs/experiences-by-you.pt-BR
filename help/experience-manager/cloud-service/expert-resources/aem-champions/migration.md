@@ -37,4 +37,4 @@ ht-degree: 29%
 
 Confira conselhos de especialistas e práticas recomendadas do seu colega e especialista em AEM, Wilson Faure. Neste vídeo, ele aborda as complexidades do planejamento e da preparação para a migração para o AEM as a Cloud Service. Descubra práticas recomendadas inestimáveis para marcos importantes na jornada de migração, incluindo o estabelecimento de benchmarks de desempenho e a superação de obstáculos, como a compatibilidade do código do cliente e o gerenciamento de APIs externas/internas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427587/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445934/?captions=por_br&learn=on)

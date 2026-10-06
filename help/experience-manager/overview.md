@@ -45,7 +45,7 @@ O mais importante das soluções da Experience Cloud para o [!DNL Adobe]? Você.
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="Dicas e truques - Modelos editáveis" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="Dicas e truques - Modelos editáveis" src="https://video.tv.adobe.com/v/3439842?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -71,7 +71,7 @@ O mais importante das soluções da Experience Cloud para o [!DNL Adobe]? Você.
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="Dicas e truques" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="Dicas e truques" src="https://video.tv.adobe.com/v/3439476?captions=por_br&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
