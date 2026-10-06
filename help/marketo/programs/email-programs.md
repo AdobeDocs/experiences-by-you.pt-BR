@@ -39,12 +39,12 @@ Assista a este tutorial passo a passo para saber como criar um programa de email
 
 Consulte os guias de produtos relacionados para obter mais informações:
 
-* [Noções básicas sobre a documentação de Programas de email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Noções básicas sobre a documentação de Programas de email](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=pt-BR)
 
 Assista a vídeos adicionais para obter mais ajuda sobre este recurso:
 
-* [Caminho programado por email](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [O teste AB é realizado](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [Caminho programado por email](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=pt-BR)
+* [O teste AB é realizado](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=pt-BR)
 
 Saiba mais com seus colegas sobre como usar Programas de email:
 
