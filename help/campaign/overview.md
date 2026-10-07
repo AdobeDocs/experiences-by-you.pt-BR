@@ -5,18 +5,31 @@ role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 solution: Campaign
-thumbnail: null
+thumbnail:
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 26%
-
+source-wordcount: '278'
+ht-degree: 33%
 ---
-
 # [!DNL Campaign] por você: Recursos por usuários, para usuários.
 
-O que há de mais poderoso nas soluções da Experience Cloud [!DNL Adobe]? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. Experiências por você apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções da Experience Cloud [!DNL Adobe]. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
+O mais importante das soluções da Experience Cloud para o [!DNL Adobe]? Você. Os usuários que pegam os produtos, pesquisam neles, e os aplicam de maneiras surpreendentes e inovadoras para criar experiências e resultados significativos. Experiências por você apresenta conteúdo criado por usuários comuns que atingiram um nível de conhecimento e influência com suas soluções da Experience Cloud [!DNL Adobe]. Esse conhecimento ponto a ponto incentiva a colaboração e a descoberta, permitindo que você e qualquer outro usuário encontrem a inspiração necessária para elevar o nível da sua experiência com produtos.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -77,8 +90,8 @@ O que há de mais poderoso nas soluções da Experience Cloud [!DNL Adobe]? Voc�
 
 ## Recursos adicionais
 
-* [Comunidade Experience League Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=pt)
+* [Comunidade do Experience League Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=pt)
 * Adobe Campaign v8 - [Documentação](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=pt-BR) / [Tutoriais](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=pt-BR)
 * Adobe Campaign Classic v7 - [Documentação](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=pt-BR) / [Tutoriais](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=pt-BR)
 * Adobe Campaign Standard - [Documentação](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=pt-BR) / [Tutoriais](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=pt-BR)
-* [Informações sobre o produto Adobe Campaign](https://business.adobe.com/br/products/campaign/adobe-campaign.html)
+* [Informações de produto do Adobe Campaign](https://business.adobe.com/br/products/campaign/adobe-campaign.html)

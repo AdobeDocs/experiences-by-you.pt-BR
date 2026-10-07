@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1291'
 ht-degree: 2%
-
 ---
-
 # Organize uma nova instância e estabeleça convenções de nomenclatura
 
 Como administrador que implementa uma nova instância do Marketo Engage, você está criando a base para permitir que futuros profissionais de marketing na organização naveguem facilmente pela instância. Conhecer a estrutura de pastas de árvore e as convenções de nomenclatura manterá sua instância organizada e configurada para obter sucesso a longo prazo. Este tutorial abrange exemplos recomendados pela Adobe e pelo Marketo Engage Champion(2019-2020), Natalie Kremer, para ajudá-lo a [organizar as pastas e nomear os ativos de forma consistente](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
@@ -38,7 +45,7 @@ Estas são algumas dicas rápidas ao estruturar as pastas na árvore:
 * Mantenha uma estrutura de pasta simples para fins de descoberta.
 * Estruturar suas pastas para refletir a estrutura de equipe da organização (por exemplo, Região ou Equipe) ou as iniciativas (por exemplo, Boletins informativos).
 * Inclua rótulos com base no tempo para permitir a pesquisa e sinalizar o tempo apropriado para arquivamento (por exemplo, 2024).
-   * Recomenda-se que os administradores arquivem as pastas pelo menos uma vez por ano. Usando um nome de pasta anual, você pode desativar facilmente as Campanhas inteligentes ativas e arquivar toda a pasta no final do ano.
+  * Recomenda-se que os administradores arquivem as pastas pelo menos uma vez por ano. Usando um nome de pasta anual, você pode desativar facilmente as Campanhas inteligentes ativas e arquivar toda a pasta no final do ano.
 
 Abaixo estão exemplos de pastas como colocar essas dicas em prática.
 
@@ -69,12 +76,12 @@ Agora, vamos aplicar a estrutura de pastas no nível do programa. Como prática 
 * Campanhas - *Pasta para todas as campanhas que gerenciam interações e o rastreamento de status.*
 * Assets Local - *Pasta para todos os ativos específicos deste Programa.*
 
-   * Emails
-   * Páginas de destino
-   * Campanhas inteligentes
-   * Listas - *Necessário somente quando há Listas específicas do Programa.*
-   * Forms - *Necessário somente quando há Forms específicos do Programa; a maioria das Forms são Assets Globais.*
-   * Relatórios - *Necessário somente quando há Relatórios específicos do Programa.*
+  * Emails
+  * Páginas de destino
+  * Campanhas inteligentes
+  * Listas - *Necessário somente quando há Listas específicas do Programa.*
+  * Forms - *Necessário somente quando há Forms específicos do Programa; a maioria das Forms são Assets Globais.*
+  * Relatórios - *Necessário somente quando há Relatórios específicos do Programa.*
 
 ### Etapa 3 - Criar convenções de nomenclatura para seus programas e ativos
 
@@ -116,7 +123,7 @@ Em um nível, é melhor não repetir o nome do programa e usar identificadores c
 
 * Numere os ativos com base em sua sequência no processo do programa.
 * Use &quot;-&quot; (hífen) para separar os componentes de nomenclatura em vez de &quot;.&quot;(ponto) ou &quot;\_&quot;(sublinhado).
-   * Por quê? O Marketo Engage usa um ponto para separar o Nome do programa do Nome da campanha. Usar &quot;\_&quot; impedirá que você o veja quando o ativo estiver com hiperlink.
+  * Por quê? O Marketo Engage usa um ponto para separar o Nome do programa do Nome da campanha. Usar &quot;\_&quot; impedirá que você o veja quando o ativo estiver com hiperlink.
 * Use acrônimos padrão nos nomes de ativos para encurtar a referência e ainda permitir um reconhecimento fácil.
 
 Com isso em mente, aplicaremos essas dicas aos seguintes ativos e criaremos fórmulas para gerar nomes:

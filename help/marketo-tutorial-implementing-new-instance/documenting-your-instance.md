@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-08T00:00:00Z
+last-substantial-update: 2024-05-08T00:00:00.000Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '862'
-ht-degree: 0%
-
+ht-degree: 1%
 ---
-
 # Introdução à governança de instâncias e documentação
 
 Uma boa documentação pode ser quase tão importante quanto a própria implementação da instância real. Um guia de governança é um recurso essencial que descreve os detalhes de configuração da instância do Marketo Engage, abordando tópicos como estruturas de programa/pasta, limites de comunicação e muito mais. Este documento dinâmico é uma referência para o administrador do Marketo Engage ou usuários avançados, mostrando práticas recomendadas específicas e padrões de governança personalizados para sua instância e organização da Marketo Engage.

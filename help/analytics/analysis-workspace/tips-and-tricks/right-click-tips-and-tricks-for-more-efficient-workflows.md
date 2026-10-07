@@ -9,13 +9,26 @@ doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
 exl-id: 2bd7a828-5bb0-43bf-8802-310edd444d62
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '936'
 ht-degree: 0%
-
 ---
-
 # 7 Dicas e truques do botão direito do mouse para workflows mais eficientes
 
 Estas são 7 dicas do botão direito do mouse que você pode usar no Analysis Workspace para tornar seus workflows mais eficientes. Você pode lê-las no texto abaixo ou assistir ao vídeo para vê-las demonstradas.
@@ -34,7 +47,7 @@ Essa anotação será exibida em suas visualizações e tabelas com todas as inf
 
 ## Dica #2: dados de tendência para funis e relatórios de fluxo
 
-Os relatórios de funil (Fallout) são ótimos para mostrar usuários passando por várias páginas ou eventos. Mas você também pode analisar a tendência dessa sucessão de eventos ao longo do tempo. Você pode fazer isso facilmente clicando com o botão direito do mouse em qualquer nível do funil e fazendo a tendência de todos os pontos de contato ou de um ponto de contato específico em um gráfico de linhas. Você pode fazer isso por % ou pelo número bruto de visitas ou visitantes.
+Os relatórios do funnel (Fallout) são excelentes para mostrar aos usuários que passam por várias páginas ou eventos. Mas você também pode analisar a tendência dessa sucessão de eventos ao longo do tempo. Você pode fazer isso facilmente clicando com o botão direito do mouse em qualquer nível da funnel e fazendo a tendência de todos os pontos de contato ou de um ponto de contato específico em um gráfico de linhas. Você pode fazer isso por % ou pelo número bruto de visitas ou visitantes.
 
 Também é possível fazer isso nos Relatórios de fluxo, clicando com o botão direito do mouse em um caminho específico e selecionando &quot;Tendência&quot;.
 

@@ -7,17 +7,28 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 2%
-
 ---
-
 # Solução de problemas para profissionais de marketing: 5 erros comuns de fluxo de trabalho e delivery
 
 Por: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, consultor sênior, Meijer
@@ -28,8 +39,8 @@ No meu tempo usando o ACS, encontrei erros que podem ser demorados e frustrantes
 
 ## Erro de incompatibilidade de tipo de dados
 
-**Código de Erro:
-
+**Código de Erro:**
+`PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **Causa:**
 Esses tipos de erros aparecem em um fluxo de trabalho quando você tenta reconciliar usando campos de tipos de dados diferentes. Por exemplo, ao fazer upload de um arquivo usando carregar arquivo que tem um campo de sequência e você tenta reconciliar o campo de sequência com um campo de perfil que tem o tipo de dados int.
@@ -44,8 +55,8 @@ Altere o tipo de dados do campo na atividade &quot;Load file&quot; para o campo 
 
 ## Erro de entrega do Personalization
 
-**Código de Erro:
-
+**Código de Erro:**
+`The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.`
 
 **Causa:**
 Este erro aparece ao enviar um email para um endereço, mas o email ou qualquer outro identificador não é reconciliado com um perfil. Para enviar uma comunicação por email, o email ou o identificador deve estar sempre vinculado a um perfil.
@@ -87,8 +98,8 @@ Há duas maneiras de resolver esse erro:
 
 ## Erro de descarte de nome de campo
 
-**Código de Erro:
-
+**Código de Erro:**
+`XTK-170036 Unable to parse expression 'i__name'`
 
 **Causa:**
 
@@ -110,8 +121,8 @@ Você pode resolver esse erro de três maneiras:
 
 ## Erro de descarte de tabela temporária 
 
-**Código de Erro:
-
+**Código de Erro:**
+`XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **Causa:**
 Esse é um erro comum em workflows complicados envolvendo enriquecimento ou outra atividade. Isso provavelmente significa que alguns dos workflows de atividade não são salvos corretamente durante várias alterações no workflow.

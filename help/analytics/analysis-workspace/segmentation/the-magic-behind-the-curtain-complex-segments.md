@@ -6,17 +6,36 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 36000
-last-substantial-update: 2024-03-25T00:00:00Z
+last-substantial-update: 2024-03-25T00:00:00.000Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 69fa16c1bf38604e4dabc553baee71598be83db3
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '4166'
 ht-degree: 1%
-
 ---
-
 # A mágica por trás da cortina: segmentos complexos: exclusões, containers e atribuição
 
 _Descubra as complexidades da segmentação de dados complexa, explorando exclusões, contêineres e modelos de atribuição. Como um feiticeiro mágico, dominar essas técnicas permite que os analistas executem magia de dados, transformando insights com precisão e fineza._
@@ -63,14 +82,14 @@ Vocês podem estar sentados lá pensando: &quot;Ok, mas eu já tenho as opções
 *Como acima, cada ocorrência dentro da **visita**&#x200B;será avaliada com o mesmo valor verdadeiro/falso. No entanto, o conjunto de dados retornado é o da visita inteira.*
 
 - Em cada ocorrência, &quot;Valor&quot; não contém &quot;Exemplo&quot; (sim), portanto, retorna verdadeiro; da mesma forma, &quot;Exemplo&quot; não contém &quot;Exemplo&quot; (não, ele contém), portanto, retorna falso.
-   - Se **qualquer** ocorrência na visita retornar **true**, então a **visita inteira** será retornada.*
-   - Se a visita fosse totalmente composta de ocorrências que continham &quot;Exemplo&quot;, nenhuma ocorrência retornaria &quot;true&quot; e, portanto, essa visita **não seria retornada** no seu conjunto de dados.
+  - Se **qualquer** ocorrência na visita retornar **true**, então a **visita inteira** será retornada.*
+  - Se a visita fosse totalmente composta de ocorrências que continham &quot;Exemplo&quot;, nenhuma ocorrência retornaria &quot;true&quot; e, portanto, essa visita **não seria retornada** no seu conjunto de dados.
 - Novamente, em cada ocorrência, &quot;Exemplo&quot; contém &quot;Exemplo&quot; (sim), portanto, retorna verdadeiro
-   - Se **qualquer ocorrência** retornar **true**, a visita inteira será **excluída**
-   - Se **todas as ocorrências** na visita retornarem **false**, essa visita será retornada no seu conjunto de dados
+  - Se **qualquer ocorrência** retornar **true**, a visita inteira será **excluída**
+  - Se **todas as ocorrências** na visita retornarem **false**, essa visita será retornada no seu conjunto de dados
 - Agora vocês podem ver onde essa lógica começa a divergir. No exemplo acima, há três visitas distintas:
-   - Ao usar &quot;Não Contém / Igual&quot;, **duas das três** visitas serão retornadas.
-   - Ao usar &quot;Excluir Contém / Igual a&quot; **somente uma** dessas visitas será retornada
+  - Ao usar &quot;Não Contém / Igual&quot;, **duas das três** visitas serão retornadas.
+  - Ao usar &quot;Excluir Contém / Igual a&quot; **somente uma** dessas visitas será retornada
 
 **Figura 3: Não contém / não é igual a - Escopo de visitas**
 
@@ -79,14 +98,14 @@ Vocês podem estar sentados lá pensando: &quot;Ok, mas eu já tenho as opções
 *Como acima, cada ocorrência feita por **visitante**&#x200B;será avaliada com a mesma lógica verdadeira/falsa. Mas agora estamos vendo todas as ocorrências que esse visitante fez, em todas as visitas (dentro do intervalo de datas selecionado).*
 
 - Em cada ocorrência, &quot;Valor&quot; não contém &quot;Exemplo&quot; (sim), portanto, retorna verdadeiro; da mesma forma, &quot;Exemplo&quot; não contém &quot;Exemplo&quot; (não, ele contém), portanto, retorna falso.
-   - Se **qualquer** ocorrência feita pelo visitante retornar **true**, então a **visita inteira** será retornada.
-   - Se o visitante nunca tivesse feito uma ocorrência que contivesse &quot;Exemplo&quot;, nenhuma ocorrência retornaria &quot;true&quot; e, portanto, esse visitante **não seria retornado** no seu conjunto de dados.
+  - Se **qualquer** ocorrência feita pelo visitante retornar **true**, então a **visita inteira** será retornada.
+  - Se o visitante nunca tivesse feito uma ocorrência que contivesse &quot;Exemplo&quot;, nenhuma ocorrência retornaria &quot;true&quot; e, portanto, esse visitante **não seria retornado** no seu conjunto de dados.
 - Novamente, em cada ocorrência, &quot;Exemplo&quot; contém &quot;Exemplo&quot; (sim), portanto, retorna verdadeiro.
-   - Se **qualquer ocorrência** retornar **true**, todo o visitante (e subsequentemente todas as suas visitas) será **excluído.**
-   - Se **todas as ocorrências** na visita retornarem **false**, esse visitante será retornado em seu conjunto de dados, retornando com êxito os visitantes que não fizeram &quot;X&quot;.
+  - Se **qualquer ocorrência** retornar **true**, todo o visitante (e subsequentemente todas as suas visitas) será **excluído.**
+  - Se **todas as ocorrências** na visita retornarem **false**, esse visitante será retornado em seu conjunto de dados, retornando com êxito os visitantes que não fizeram &quot;X&quot;.
 - Essa é uma extensão da lógica de visita, em que há ainda mais considerações. No exemplo acima, há dois visitantes distintos, com 3 visitas cada:
-   - Ao usar &quot;Não contém / Igual&quot; **ambos** os visitantes serão retornados, assim como todos **três** de suas visitas (considerando 2 visitantes e 6 total de visitas em seus relatórios)
-   - Ao usar &quot;Excluir contém / é igual a&quot; **somente um** desses visitantes será retornado e somente as três visitas associadas a esse visitante serão incluídas (considerando 1 visitante e o total de 3 visitas em seus relatórios)
+  - Ao usar &quot;Não contém / Igual&quot; **ambos** os visitantes serão retornados, assim como todos **três** de suas visitas (considerando 2 visitantes e 6 total de visitas em seus relatórios)
+  - Ao usar &quot;Excluir contém / é igual a&quot; **somente um** desses visitantes será retornado e somente as três visitas associadas a esse visitante serão incluídas (considerando 1 visitante e o total de 3 visitas em seus relatórios)
 
 >[!TIP]
 >
@@ -260,31 +279,31 @@ Digamos que temos duas eVars, uma delas está definida para expiração de visit
 **Visita 1**
 
 - Página A
-   - **eVar1** não está definido
-   - **eVar2** não está definido
+  - **eVar1** não está definido
+  - **eVar2** não está definido
 - Clique no banner promocional com ?icid=promo-banner no URL
 - Página B
-   - **eVar1** e **eVar2** estão definidos como &quot;banner promocional&quot;
-   - **Instância de eVar1** acionada
-   - **Instância de eVar2** acionada
+  - **eVar1** e **eVar2** estão definidos como &quot;banner promocional&quot;
+  - **Instância de eVar1** acionada
+  - **Instância de eVar2** acionada
 - Página C
-   - O **eVar1** e o **eVar2** mantêm o valor &quot;promo-banner&quot;
-   - Nenhuma das métricas de instância para eVars é acionada, pois ambas as eVars estão usando valores persistentes
+  - O **eVar1** e o **eVar2** mantêm o valor &quot;promo-banner&quot;
+  - Nenhuma das métricas de instância para eVars é acionada, pois ambas as eVars estão usando valores persistentes
 
 **Visita 2**
 
 - Página D
-   - **eVar1** não está definida com nenhum valor e nenhuma **Instância do eVar1** foi acionada
-   - **eVar2** mantém o valor de &quot;banner promocional&quot; devido à expiração de 30 dias
-   - A **Instância de eVar2** não foi disparada, pois o valor é persistente e não está definido
+  - **eVar1** não está definida com nenhum valor e nenhuma **Instância do eVar1** foi acionada
+  - **eVar2** mantém o valor de &quot;banner promocional&quot; devido à expiração de 30 dias
+  - A **Instância de eVar2** não foi disparada, pois o valor é persistente e não está definido
 - Clique na promoção do painel lateral com ?icid=promo-side-rail no URL
 - Página E
-   - **eVar1** e **eVar2** estão definidos como &quot;painel lateral promocional&quot;
-   - **Instância de eVar1** acionada
-   - **Instância de eVar2** acionada
+  - **eVar1** e **eVar2** estão definidos como &quot;painel lateral promocional&quot;
+  - **Instância de eVar1** acionada
+  - **Instância de eVar2** acionada
 - Página F
-   - O **eVar1** e o **eVar2** mantêm o valor &quot;promo-side-rail&quot;
-   - Nenhuma das métricas de instância para eVars é acionada, pois ambas as eVars estão usando valores persistentes
+  - O **eVar1** e o **eVar2** mantêm o valor &quot;promo-side-rail&quot;
+  - Nenhuma das métricas de instância para eVars é acionada, pois ambas as eVars estão usando valores persistentes
 
 Atualmente, este é o resultado esperado dessas duas visitas:
 

@@ -1,26 +1,36 @@
 ---
-title: Dicas e truques para auditar uma instância  [!DNL Marketo Engage]  herdada
-description: Saiba como otimizar e dimensionar uma instância  [!DNL Marketo Engage]  ativa herdada.
+title: Dicas e truques para auditar uma instância [!DNL Marketo Engage] herdada
+description: Saiba como otimizar e dimensionar uma instância [!DNL Marketo Engage] ativa herdada.
 solution: Marketo Engage
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 exl-id: 3125e813-7d39-4403-922f-5a55bcbbbf95
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '284'
 ht-degree: 0%
-
 ---
-
 # Dicas e truques para auditar uma instância [!DNL Marketo Engage] herdada
 
-*Source: Adobe Marketo Champions*
+*Source: especialistas em Marketo da Adobe*
 
 Se você herdar uma instância [!DNL Marketo Engage] ao vivo que foi gerenciada por várias pessoas, poderá ficar fazendo anotações mentais de tudo que parecer deslocado. É importante organizar o trabalho de limpeza e otimização categorizando as tarefas e priorizando as tarefas que percorrem um longo caminho.
 
@@ -37,7 +47,7 @@ Este tutorial &quot;Dicas e truques de auditoria de instância herdada&quot;, pr
 * **[Desenvolver um guia de governança de instância](/help/marketo-tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
   *Saiba como obter ganhos rápidos de eficiência para otimizar as operações de compilação de programa, governança e marketing em geral*
 
-* **[Mapear visualmente sua pilha de tecnologia de marketing](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
+* **[Mapear visualmente sua pilha técnica de marketing](/help/marketo-tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
   *Saiba como mapear fontes de dados com um diagrama de arquitetura visual para entender sua pilha de tecnologia*
 
 * **[Processo de garantia de qualidade (QA) de pré-lançamento do programa](/help/marketo-tutorial-inherited-instance/essential-program-pre-launch-qa.md)**
