@@ -4,10 +4,8 @@ description: Notas e elementos visuais reutilizados para observar um recurso ou 
 source-git-commit: 80fc3ded085ce416e9a26aec96f1293701f7d268
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
-
+ht-degree: 1%
 ---
-
 # Trechos
 
 ## Amy Chiu {#amy-chiu}
@@ -20,7 +18,7 @@ ht-degree: 0%
 
 ![Naomi Liu](/help/marketo-tutorial-implementing-new-instance/assets/naomi-liu.png){width="150"}
 
-**Naomi Liu**, Director, Operações Globais de Marketing, Eletrônicos para Imagens (EFI)
+**Naomi Liu**, Diretora, Operações Globais de Marketing, Eletrônicos para Imagem (EFI)
 
 ## Natalie Kremer {#natalie-kremer}
 
