@@ -83,7 +83,7 @@ O mais poderoso das soluções [!DNL Adobe] de experiência digital (DX)? Você.
 
 ## Recursos adicionais
 
-* [Comunidades Experience League](https://experienceleaguecommunities.adobe.com/?profile.language=pt)
+* [Comunidades Experience League](https://experienceleaguecommunities.adobe.com/?profile.language=pt&lang=pt)
 * [Documentação da Experience Cloud](https://experienceleague.adobe.com/docs/?lang=pt-BR)
 * [Tutoriais da Experience Cloud](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=pt-BR)
 * [business.adobe.com](https://business.adobe.com/br)
