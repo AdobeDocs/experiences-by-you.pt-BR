@@ -42,7 +42,7 @@ ht-degree: 2%
 
 Dê uma olhada nessas dicas de seu colega técnico, Rakesh Pasupuleti. Rakesh é um defensor do Experience Manager [!DNL Adobe] e explica como navegar e entender a interface do usuário de [!DNL Cloud Manager].
 
->[!VIDEO](https://video.tv.adobe.com/v/3419298?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506899?captions=por_br&quality=12&learn=on)
 
 ## Recursos adicionais {#additional-resources}
 

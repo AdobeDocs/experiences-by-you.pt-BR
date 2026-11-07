@@ -48,7 +48,7 @@ O manual de integração ajudará você a assumir o controle como um novo admini
 
 Dê uma olhada nessas dicas de seu colega técnico, Rakesh Pasupuleti. Rakesh é um defensor do Experience Manager [!DNL Adobe] e compartilha ideias sobre como usar o manual de integração.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506881?captions=por_br&quality=12&learn=on)
 
 ## Recursos adicionais {#additional-resources}
 
