@@ -1,23 +1,21 @@
 ---
-user-guide-title: 'Tutorial - Dicas e truques para implementar uma nova instância  [!DNL Marketo Engage] '
-user-guide-description: 'Tutorial - Dicas e truques para implementar uma nova instância  [!DNL Marketo Engage] '
-breadcrumb-title: 'Implementando uma nova instância  [!DNL Marketo Engage] '
+user-guide-title: Tutorial - Dicas e truques para implementar uma nova instância do [!DNL Marketo Engage]
+user-guide-description: Tutorial - Dicas e truques para implementar uma nova instância do [!DNL Marketo Engage]
+breadcrumb-title: Implementando uma nova instância [!DNL Marketo Engage]
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-    internal-label: Marketo Engage
+    internal-label: "Marketo Engage"
 usetq: true
 auto-video-transcripts: true
 source-git-commit: 972bec0709619acbf8d59d468e20f967a85f8069
 workflow-type: tm+mt
-source-wordcount: 97
-ht-degree: 7%
-
+source-wordcount: '100'
+ht-degree: 15%
 ---
-
 
 # Dicas e truques para implementar uma nova instância do [!DNL Marketo Engage] {#implementing-new-instance}
 
